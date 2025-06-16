@@ -39,7 +39,7 @@ tags: ["IT", "Startup"]
 links:
   - {label: "公式サイト", url: "https://infinity.co.jp"}
 summary: >
-  2018年設立のITスタートアップ。AI・モバイルアプリ開発を主軸とする。
+  2022年設立。AI・モバイルアプリ開発を主軸とする。
 ---
 
 ## 概要

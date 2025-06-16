@@ -23,3 +23,12 @@ NHK Eテレで放送されている若者向け番組です。若者を中心と
 - 番組内容: "沼にハマった"10代の若者たちの多種多様なる世界を深く掘り下げる
 
 ※上記は2021年当時の情報で、現在は放送枠やMCが変更されている可能性があります。
+
+## 関連活動・プロジェクト
+
+```dataview
+LIST
+FROM #activity OR #project
+WHERE contains(orgs, "nhk_hamatta") OR contains(orgs, this.file.name)
+SORT start_date DESC
+```
