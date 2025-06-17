@@ -18,5 +18,10 @@ summary: |
 
 これは、校内創立記念弁論大会で発表した「新時代の文化」というテーマの弁論を寄稿したものです。
 
+## 掲載内容
+![学友 表紙](../../../../linked_assets/20_Activities/Publications/gakuyu_2020_vol1_ssc_article/assets/gakuyu_cover.jpg)
+![学友 掲載ページ1](../../../../linked_assets/20_Activities/Publications/gakuyu_2020_vol1_ssc_article/assets/gakuyu_page_1.jpg)
+![学友 掲載ページ2](../../../../linked_assets/20_Activities/Publications/gakuyu_2020_vol1_ssc_article/assets/gakuyu_page_2.jpg)
+
 ## 関連
 - [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]] 

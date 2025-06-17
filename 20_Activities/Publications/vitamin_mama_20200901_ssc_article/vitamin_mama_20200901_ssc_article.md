@@ -16,5 +16,10 @@ summary: |
 ## 概要
 地域のファミリー向け情報誌「ビタミンママ」のVol.86（2020年9月1日発行）に、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020での受賞]]に関する記事が掲載されました。
 
+## 掲載内容
+![ビタミンママ 表紙](../../../../linked_assets/20_Activities/Publications/vitamin_mama_20200901_ssc_article/assets/vitamin_mama_cover.jpg)
+![ビタミンママ 記事スキャン](../../../../linked_assets/20_Activities/Publications/vitamin_mama_20200901_ssc_article/assets/vitamin_mama_article_scan.jpg)
+![ビタミンママ 全ページスキャン](../../../../linked_assets/20_Activities/Publications/vitamin_mama_20200901_ssc_article/assets/vitamin_mama_full_page_scan.jpg)
+
 ## 関連
 - [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]] 

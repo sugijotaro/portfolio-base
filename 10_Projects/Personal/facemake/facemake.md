@@ -36,6 +36,13 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 - **サウンド**: BGMにも和風の音楽を選定し、アプリ全体の雰囲気作りを重視しました。
 - **グローバル対応**: 海外の審査員にも遊び方が伝わるよう、丁寧な英語のチュートリアル画面を用意しました。
 
+## スクリーンショット
+![Screenshot 1](../../../linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_1.jpg)
+![Screenshot 2](../../../linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_2.jpg)
+![Screenshot 3](../../../linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_3.jpg)
+![Screenshot 4](../../../linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_4.jpg)
+![Screenshot 5](../../../linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_5.jpg)
+
 ## 受賞と影響
 本プロジェクトでの受賞は、[[20_Activities/Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
 

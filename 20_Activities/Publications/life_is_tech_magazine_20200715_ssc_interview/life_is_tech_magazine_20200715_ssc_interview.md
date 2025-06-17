@@ -29,6 +29,8 @@ summary: |
 
 ものづくりが好きだった幼少期から、Life is Tech!のキャンプやスクールでプログラミングの腕を磨いていった経緯、そしてSwift Student Challengeでの受賞について語っています。
 
+![記事プレビュー](../../../../linked_assets/20_Activities/Publications/life_is_tech_magazine_20200715_ssc_interview/assets/life_is_tech_magazine_preview.jpg)
+
 ## インタビューの要点
 - **プログラミングとの出会い**:
     - 幼少期からのものづくりへの興味。
