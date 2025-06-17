@@ -18,6 +18,7 @@ links:
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_p4l7fegng?si=iid_agFHLIdT5L1_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # 黒板アート新年企画 概要
 
 地理部「ブラチリブ」では、新年一発目の企画として、これまで訪れた場所を黒板に描く「黒板アート」企画を実施しました。

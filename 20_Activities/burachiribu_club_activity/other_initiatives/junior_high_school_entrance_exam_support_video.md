@@ -19,6 +19,7 @@ links:
   - https://youtu.be/YHYCAC8KM6w
 summary: 地理部「ブラチリブ」による中学受験生応援動画制作の記録。
 ---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YHYCAC8KM6w?si=hqapdEdHWpXst1hl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # 中学受験生応援動画 概要
 
