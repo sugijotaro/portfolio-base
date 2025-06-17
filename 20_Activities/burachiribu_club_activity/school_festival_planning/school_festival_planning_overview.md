@@ -1,0 +1,57 @@
+---
+id: school_festival_planning_overview
+title: ブラチリブ 学園祭企画 概要
+type: activity
+subtype: school_festival_overview
+status: completed
+role:
+  - 部長
+  - 企画
+  - 展示制作
+orgs:
+  - org_high_school_geography_club
+start_date: 2019-01-01
+tags:
+  - 学園祭
+  - 企画
+  - 展示
+links: []
+summary: 地理部「ブラチリブ」による学園祭での企画・展示活動の全体像をまとめたノート。
+---
+# 学園祭企画 概要
+
+地理部「ブラチリブ」では、毎年の学園祭で革新的な展示や企画を実施し、来場者や部員に新しい体験を提供してきました。
+
+## 2019年 学園祭 ARクイズアプリ「部長とクイズバトル」
+
+- AR技術を活用したクイズアプリをゼロから開発し、学園祭で来場者に体験してもらいました。
+- 人気投票ではそれまでの歴史を塗り替えて1位を獲得しました。
+- 詳細は [[2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]] および [[../../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle|プロジェクト詳細]] を参照。
+- ![2019年学園祭ポスター 部長とクイズバトル](../assets/gakuensai_poster_quizbattle.jpg)
+- ![部長とクイズバトルプレイの様子](../assets/quizbattle_play_scene.jpg)
+- ![部長とクイズバトルをプレイするお客さんたち](../assets/quizbattle_customers.jpg)
+
+## 2020年 学園祭 オンライン展示「ブラチリブONLINE」
+
+- コロナ禍で学園祭がオンライン開催となり、バーチャルSNS「cluster」を活用した3D空間での展示を企画・制作しました。
+- プロモーションビデオの構想から絵コンテ、撮影、編集、投稿まで全て自分で行い、部員や視聴者にイメージを共有しました。
+- 3Dワールド制作では、部員一人一人の特技を生かした仕事を分担し、全員で1つの作品を完成させました。
+- ワールド内には活動史博物館、クイズ研究所、イベントステージなどを設置。
+- ![2020年学園祭 ブラチリブONLINE ロゴ](../assets/online_logo_2020.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ1](../assets/online_sketch_1.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ2](../assets/online_sketch_2.jpg)
+- ![ブラチリブONLINE 実際の会場の様子](../assets/online_venue_2025.jpg)
+- ![ブラチリブONLINE PV絵コンテ](../assets/online_pv_storyboard_2025.jpg)
+
+## その他の展示・工夫
+
+- 地名展や動画上映、来場者参加型のクイズ、記念写真スペースなど、毎年新しいアイデアを盛り込んだ展示を実施しました。
+- ![2019年学園祭ポスター 地名展](../assets/gakuensai_poster_chimeiten.jpg)
+- ![ブラチリブの動画を鑑賞するお客さんたち](../assets/burachiribu_video_customers.jpg)
+- ![地名の由来について解説している教室内の模造紙](../assets/chimeiten_poster_classroom.jpg)
+- ![記念写真が撮れる写真スペース](../assets/photo_spot.jpg)
+
+## チーム運営の工夫
+
+- 部員の特技や興味を生かして役割分担し、全員が主体的に参加できる体制を作りました。
+- 企画から実施まで一貫してリーダーシップを発揮し、全体をまとめ上げました。 
