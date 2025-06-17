@@ -9,12 +9,13 @@ role:
   - 記事執筆
 orgs:
   - org_high_school_geography_club
-start_date: 2018-11-01
+start_date: 2018-10-01
 tags:
   - 新聞
   - 編集
   - 発信
-links: 
+links:
+  - https://drive.google.com/drive/folders/1MrIoVWPqcHykcmGArWzKvkz3fV2dVHnU
 summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」発行活動の記録。
 ---
 
@@ -36,6 +37,24 @@ summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」�
 ## 画像ギャラリー
 
 新聞「ブラチリブNEWS」紙面1
-![ブラチリブNEWS 紙面1](../assets/burachiribu_news_1.jpg)
+![ブラチリブNEWS 紙面1](./assets/burachiribu_news_1.jpg)
 新聞「ブラチリブNEWS」紙面2
-![ブラチリブNEWS 紙面2](../assets/burachiribu_news_2.jpg) 
+![ブラチリブNEWS 紙面2](./assets/burachiribu_news_2.jpg)
+新聞「ブラチリブNEWS」紙面3
+![ブラチリブNEWS 紙面3](./assets/burachiribu_news_3.jpg)
+新聞「ブラチリブNEWS」紙面4
+![ブラチリブNEWS 紙面4](./assets/burachiribu_news_4.jpg)
+新聞「ブラチリブNEWS」紙面5
+![ブラチリブNEWS 紙面5](./assets/burachiribu_news_5.jpg)
+新聞「ブラチリブNEWS」紙面6
+![ブラチリブNEWS 紙面6](./assets/burachiribu_news_6.jpg)
+新聞「ブラチリブNEWS」紙面7
+![ブラチリブNEWS 紙面7](./assets/burachiribu_news_7.jpg)
+新聞「ブラチリブNEWS」紙面8
+![ブラチリブNEWS 紙面8](./assets/burachiribu_news_8.jpg)
+新聞「ブラチリブNEWS」紙面9
+![ブラチリブNEWS 紙面9](./assets/burachiribu_news_9.jpg)
+新聞「ブラチリブNEWS」紙面10
+![ブラチリブNEWS 紙面10](./assets/burachiribu_news_10.jpg)
+新聞「ブラチリブNEWS」紙面11
+![ブラチリブNEWS 紙面11](./assets/burachiribu_news_11.jpg)
