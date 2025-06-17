@@ -39,9 +39,7 @@ Appleが毎年開催するWWDC（Worldwide Developers Conference）の一環と�
 ## 成果物
 - [[facemake|プロジェクト「Face Make!」の詳細]]
 - **Appleからの賞状**:
-  ![Appleからいただいた賞状](/.attachments/apple_award_certificate_ssc2020.jpg)
-
-*（注: 画像は `linked_assets/20_Activities/Awards/swift_student_challenge_2020/assets/` に格納することを想定）*
+  ![Appleからいただいた賞状](../../../linked_assets/20_Activities/Awards/swift_student_challenge_2020/assets/apple_award_certificate_ssc2020.jpg)
 
 ## 関連活動・メディア掲載
 この受賞に伴い、複数のメディアから取材を受けました。
