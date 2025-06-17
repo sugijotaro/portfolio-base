@@ -48,7 +48,7 @@ summary: 中学1年時に活動停止中だった地理部を再生させ、4年
 - [[school_festival_planning/school_festival_planning_overview|学園祭企画]]: 革新的な展示や企画で学園祭を盛り上げました。
     - [[school_festival_planning/2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]]（→ [[../../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle|プロジェクト詳細]])
     - [[school_festival_planning/2020_burachiribu_online_planning|2020年オンライン展示企画]]
-- [[other_initiatives/high_school_entrance_exam_support_video|中学受験生応援動画]]
+- [[other_initiatives/junior_high_school_entrance_exam_support_video.md|中学受験生応援動画]]
 - [[other_initiatives/blackboard_art_new_year_project|黒板アート新年企画]]
 
 ## 得られた経験
