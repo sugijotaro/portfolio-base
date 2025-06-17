@@ -1,0 +1,53 @@
+---
+title: Apple Swift Student Challenge 2020 入賞
+type: activity
+subtype: award
+status: completed
+role:
+  - 受賞者
+  - アプリ開発者
+orgs:
+  - apple
+date: 2020-06-16
+tags:
+  - Apple
+  - WWDC
+  - Swift
+  - Student
+  - Challenge
+  - プログラミングコンテスト
+  - 受賞
+  - iOS
+  - Swift
+  - 高校生
+related_projects:
+  - swift_student_challenge_2020_facemake
+summary: |
+  Appleが開催する世界中の学生向けプログラミングコンテスト「Swift Student Challenge 2020」において、福笑いをモチーフにしたSwift Playground作品「Face Make!」で日本人として唯一入賞しました。
+---
+## 概要
+Appleが毎年開催するWWDC（Worldwide Developers Conference）の一環として、2020年にオンラインで開催された学生向けプログラミングコンテスト「Swift Student Challenge」に応募しました。
+
+提出したプロジェクト[[facemake|Face Make!]]が評価され、41の国と地域から選出された350人の受賞者のうち、日本人として唯一の入賞を果たしました。
+
+## 受賞内容と意義
+- **コンテスト**: Swift言語を用い、3分以内で体験できるインタラクティブなSwift Playground作品を制作するコンテスト。
+- **提出作品**: [[facemake|Face Make!]]
+- **評価**: 特に革新的でクリエイティブな作品を手がけたとして選出。
+- **意義**: 自身のアイデア（日本の文化）を実装し、グローバルな舞台で発信・評価された経験は、その後の活動に大きな自信と影響を与えました。
+
+## 成果物
+- [[facemake|プロジェクト「Face Make!」の詳細]]
+- **Appleからの賞状**:
+  ![Appleからいただいた賞状](/.attachments/apple_award_certificate_ssc2020.jpg)
+
+*（注: 画像は `linked_assets/20_Activities/Awards/swift_student_challenge_2020/assets/` に格納することを想定）*
+
+## 関連活動・メディア掲載
+この受賞に伴い、複数のメディアから取材を受けました。
+- [[20_Activities/Publications/mynavi_news_20200616_ssc_interview/mynavi_news_20200616_ssc_interview|マイナビニュース]]
+- [[20_Activities/Publications/life_is_tech_magazine_20200715_ssc_interview/life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
+- [[20_Activities/Publications/vitamin_mama_20200901_ssc_article/vitamin_mama_20200901_ssc_article|ビタミンママ]]
+- [[gakuyu_2020_vol1_ssc_article|学友（校内誌）]]
+- [[nhk_numa_appearance|NHK Eテレ『沼にハマってきいてみた』]]
+- 校内創立記念弁論大会での入賞

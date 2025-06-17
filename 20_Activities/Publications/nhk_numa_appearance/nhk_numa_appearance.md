@@ -30,7 +30,7 @@ Apple主催「Swift Student Challenge」への入賞や、部活動でのアプ�
 番組内では以下の内容が放送されました。
 
 1. Apple主催「Swift Student Challenge」に日本人で唯一入賞:
-- [[10_Projects/Personal/swift_student_challenge_2020_facemake/swift_student_challenge_2020_facemake|福笑いアプリでの受賞]]について紹介されました。
+- [[facemake|福笑いアプリでの受賞]]について紹介されました。
 2. 部活で独自開発したARクイズアプリ:
 - 地理部で開発した[[10_Projects/Personal/ar_quiz_battle/ar_quiz_battle|「部長とクイズバトル」]]の紹介と、学園祭での反響（人気投票1位）などが取り上げられました。
 3. 番組MCサバンナ高橋さんにプログラミング伝授:
