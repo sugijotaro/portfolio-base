@@ -21,3 +21,11 @@ APIや静的サイト等のデータソースとしても活用できる設計�
 1. 全ノートに**共通Frontmatter**（YAML）を記述してください。
 2. 画像やPDFは各ノート直下の`assets/`または`90_Assets/`に格納してください。
 3. DataviewやAPIなどの自動抽出を考慮した命名・タグ設計を意識してください。
+
+## アセット管理ルール
+
+- 画像（.jpg, .jpeg, .png, .gif）は、原則として直接コミット・プッシュしてよい。
+- 動画（.mp4, .mov等）やPDF等の大容量ファイルは、**10MB以上の場合は必ずGit LFSで管理**すること。
+- すべてのバイナリアセットは portfolio-base-assets リポジトリ（サブモジュール名: linked_assets）で一元管理する。
+- 新規アセット追加時は、linked_assetsリポジトリに追加・コミット・プッシュし、その後portfolio-base側でサブモジュールを更新・コミットすること。
+- サブモジュールを含むリポジトリのクローンは`git clone --recurse-submodules`を推奨。既存リポジトリは`git submodule update --init --recursive`でサブモジュール取得。

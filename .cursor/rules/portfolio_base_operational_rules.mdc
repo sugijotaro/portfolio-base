@@ -77,3 +77,12 @@ alwaysApply: true
 - 日付やタグなどを曖昧に書かない。定義された形式やタグリストを参照すること。
 
 以上を常に遵守してください。
+
+# アセット管理ルール
+
+- 画像（.jpg, .jpeg, .png, .gif）は、原則として直接コミット・プッシュしてよい。
+- 動画（.mp4, .mov等）やPDF等の大容量ファイルは、**10MB以上の場合は必ずGit LFSで管理**すること。
+- すべてのバイナリアセットは portfolio-base-assets リポジトリ（サブモジュール名: linked_assets）で一元管理する。
+- 新規アセット追加時は、linked_assetsリポジトリに追加・コミット・プッシュし、その後portfolio-base側でサブモジュールを更新・コミットすること。
+- サブモジュールを含むリポジトリのクローンは`git clone --recurse-submodules`を推奨。既存リポジトリは`git submodule update --init --recursive`でサブモジュール取得。
+- Git LFSを利用するファイルタイプ・容量制限はREADMEにも明記すること。
