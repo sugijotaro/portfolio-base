@@ -22,15 +22,17 @@ summary: 地理部「ブラチリブ」による学園祭での企画・展示�
 地理部「ブラチリブ」では、毎年の学園祭で革新的な展示や企画を実施し、来場者や部員に新しい体験を提供してきました。
 
 ## 2019年 学園祭 ARクイズアプリ「部長とクイズバトル」
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Su8X4bufqe4?si=2V2pMESUN8AA9HTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - AR技術を活用したクイズアプリをゼロから開発し、学園祭で来場者に体験してもらいました。
 - 人気投票ではそれまでの歴史を塗り替えて1位を獲得しました。
-- 詳細は [[2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]] および [[../../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle|プロジェクト詳細]] を参照。
+- 詳細は [[2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]] を参照。
 - ![2019年学園祭ポスター 部長とクイズバトル](../assets/gakuensai_poster_quizbattle.jpg)
 - ![部長とクイズバトルプレイの様子](../assets/quizbattle_play_scene.jpg)
 - ![部長とクイズバトルをプレイするお客さんたち](../assets/quizbattle_customers.jpg)
 
 ## 2020年 学園祭 オンライン展示「ブラチリブONLINE」
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9x7msUaMrM?si=MMSh6sUG9GSB_jQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - コロナ禍で学園祭がオンライン開催となり、バーチャルSNS「cluster」を活用した3D空間での展示を企画・制作しました。
 - プロモーションビデオの構想から絵コンテ、撮影、編集、投稿まで全て自分で行い、部員や視聴者にイメージを共有しました。
