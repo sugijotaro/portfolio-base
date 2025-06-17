@@ -1,5 +1,4 @@
 ---
-id: project_swift_student_challenge_2020_facemake
 title: Swift Student Challenge 2020 受賞作 (福笑いアプリ)
 type: project
 subtype: personal

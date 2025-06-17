@@ -1,5 +1,4 @@
 ---
-id: proj_2025_expo_event_app
 title: 大阪万博イベント公式アプリ
 type: project
 subtype: client

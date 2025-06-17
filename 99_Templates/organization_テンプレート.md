@@ -1,5 +1,4 @@
 ---
-id: ""
 title: ""
 type: org
 subtype: company | university | community | team

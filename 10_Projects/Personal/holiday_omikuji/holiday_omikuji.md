@@ -1,5 +1,4 @@
 ---
-id: project_holiday_omikuji
 title: 休日おみくじアプリ
 type: project
 subtype: personal

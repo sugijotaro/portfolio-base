@@ -1,5 +1,4 @@
 ---
-id: activity_nhk_numa_appearance
 title: NHK Eテレ『沼にハマってきいてみた』「スマホアプリ沼」出演
 type: activity
 subtype: media_appearance

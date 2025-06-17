@@ -1,5 +1,4 @@
 ---
-id: org_nhk_hamatta
 title: NHK Eテレ「沼にハマってきいてみた」
 type: organization
 subtype: tv_program

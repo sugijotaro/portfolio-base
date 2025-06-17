@@ -1,18 +1,25 @@
 ---
-id: "project_simple_calculator_demo_for_tv"
-title: "番組デモ用 足し算・引き算アプリ"
-type: "project"
-subtype: "demonstration"
-status: "completed"
-role: ["開発者", "解説者"]
-orgs: ["nhk_hamatta"]
+title: 番組デモ用 足し算・引き算アプリ
+type: project
+subtype: demonstration
+status: completed
+role:
+  - 開発者
+  - 解説者
+orgs:
+  - nhk_hamatta
 start_date: ""
 end_date: 2021-05-18
-tags: ["iOS", "Swift", "Xcode", "教育デモ", "テレビ"]
-summary: >
+tags:
+  - iOS
+  - Swift
+  - Xcode
+  - 教育デモ
+  - テレビ
+summary: |
   NHK Eテレ『沼にハマってきいてみた』番組内で、MCのサバンナ高橋さんにプログラミングを体験してもらうために用意した簡単な足し算・引き算iOSアプリ。
 media_features:
-  - "activity_nhk_numa_20210518"
+  - activity_nhk_numa_20210518
 ---
 ## 概要
 NHK Eテレ『沼にハマってきいてみた』番組内で、MCのサバンナ高橋さんにプログラミングを体験してもらうために用意した簡単な足し算・引き算iOSアプリです。
