@@ -1,5 +1,4 @@
 ---
-id: school_festival_planning_overview
 title: ブラチリブ 学園祭企画 概要
 type: activity
 subtype: school_festival_overview
@@ -15,7 +14,7 @@ tags:
   - 学園祭
   - 企画
   - 展示
-links: []
+links: 
 summary: 地理部「ブラチリブ」による学園祭での企画・展示活動の全体像をまとめたノート。
 ---
 # 学園祭企画 概要

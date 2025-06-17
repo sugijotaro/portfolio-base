@@ -1,5 +1,4 @@
 ---
-id: newspaper_burachiribu_news
 title: ブラチリブ新聞「ブラチリブNEWS」発行
 type: activity
 subtype: newspaper
@@ -15,7 +14,7 @@ tags:
   - 新聞
   - 編集
   - 発信
-links: []
+links: 
 summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」発行活動の記録。
 ---
 

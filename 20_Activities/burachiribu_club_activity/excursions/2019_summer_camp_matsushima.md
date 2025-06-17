@@ -1,5 +1,4 @@
 ---
-id: 2019_summer_camp_matsushima
 title: 2019年夏合宿・宮城松島
 type: activity
 subtype: excursion_event
@@ -16,7 +15,7 @@ tags:
   - 松島
   - 宮城
   - 体験
-links: []
+links: 
 summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ---
 

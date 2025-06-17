@@ -1,5 +1,4 @@
 ---
-id: 2020_burachiribu_online_planning
 title: 2020年学園祭オンライン展示企画
 type: activity
 subtype: school_festival_event
@@ -16,7 +15,7 @@ tags:
   - オンライン
   - 3D
   - 企画
-links: []
+links: 
 summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」企画・運営の記録。
 ---
 # 2020年学園祭オンライン展示企画

@@ -1,5 +1,4 @@
 ---
-id: burachiribu_excursions_overview
 title: ブラチリブ 観光・巡検活動 概要
 type: activity
 subtype: excursions_overview
@@ -16,7 +15,7 @@ tags:
   - 旅行
   - 地理
   - 体験学習
-links: []
+links: 
 summary: 地理部「ブラチリブ」における観光・巡検活動の全体像と方針、主な成果をまとめたノート。
 ---
 # 観光・巡検活動 概要

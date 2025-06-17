@@ -1,5 +1,4 @@
 ---
-id: blackboard_art_new_year_project
 title: 黒板アート新年企画
 type: activity
 subtype: blackboard_art
@@ -15,7 +14,7 @@ tags:
   - 黒板アート
   - 企画
   - 表現
-links: []
+links: 
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: 2019_ar_quiz_battle_planning
 title: 2019年学園祭ARクイズアプリ企画
 type: activity
 subtype: school_festival_event

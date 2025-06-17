@@ -28,7 +28,6 @@ alwaysApply: true
  - これにより、各アイテムの「エントリーポイント」となるファイルが明確になります。
 4.  全ノートに Frontmatter（YAML）を記述すること
  - 必須項目は以下（最低限これだけは必ず記述）：
-   - id
    - title
    - type
    - subtype

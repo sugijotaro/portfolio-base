@@ -1,5 +1,4 @@
 ---
-id: 2018_summer_camp_kyocera_interview
 title: 2018年夏合宿・京セラインタビュー
 type: activity
 subtype: excursion_event
@@ -16,7 +15,7 @@ tags:
   - インタビュー
   - 京セラ
   - 体験
-links: []
+links: 
 summary: 2018年夏合宿での京セラインタビューや各種体験活動の詳細記録。
 ---
 # 2018年夏合宿・京セラインタビュー

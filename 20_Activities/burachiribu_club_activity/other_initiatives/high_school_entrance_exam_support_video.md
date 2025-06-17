@@ -1,5 +1,4 @@
 ---
-id: high_school_entrance_exam_support_video
 title: 中学受験生応援動画企画
 type: activity
 subtype: support_video
@@ -15,7 +14,7 @@ tags:
   - 応援
   - 動画
   - 受験
-links: []
+links: 
 summary: 地理部「ブラチリブ」による中学受験生応援動画制作の記録。
 ---
 # 中学受験生応援動画 概要

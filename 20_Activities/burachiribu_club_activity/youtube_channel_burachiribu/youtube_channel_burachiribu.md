@@ -1,5 +1,4 @@
 ---
-id: youtube_channel_burachiribu
 title: ブラチリブ YouTubeチャンネル運営
 type: activity
 subtype: youtube_channel
