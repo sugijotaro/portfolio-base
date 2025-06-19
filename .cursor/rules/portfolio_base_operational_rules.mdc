@@ -85,3 +85,21 @@ alwaysApply: true
 - 新規アセット追加時は、linked_assetsリポジトリに追加・コミット・プッシュし、その後portfolio-base側でサブモジュールを更新・コミットすること。
 - サブモジュールを含むリポジトリのクローンは`git clone --recurse-submodules`を推奨。既存リポジトリは`git submodule update --init --recursive`でサブモジュール取得。
 - Git LFSを利用するファイルタイプ・容量制限はREADMEにも明記すること。
+
+## 画像の複数枚配置・横並びレイアウトについて
+
+- 画像を複数枚横並びで表示したい場合は、以下のHTML記法を推奨します。
+- 例：
+  ```html
+  <div style="display: flex; gap: 10px;">
+      <img src="パス1" alt="説明1" width="32%">
+      <img src="パス2" alt="説明2" width="32%">
+      <img src="パス3" alt="説明3" width="32%">
+  </div>
+  ```
+- ポイント：
+  - 必ず`<div style="display: flex; gap: ...;">`で囲み、`<img>`タグのwidthで横幅を調整してください。
+  - 画像パスは相対パスで記述し、alt属性も必ず設定してください。
+  - ObsidianやGitHubでのプレビュー時に横並び表示されない場合もありますが、HTMLとしてはこの形式を標準とします。
+  - Markdown純正の`![]()`記法は1枚画像や簡易用途向け、複数枚横並びは上記HTMLを推奨。
+
