@@ -44,7 +44,7 @@ alwaysApply: true
  tags: ["SwiftUI", "Firebase"]
  role: ["PM", "iOS Lead"]
  orgs: ["Infinity Inc.", "platform_nhk_numa_program"] # 組織IDやプラットフォームID
- links: # labelとurlのペアで記述することを推奨
+ links:
    - https://apps.apple.com/ja/app/xxxx
    - https://example.com/pr.pdf
  ```
@@ -56,7 +56,7 @@ alwaysApply: true
 
 1.  「自分が何を担当したか」「他の人の役割」など、具体的に記載すること
  - プロジェクト・活動の担当領域セクションで明記。
-2.  取材・講演・旅行・論文・資料などの外部リンクは必ず Frontmatter の`links:`フィールドに構造化して記載し、本文中でも必要に応じてリンクを明記すること。
+2.  取材・講演・旅行・論文・資料などの外部リンクは必ず Frontmatter の`links:`フィールドに記載し、本文中でも必要に応じてリンクを明記すること。
 3.  案件・活動・成果・学び・気づきなど、振り返りや今後の展望も含めて記録すること。
 4.  `status`フィールドで進行状況（例: `idea`, `planned`, `in_progress`, `completed`, `archived`）を適切に管理すること。
 5.  どのノートも「将来的に API やデータベースで検索・集計しやすい内容」になっているか常に意識すること。
