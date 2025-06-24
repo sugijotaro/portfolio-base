@@ -7,15 +7,15 @@ role:
   - ゲーム開発
   - 3Dモデリング
   - サウンド
-orgs: []
+orgs: 
 start_date: 2021-02-25
 end_date: 2021-02-28
 tags:
   - Unity
-  - C#
   - Blender
   - ゲームジャム
   - unity1week
+  - CSharp
 links:
   - https://unityroom.com/games/spinningball
   - https://apps.apple.com/jp/app/id6736353585
@@ -25,7 +25,7 @@ summary: |
 ## 概要
 ![Spinning Ball アイコン](../../../linked_assets/10_Projects/Personal/spinning_ball/assets/spinning_ball_icon.jpg)
 
-Unity1週間ゲームジャム（お題：「回」）への参加作品として、3日間という短期間で開発したゲームです。友人の間で流行っていたバスケットボール回しから着想を得ました。
+[[unity1week|Unity1週間ゲームジャム]]（お題：「回」）への参加作品として、3日間という短期間で開発したゲームです。友人の間で流行っていたバスケットボール回しから着想を得ました。
 この作品は、私にとって初めてインターネット上に公開したUnity製のゲームであり、ゲーム開発の経験における重要な一歩となりました。
 
 ![unity1week ロゴ](../../../linked_assets/10_Projects/Personal/spinning_ball/assets/unity1week_logo.jpg)
