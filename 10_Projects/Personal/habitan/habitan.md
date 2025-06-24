@@ -38,7 +38,14 @@ achievements:
 ## 反響
 友人や知人に加え、TwitterのDMを通じて面識のない方からも「いつも使っています」という感謝の言葉や、具体的な機能改善のフィードバックをいただきました。自分の作ったアプリが実際に人の役に立っていることを実感し、大きな喜びを感じる経験となりました。
 
-<div style="display: flex; gap: 10px;">
-    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_1.png" alt="Habitanスクリーンショット1" width="49%">
-    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_2.png" alt="Habitanスクリーンショット2" width="49%">
+<div style="display: flex; gap: 1px;">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_1.jpg" alt="Habitanスクリーンショット1" width="24%">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_2.jpg" alt="Habitanスクリーンショット2" width="24%">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_3.jpg" alt="Habitanスクリーンショット3" width="24%">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_4.jpg" alt="Habitanスクリーンショット4" width="24%">
+</div>
+<div style="display: flex; gap: 1px; margin-top: 4px;">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_5.jpg" alt="Habitanスクリーンショット5" width="24%">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_6.jpg" alt="Habitanスクリーンショット6" width="24%">
+    <img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_7.jpg" alt="Habitanスクリーンショット7" width="24%">
 </div>
