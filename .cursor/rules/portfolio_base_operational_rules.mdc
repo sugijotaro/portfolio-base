@@ -3,15 +3,17 @@ description:
 globs: 
 alwaysApply: true
 ---
-# portfolio-base運用ルール
+# portfolio-base 運用ルール
 
 ## 基本方針
+
 - `portfolio-base`は、杉山丈太郎の実績・活動・スキル・プロジェクト・知見を体系的に記録する知識ベースです。
-- Markdown形式+YAML Frontmatterによる半構造化データで統一します。
-- 将来的なAPI連携・自動抽出・可視化を必ず意識してください。
+- Markdown 形式+YAML Frontmatter による半構造化データで統一します。
+- 将来的な API 連携・自動抽出・可視化を必ず意識してください。
 
 ## ディレクトリ・ファイルに関するルール
-1. トップレベルディレクトリ構成は絶対に変更しないこと
+
+1.  トップレベルディレクトリ構成は絶対に変更しないこと
  - 00_Core/
  - 10_Projects/
  - 20_Activities/
@@ -20,54 +22,89 @@ alwaysApply: true
  - 90_Assets/
  - 99_Templates/
  - README.md
-2. 各ノートのエントリーポイントは必ずindex.mdとすること
- - プロジェクトやアクティビティなど1件ごとのフォルダ直下にindex.mdを必ず設置
-3. 全ノートにFrontmatter（YAML）を記述すること
+2.  各プロジェクト、活動、組織などの独立したアイテムは、対応するカテゴリのサブディレクトリ内に専用のフォルダを作成して管理すること。
+ - フォルダ名は、内容を具体的に示す一意なものとすること（例: `ar_quiz_battle`, `2021-05-18_nhk_numa_appearance`）。
+3.  各アイテムフォルダ内の主要な Markdown ドキュメントのファイル名は、原則としてそのフォルダ名と同じ名前とし、拡張子 `.md` を付与すること（例: `ar_quiz_battle/ar_quiz_battle.md`）。
+ - これにより、各アイテムの「エントリーポイント」となるファイルが明確になります。
+4.  全ノートに Frontmatter（YAML）を記述すること
  - 必須項目は以下（最低限これだけは必ず記述）：
-  - id
-  - title
-  - type
-  - subtype
-  - status
-  - role
-  - orgs
-  - start_date
-  - tags
-  - links
-  - summary
-4. 日付はISO8601形式（YYYY-MM-DD）で記載すること
-5. タグ・役割・組織名・リンクなど、配列要素は必ずYAMLリストで記載すること
-
-```
-tags: ["SwiftUI", "Firebase"]
-role: ["PM", "iOS Lead"]
-orgs: ["Infinity Inc.", "慶應義塾大学"]
-links:
-  - https://apps.apple.com/ja/app/xxxx
-  - https://example.com/pr.pdf
-```
-6. 画像や資料（PDFなど）は各案件・活動ごとのassets/サブディレクトリまたは90_Assets/に格納すること
- - 画像のファイル名は内容が分かりやすいものにする
-7. README.mdやテンプレートファイルも内容が古くならないよう定期的に更新すること
+   - title
+   - type
+   - subtype
+   - status
+   - role
+   - orgs
+   - start_date
+   - tags
+   - links
+   - summary
+5.  日付は ISO8601 形式（YYYY-MM-DD）で記載すること
+6.  タグ・役割・組織名・リンクなど、配列要素は必ず YAML リストで記載すること
+ ```yaml
+ tags: ["SwiftUI", "Firebase"]
+ role: ["PM", "iOS Lead"]
+ orgs: ["Infinity Inc.", "platform_nhk_numa_program"] # 組織IDやプラットフォームID
+ links:
+   - https://apps.apple.com/ja/app/xxxx
+   - https://example.com/pr.pdf
+ ```
+7.  画像や資料（PDF など）は各案件・活動ごとのフォルダ内に `assets/` サブディレクトリを作成して格納するか、`90_Assets/` ディレクトリに種類別に整理して格納すること。
+ - 画像のファイル名は内容が分かりやすいものにする。
+8.  `00_Core/README.md` や `99_Templates/` 内のテンプレートファイルも内容が古くならないよう定期的に更新すること。
 
 ## 内容記述に関するルール
-1. 「自分が何を担当したか」「他の人の役割」など、具体的に記載すること
- - プロジェクト・活動の担当領域セクションで明記
-2. 取材・講演・旅行・論文・資料などの外部リンクは必ずlinksに記載し、本文中でもリンクを明記すること
-3. 案件・活動・成果・学び・気づきなど、振り返りや今後の展望も含めて記録すること
-4. statusフィールドで進行状況（planned / in_progress / completed / archived）を適切に管理すること
-5. どのノートも「将来的にAPIやデータベースで検索・集計しやすい内容」になっているか常に意識すること
+
+1.  「自分が何を担当したか」「他の人の役割」など、具体的に記載すること
+ - プロジェクト・活動の担当領域セクションで明記。
+2.  取材・講演・旅行・論文・資料などの外部リンクは必ず Frontmatter の`links:`フィールドに記載し、本文中でも必要に応じてリンクを明記すること。
+3.  案件・活動・成果・学び・気づきなど、振り返りや今後の展望も含めて記録すること。
+4.  `status`フィールドで進行状況（例: `idea`, `planned`, `in_progress`, `completed`, `archived`）を適切に管理すること。
+5.  どのノートも「将来的に API やデータベースで検索・集計しやすい内容」になっているか常に意識すること。
 
 ## その他
-- フォルダ・ファイル・項目の命名は一貫性を重視すること
-- ObsidianでのDataview抽出やGitHubでの公開も想定して記載すること
-- 新しい種類の活動や構造を追加する場合は、必ず00_Core/や99_Templates/に運用ガイド・テンプレートを追加すること
+
+- フォルダ・ファイル・Frontmatter のキー名・タグなどの命名は一貫性を重視すること。
+- Obsidian での Dataview 抽出や GitHub での公開も想定して記載すること。
+- 新しい種類の活動や構造を追加する場合は、必ず`00_Core/`内の運用ガイドや`99_Templates/`に適切なテンプレートを追加し、ルールを更新すること。
 
 # 禁止事項
-- ディレクトリ構成を勝手に変更しない
-- Frontmatterの必須項目を省略しない
-- 機微情報・個人情報を誤って含めない
-- フォルダ・ファイルを乱雑に作成しない
-- 日付やタグなどを曖昧に書かない
+
+- ディレクトリ構成を勝手に変更しない（事前に定義されたルールに従う）。
+- Frontmatter の必須項目を省略しない、または不正確な情報を記述しない。
+- 機微情報・個人情報・ES 等を誤って含めない。
+- フォルダ・ファイルを乱雑に作成しない。命名規則に従うこと。
+- 日付やタグなどを曖昧に書かない。定義された形式やタグリストを参照すること。
 
 以上を常に遵守してください。
+
+# アセット管理ルール
+
+- 画像（.jpg, .jpeg, .png, .gif）は、原則として直接コミット・プッシュしてよい。
+- 動画（.mp4, .mov等）やPDF等の大容量ファイルは、**10MB以上の場合は必ずGit LFSで管理**すること。
+- すべてのバイナリアセットは portfolio-base-assets リポジトリ（サブモジュール名: linked_assets）で一元管理する。
+- 新規アセット追加時は、linked_assetsリポジトリに追加・コミット・プッシュし、その後portfolio-base側でサブモジュールを更新・コミットすること。
+- サブモジュールを含むリポジトリのクローンは`git clone --recurse-submodules`を推奨。既存リポジトリは`git submodule update --init --recursive`でサブモジュール取得。
+- Git LFSを利用するファイルタイプ・容量制限はREADMEにも明記すること。
+
+## 画像の複数枚配置・横並びレイアウトについて
+
+- 画像を複数枚横並びで表示したい場合は、以下のHTML記法を推奨します。
+- 例：
+  ```html
+  <div style="display: flex; gap: 10px;">
+      <img src="パス1" alt="説明1" width="32%">
+      <img src="パス2" alt="説明2" width="32%">
+      <img src="パス3" alt="説明3" width="32%">
+  </div>
+  ```
+- ポイント：
+  - 必ず`<div style="display: flex; gap: ...;">`で囲み、`<img>`タグのwidthで横幅を調整してください。
+  - 画像パスは相対パスで記述し、alt属性も必ず設定してください。
+  - ObsidianやGitHubでのプレビュー時に横並び表示されない場合もありますが、HTMLとしてはこの形式を標準とします。
+  - Markdown純正の`![]()`記法は1枚画像や簡易用途向け、複数枚横並びは上記HTMLを推奨。
+
+## アプリ・プロジェクトのアイコン表示ルール
+- 各アプリ・プロジェクトのMarkdownファイルでは、アイコン画像をFrontmatter直後・概要の前に、画面右上（float: right）・幅100pxで表示すること。
+- 記述例：
+  <img src="/linked_assets/10_Projects/Personal/xxx/assets/xxx_icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
+- アイコン画像のファイル名は xxx_icon.jpg で統一すること。
