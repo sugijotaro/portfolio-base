@@ -23,6 +23,8 @@ achievements:
   - activity_app_koshien_2020
   - activity_lit_school_cup_2020
 ---
+
+<img src="/linked_assets/10_Projects/Personal/habitan/assets/habitan_icon.jpg" alt="Habitan アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 「勉強のやる気が出ない」という課題を解決するために開発した、勉強を楽しく習慣化するためのiOSアプリです。15分単位のマスを色塗りすることで勉強時間を記録し、アプリが徐々にカラフルになっていくことで、ユーザーのモチベーションを高めます。
 

@@ -22,10 +22,10 @@ links:
 summary: |
   当時世界中で話題になった謎の鉄柱「モノリス」を、AR技術で現実世界に出現させられるWebサイト。Blenderで3Dモデルを作成し、usdz形式を利用してWebARとして公開した。
 ---
+
+<img src="/linked_assets/10_Projects/Personal/monolith_ar/assets/monolith_ar_icon.jpg" alt="モノリスAR アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 2020年11月に米ユタ州の砂漠で発見され話題となった鉄柱（モノリス）を、ARでどこにでも表示できるWebサイトです。
-
-![モノリスAR アイコン](../../../linked_assets/10_Projects/Personal/monolith_ar/assets/monolith_ar_icon.jpg)
 
 ## 開発の背景と技術
 当時、この「モノリス」のニュースに興味を持ち、AR技術を使えば誰でもこの不思議な物体を体験できると考えました。

@@ -17,10 +17,11 @@ tags:
 summary: |
   iPhoneアプリのプログラミング学習を始めてから、初めてApp Storeにリリースした記念すべき最初のアプリ。
 ---
-## 概要
-![時間割アプリ アイコン](../../../linked_assets/10_Projects/Personal/timetable_app/assets/timetable_app_icon.jpg)
 
-2018年5月からプログラミングスクール「Life is Tech!」に通い始め、約1年間の学習の集大成として開発し、2019年3月4日にApp Storeでリリースした時間割管理アプリです。
+<img src="/linked_assets/10_Projects/Personal/timetable_app/assets/timetable_app_icon.jpg" alt="時間割アプリ アイコン" style="float: right; width: 100px; margin-left: 16px;">
+## 概要
+
+2018年5月からプログラミングスクール「Life is Tech！スクール」に通い始め、約1年間の学習の集大成として開発し、2019年3月4日にApp Storeでリリースした時間割管理アプリです。
 
 このプロジェクトは、自分にとって初めて企画、開発、リリースの全工程を一人で経験したものであり、その後のアプリ開発者としてのキャリアの原点となる重要な経験でした。
 

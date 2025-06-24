@@ -103,3 +103,8 @@ alwaysApply: true
   - ObsidianやGitHubでのプレビュー時に横並び表示されない場合もありますが、HTMLとしてはこの形式を標準とします。
   - Markdown純正の`![]()`記法は1枚画像や簡易用途向け、複数枚横並びは上記HTMLを推奨。
 
+## アプリ・プロジェクトのアイコン表示ルール
+- 各アプリ・プロジェクトのMarkdownファイルでは、アイコン画像をFrontmatter直後・概要の前に、画面右上（float: right）・幅100pxで表示すること。
+- 記述例：
+  <img src="/linked_assets/10_Projects/Personal/xxx/assets/xxx_icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
+- アイコン画像のファイル名は xxx_icon.jpg で統一すること。

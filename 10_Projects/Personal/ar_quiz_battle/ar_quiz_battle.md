@@ -28,6 +28,8 @@ media_features:
 links:
   - https://apps.apple.com/jp/app/id1479295376
 ---
+
+<img src="/linked_assets/10_Projects/Personal/ar_quiz_battle/assets/ar_quiz_battle_icon.jpg" alt="ARクイズバトル アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 
 2019年の学園祭にて、私が部長を務めていた[[burachiribu_club_activity|地理部]]の企画として開発したARクイズアプリです。部で発行していた新聞「ブラチリブNEWS」の記事内容からクイズを出題。新聞にiPadをかざすとARで私自身が登場し、クイズを読み上げるという体験を提供しました。

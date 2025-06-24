@@ -15,8 +15,10 @@ tags:
 summary: |
   ボタンの色や形、さらには計算結果までも自由に変更できるというユニークなコンセプトの計算機アプリ。
 ---
+
+<img src="/linked_assets/10_Projects/Personal/custom_calculator/assets/custom_calculator_icon.jpg" alt="カスタム電卓 アイコン" style="float: right; width: 100px; margin-left: 16px;">
+
 ## 概要
-![カスタム電卓 アイコン](../../../linked_assets/10_Projects/Personal/custom_calculator/assets/custom_calculator_icon.jpg)
 
 通常の計算機能に加え、ボタンのUI（色・形）や、計算結果の表示までもユーザーが自由にカスタマイズできるという、遊び心を取り入れたiOSアプリです。App Storeで公開しました。
 

@@ -24,10 +24,10 @@ links:
 summary: |
   「休日を無駄に過ごしてしまう」という悩みを解決するため、休日の過ごし方を提案するおみくじアプリ。企画からリリースまでがNHK Eテレ『沼にハマってきいてみた』で密着取材された。
 ---
+
+<img src="/linked_assets/10_Projects/Personal/holiday_omikuji/assets/holiday_omikuji_icon.jpg" alt="休日みくじ アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 休日にやることが見つからず、時間を無駄にしてしまうという課題を解決するために開発したiOSアプリです。iPhoneを振ることでおみくじが引かれ、様々な休日の過ごし方が提案されます。
-
-![休日みくじ アイコン](../../../linked_assets/10_Projects/Personal/holiday_omikuji/assets/holiday_omikuji_icon.jpg)
 
 NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロからアプリを企画し開発する様子が密着取材されました。（詳細は [[nhk_numa_appearance]] を参照）
 
