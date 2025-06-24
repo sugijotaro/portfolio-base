@@ -1,5 +1,4 @@
 ---
-id: "vitamin_mama_20200901_ssc_article"
 title: "ビタミンママ Vol.86 掲載"
 type: "activity"
 subtype: "media_article"

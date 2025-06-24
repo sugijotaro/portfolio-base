@@ -1,5 +1,4 @@
 ---
-id: "mynavi"
 title: "株式会社マイナビ"
 type: "organization"
 subtype: "media_company"

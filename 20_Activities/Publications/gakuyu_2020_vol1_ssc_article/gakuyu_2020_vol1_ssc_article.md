@@ -1,5 +1,4 @@
 ---
-id: "gakuyu_2020_vol1_ssc_article"
 title: "学校誌『学友』2020年Vol.1 掲載（創立記念弁論大会「新時代の文化」）"
 type: "activity"
 subtype: "internal_publication"

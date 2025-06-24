@@ -1,5 +1,4 @@
 ---
-id: life_is_tech_magazine_20200715_ssc_interview
 title: Life is Tech! マガジン掲載『WWDCのプログラミングコンテストに入選！...』
 type: activity
 subtype: media_interview

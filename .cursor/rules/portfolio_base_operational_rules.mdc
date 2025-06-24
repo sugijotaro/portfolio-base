@@ -76,7 +76,6 @@ alwaysApply: true
 - 日付やタグなどを曖昧に書かない。定義された形式やタグリストを参照すること。
 
 以上を常に遵守してください。
-
 # アセット管理ルール
 
 - 画像（.jpg, .jpeg, .png, .gif）は、原則として直接コミット・プッシュしてよい。
@@ -106,5 +105,6 @@ alwaysApply: true
 ## アプリ・プロジェクトのアイコン表示ルール
 - 各アプリ・プロジェクトのMarkdownファイルでは、アイコン画像をFrontmatter直後・概要の前に、画面右上（float: right）・幅100pxで表示すること。
 - 記述例：
-  <img src="/linked_assets/10_Projects/Personal/xxx/assets/xxx_icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
+  <img src="assets/xxx_icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
 - アイコン画像のファイル名は xxx_icon.jpg で統一すること。
+
