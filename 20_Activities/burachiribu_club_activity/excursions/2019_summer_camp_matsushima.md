@@ -26,17 +26,17 @@ summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ## 巡検の流れ
 
 - **松島観光:** 日本三景の一つである松島を訪れ、島々を巡る遊覧船や歴史的な寺院を見学しました。
-  ![宮城 松島 2019年夏合宿 その1](../assets/miyagi_matsushima_2019summer_1.jpg)
-  ![宮城 松島 2019年夏合宿 その2](../assets/miyagi_matsushima_2019summer_2.jpg)
+  ![宮城 松島 2019年夏合宿 その1](assets/miyagi_matsushima_2019summer_1.jpg)
+  ![宮城 松島 2019年夏合宿 その2](assets/miyagi_matsushima_2019summer_2.jpg)
 - **仙台城跡:** 伊達政宗ゆかりの仙台城跡を訪れ、東北の歴史や文化について学びました。
-  ![宮城 仙台城 2019年夏合宿](../assets/miyagi_sendaijo_2019summer.jpg)
+  ![宮城 仙台城 2019年夏合宿](assets/miyagi_sendaijo_2019summer.jpg)
 - **天童 将棋駒体験:** 山形県天童市では、伝統工芸である将棋駒作りを体験しました。
-  ![天童 将棋駒体験 2019年夏合宿](../assets/tendo_shogikoma_2019summer.jpg)
+  ![天童 将棋駒体験 2019年夏合宿](assets/tendo_shogikoma_2019summer.jpg)
 
 ## 体験活動・印象的な出来事
 
 - **横浜 ベカ舟体験:** 合宿の道中、横浜で伝統的なベカ舟に乗船し、港町の歴史や文化を体感しました。
-  ![横浜 ベカ舟 2019年3月](../assets/yokohama_bekabune_201903.jpg)
+  ![横浜 ベカ舟 2019年3月](assets/yokohama_bekabune_201903.jpg)
 - **観光地での学び:** 事前に調べ学習を行い、現地で実際に見て・触れて・体験することで、観光地の魅力や歴史をより深く理解できました。
 
 ## 学び・得られた力

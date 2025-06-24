@@ -25,6 +25,6 @@ summary: |
 - モーターで動く自作ラジコン
 - 豆電球を使った照明
 
-![自作のラジコン](../../../linked_assets/30_Knowledge/making_origin/assets/original_rc_car.jpg)
+![自作のラジコン](assets/original_rc_car.jpg)
 
 このような原体験が、後のプログラミングやアプリ開発の土台となっています。

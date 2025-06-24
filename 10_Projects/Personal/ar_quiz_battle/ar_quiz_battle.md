@@ -29,17 +29,17 @@ links:
   - https://apps.apple.com/jp/app/id1479295376
 ---
 
-<img src="/linked_assets/10_Projects/Personal/ar_quiz_battle/assets/ar_quiz_battle_icon.jpg" alt="ARクイズバトル アイコン" style="float: right; width: 100px; margin-left: 16px;">
+<img src="assets/ar_quiz_battle_icon.jpg" alt="部長とクイズバトル アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 
 2019年の学園祭にて、私が部長を務めていた[[burachiribu_club_activity|地理部]]の企画として開発したARクイズアプリです。部で発行していた新聞「ブラチリブNEWS」の記事内容からクイズを出題。新聞にiPadをかざすとARで私自身が登場し、クイズを読み上げるという体験を提供しました。
 
 学園祭の来場者人気投票では、1500人以上を集客し、例年同じ団体が受賞していた歴史を塗り替えて1位を獲得することができました。
 
-![学園祭ポスター](../../../linked_assets/20_Activities/burachiribu_club_activity/assets/gakuensai_poster_quizbattle.jpg)
+![学園祭ポスター](assets/gakuensai_poster_quizbattle.jpg)
 <div style="display: flex; gap: 10px;">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
+    <img src="assets/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
+    <img src="assets/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
 </div>
 
 ## 背景と課題
@@ -54,31 +54,31 @@ links:
 ARKitを使い、特定の画像（マーカー）を認識して動画を再生するという簡単なデモから開発をスタートしました。試行錯誤を繰り返しながら徐々にARの技術を習得し、クイズアプリの形に仕上げていきました。
 
 <div style="display: flex; gap: 10px;">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/ar_marker_test.jpg" alt="ARマーカーのテスト" width="32%">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/dev_snapshot_201906.jpg" alt="開発中の様子（2019年6月）" width="32%">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/dev_snapshot_201909.jpg" alt="開発中の様子（2019年9月）" width="32%">
+    <img src="assets/ar_marker_test.jpg" alt="ARマーカーのテスト" width="32%">
+    <img src="assets/dev_snapshot_201906.jpg" alt="開発中の様子（2019年6月）" width="32%">
+    <img src="assets/dev_snapshot_201909.jpg" alt="開発中の様子（2019年9月）" width="32%">
 </div>
 
 ### 2. 自然なAR体験のためのクロマキー合成
 新聞からクイズ出題者が「飛び出してくる」感覚をより自然にするため、クロマキー合成に挑戦しました。自室の壁に緑の布を貼り、撮影した映像を編集することで、背景が透明な動画素材を作成しました。これにより、新聞の紙面とARコンテンツの融合感を高めることができました。
 
 <div style="display: flex; gap: 10px;">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/chromakey_setup_1.jpg" alt="クロマキー合成のセットアップ" width="49%">
-    <img src="../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/chromakey_setup_2.jpg" alt="クロマキー合成のセットアップ" width="49%">
+    <img src="assets/chromakey_setup_1.jpg" alt="クロマキー合成のセットアップ" width="49%">
+    <img src="assets/chromakey_setup_2.jpg" alt="クロマキー合成のセットアップ" width="49%">
 </div>
 
 ### 3. 初心者でも楽しめるUXデザイン
 ARに馴染みのない方でも直感的に遊べるよう、丁寧なチュートリアル画面を用意しました。最初にブラチリブのロゴを探してもらい、それをマーカーとしてARを起動させることで、遊び方を感覚的に理解できるよう工夫しました。
 
-![チュートリアル画面](../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/tutorial_screenshot.jpeg)
+![チュートリアル画面](assets/tutorial_screenshot.jpeg)
 
 ### 4. 徹底した品質改善
 AppleのTestFlightを活用し、多くの友人にiPadでテストプレイをしてもらいました。本番直前までバグ報告と修正を繰り返し、アプリの完成度を高めました。
 
-![TestFlightでの配信](../../../linked_assets/10_Projects/Personal/ar_quiz_battle/assets/testflight_screenshot.jpg)
+![TestFlightでの配信](assets/testflight_screenshot.jpg)
 
-![来場者がARクイズを体験する様子](../../../linked_assets/20_Activities/burachiribu_club_activity/assets/quizbattle_customers.jpg)
-![プレイ画面](../../../linked_assets/20_Activities/burachiribu_club_activity/assets/quizbattle_play_scene.jpg)
+![来場者がARクイズを体験する様子](assets/quizbattle_customers.jpg)
+![プレイ画面](assets/quizbattle_play_scene.jpg)
 
 ## 成果と学び
 

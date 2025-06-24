@@ -44,12 +44,12 @@ summary: 地理部「ブラチリブ」のYouTubeチャンネル運営に関す�
 ## 画像ギャラリー
 
 YouTubeチャンネルのスクリーンショット
-![YouTubeチャンネル スクリーンショット](../assets/youtube_channel_screenshot.jpg)
+![YouTubeチャンネル スクリーンショット](assets/youtube_channel_screenshot.jpg)
 YouTubeサムネイル集
-![YouTubeサムネイル集](../assets/youtube_thumbnails_2025.jpg)
+![YouTubeサムネイル集](assets/youtube_thumbnails_2025.jpg)
 動画のスクリーンショット
-![YouTube動画のスクリーンショット](../assets/youtube_video_screenshot_2025.jpg)
+![YouTube動画のスクリーンショット](assets/youtube_video_screenshot_2025.jpg)
 Premiere Proのタイムライン
-![Premiere Pro タイムライン](../assets/premiere_timeline.jpg)
+![Premiere Pro タイムライン](assets/premiere_timeline.jpg)
 テロップデザイン一覧
-![テロップデザイン一覧](../assets/telop_designs.jpg) 
+![テロップデザイン一覧](assets/telop_designs.jpg) 

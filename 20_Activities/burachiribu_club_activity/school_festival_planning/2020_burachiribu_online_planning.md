@@ -44,8 +44,8 @@ summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」�
 
 ## 画像ギャラリー
 
-- ![2020年学園祭 ブラチリブONLINE ロゴ](../assets/online_logo_2020.jpg)
-- ![ブラチリブONLINE 設計図・スケッチ1](../assets/online_sketch_1.jpg)
-- ![ブラチリブONLINE 設計図・スケッチ2](../assets/online_sketch_2.jpg)
-- ![ブラチリブONLINE 実際の会場の様子](../assets/online_venue_2025.jpg)
-- ![ブラチリブONLINE PV絵コンテ](../assets/online_pv_storyboard_2025.jpg) 
+- ![2020年学園祭 ブラチリブONLINE ロゴ](assets/online_logo_2020.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ1](assets/online_sketch_1.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ2](assets/online_sketch_2.jpg)
+- ![ブラチリブONLINE 実際の会場の様子](assets/online_venue_2025.jpg)
+- ![ブラチリブONLINE PV絵コンテ](assets/online_pv_storyboard_2025.jpg) 
