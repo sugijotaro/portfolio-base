@@ -25,7 +25,6 @@ summary: ""
 ### 記述例
 
 ---
-id: "org_infinity_inc"
 title: "Infinity Inc."
 type: "org"
 subtype: "company"

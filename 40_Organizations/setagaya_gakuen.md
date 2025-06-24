@@ -1,5 +1,4 @@
 ---
-id: "setagaya_gakuen"
 title: "世田谷学園中学校・高等学校"
 type: "organization"
 subtype: "school"

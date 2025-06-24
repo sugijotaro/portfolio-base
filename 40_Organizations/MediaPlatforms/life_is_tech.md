@@ -1,5 +1,4 @@
 ---
-id: "life_is_tech"
 title: "ライフイズテック株式会社"
 type: "organization"
 subtype: "company"

@@ -1,5 +1,4 @@
 ---
-id: mynavi_news_20200616_ssc_interview
 title: マイナビニュース掲載『WWDCのSwiftプログラムコンテストに入選 日本人高校生の横顔』
 type: activity
 subtype: media_interview

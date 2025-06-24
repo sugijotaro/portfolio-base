@@ -1,5 +1,4 @@
 ---
-id: "vitamin_mama"
 title: "ビタミンママ"
 type: "organization"
 subtype: "media_company"
