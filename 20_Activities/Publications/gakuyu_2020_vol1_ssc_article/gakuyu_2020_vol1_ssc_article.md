@@ -24,5 +24,5 @@ summary: |
 ![学友 掲載ページ2](assets/gakuyu_page_2.jpg)
 
 ## 関連
-- [[setagaya_gakuen_speech_contest|創立記念弁論大会 (2017-2020)]]
-- [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]
+- [[setagaya_gakuen_speech_contest|創立記念弁論大会]]
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]

@@ -39,4 +39,4 @@ Apple Swift Student Challenge 2020での受賞を受けて、[マイナビニュ
 - **今後の展望**: iOS 14やARKitへの期待、将来的な海外留学やAppleで働きたいという夢について語りました。
 
 ## 関連
-- [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]

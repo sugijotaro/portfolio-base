@@ -22,4 +22,4 @@ summary: |
 ![ビタミンママ 全ページスキャン](assets/vitamin_mama_full_page_scan.jpg)
 
 ## 関連
-- [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]] 
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]

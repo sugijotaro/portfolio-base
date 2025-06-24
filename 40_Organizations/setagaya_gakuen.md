@@ -13,4 +13,4 @@ summary: |
 在籍していた中学校・高等学校です。
 
 ## 関連活動
-- [[../20_Activities/Publications/gakuyu_2020_vol1_ssc_article/gakuyu_2020_vol1_ssc_article|学校誌『学友』掲載]] 
+- [[gakuyu_2020_vol1_ssc_article|学校誌『学友』掲載]] 

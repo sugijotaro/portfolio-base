@@ -12,4 +12,4 @@ summary: |
   米国の多国籍テクノロジー企業。iPhone、Mac、iPadなどのハードウェアや、iOS、macOSなどのソフトウェアを開発・販売。WWDCを主催し、Swift Student Challengeなどを通じて開発者の育成にも力を入れている。
 ---
 ## 関連活動
-- [[../20_Activities/Awards/swift_student_challenge_2020/swift_student_challenge_2020|Swift Student Challenge 2020]]
+- [[swift_student_challenge_2020|Swift Student Challenge 2020]]

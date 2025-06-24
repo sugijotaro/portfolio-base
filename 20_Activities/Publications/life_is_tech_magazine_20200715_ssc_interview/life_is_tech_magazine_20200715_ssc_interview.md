@@ -47,4 +47,4 @@ summary: |
     - スキルを伸ばすだけでなく、プログラミングを好きになるきっかけを与えてくれる場所であると語りました。
 
 ## 関連
-- [[../../Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]

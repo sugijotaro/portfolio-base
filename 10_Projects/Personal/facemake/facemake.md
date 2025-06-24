@@ -47,14 +47,14 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 ![Screenshot 5](assets/facemake_screenshot_5.jpg)
 
 ## 受賞と影響
-本プロジェクトでの受賞は、[[20_Activities/Awards/swift_student_challenge_2020/swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
+本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
 
 この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk_numa_appearance|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
 
 ## メディア紹介
-- [[20_Activities/Awards/swift_student_challenge_2020/swift_student_challenge_2020|Swift Student Challenge 2020 受賞]]
-- [[20_Activities/Publications/mynavi_news_20200616_ssc_interview/mynavi_news_20200616_ssc_interview|マイナビニュース]]
-- [[20_Activities/Publications/life_is_tech_magazine_20200715_ssc_interview/life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
-- [[20_Activities/Publications/vitamin_mama_20200901_ssc_article/vitamin_mama_20200901_ssc_article|ビタミンママ]]
+- [[swift_student_challenge_2020|Swift Student Challenge 2020 受賞]]
+- [[mynavi_news_20200616_ssc_interview|マイナビニュース]]
+- [[life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
+- [[vitamin_mama_20200901_ssc_article|ビタミンママ]]
 - [[gakuyu_2020_vol1_ssc_article|学友]]
 - [[nhk_numa_appearance|NHK Eテレ『沼にハマってきいてみた』]]

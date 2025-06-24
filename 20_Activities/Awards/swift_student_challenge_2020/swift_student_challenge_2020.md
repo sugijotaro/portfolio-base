@@ -43,9 +43,9 @@ Appleが毎年開催するWWDC（Worldwide Developers Conference）の一環と�
 
 ## 関連活動・メディア掲載
 この受賞に伴い、複数のメディアから取材を受けました。
-- [[20_Activities/Publications/mynavi_news_20200616_ssc_interview/mynavi_news_20200616_ssc_interview|マイナビニュース]]
-- [[20_Activities/Publications/life_is_tech_magazine_20200715_ssc_interview/life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
-- [[20_Activities/Publications/vitamin_mama_20200901_ssc_article/vitamin_mama_20200901_ssc_article|ビタミンママ]]
-- [[gakuyu_2020_vol1_ssc_article|学友（校内誌）]]
+- [[mynavi_news_20200616_ssc_interview|マイナビニュース]]
 - [[nhk_numa_appearance|NHK Eテレ『沼にハマってきいてみた』]]
-- 校内創立記念弁論大会での入賞
+- [[life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
+- [[vitamin_mama_20200901_ssc_article|ビタミンママ]]
+- [[setagaya_gakuen_speech_contest|校内創立記念弁論大会]]での入賞
+- [[gakuyu_2020_vol1_ssc_article|学友（校内誌）]]

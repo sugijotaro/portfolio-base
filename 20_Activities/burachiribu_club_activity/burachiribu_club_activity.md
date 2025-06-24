@@ -40,16 +40,16 @@ summary: 中学1年時に活動停止中だった地理部を再生させ、4年
 
 地理部「ブラチリブ」では、以下のような多様な活動を行いました。詳細は各ページをご覧ください。
 
-- [[excursions/burachiribu_excursions_overview|観光・巡検活動]]: 月1回の巡検や夏合宿など、体験型の活動を重視。
-    - [[excursions/2018_summer_camp_kyocera_interview|2018年夏合宿・京セラインタビュー]]
-    - [[excursions/2019_summer_camp_matsushima|2019年夏合宿・宮城松島]]
-- [[youtube_channel_burachiribu/youtube_channel_burachiribu|YouTubeチャンネル運営]]: 観光や部活動の様子を動画で発信。
-- [[newspaper_burachiribu_news/newspaper_burachiribu_news|新聞「ブラチリブNEWS」発行]]: 巡検や調査結果をまとめた新聞を定期発行。
-- [[school_festival_planning/school_festival_planning_overview|学園祭企画]]: 革新的な展示や企画で学園祭を盛り上げました。
-    - [[school_festival_planning/2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]]（→ [[../../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle|プロジェクト詳細]])
-    - [[school_festival_planning/2020_burachiribu_online_planning|2020年オンライン展示企画]]
-- [[other_initiatives/junior_high_school_entrance_exam_support_video.md|中学受験生応援動画]]
-- [[other_initiatives/blackboard_art_new_year_project|黒板アート新年企画]]
+- [[burachiribu_excursions_overview|観光・巡検活動]]: 月1回の巡検や夏合宿など、体験型の活動を重視。
+ - [[2018_summer_camp_kyocera_interview|2018年夏合宿・京セラインタビュー]]
+ - [[2019_summer_camp_matsushima|2019年夏合宿・宮城松島]]
+- [[youtube_channel_burachiribu|YouTubeチャンネル運営]]: 観光や部活動の様子を動画で発信。
+- [[newspaper_burachiribu_news|新聞「ブラチリブNEWS」発行]]: 巡検や調査結果をまとめた新聞を定期発行。
+- [[school_festival_planning_overview|学園祭企画]]: 革新的な展示や企画で学園祭を盛り上げました。
+ - [[2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]]（→ [[ar_quiz_battle|プロジェクト詳細]])
+ - [[2020_burachiribu_online_planning|2020年オンライン展示企画]]
+- [[junior_high_school_entrance_exam_support_video.md|中学受験生応援動画]]
+- [[blackboard_art_new_year_project|黒板アート新年企画]]
 
 ## 得られた経験
 
