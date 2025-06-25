@@ -49,8 +49,8 @@ summary: "学校内選抜を通過し、ニュージーランドでの9日間の
 
 ## 関連資料
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/nz_experience1.jpg" alt="ニュージーランド留学の様子1" width="48%">
-  <img src="assets/nz_experience2.jpg" alt="ニュージーランド留学の様子2" width="48%">
-  <img src="assets/nz_experience3.jpg" alt="ニュージーランド留学の様子3" width="48%">
-  <img src="assets/nz_experience4.jpg" alt="ニュージーランド留学の様子4" width="48%">
+  <img src="linked_assets/20_Activities/Travels/newzealand_study_abroad_2018/assets/nz_experience1.jpg" alt="ニュージーランド留学の様子1" width="48%">
+  <img src="linked_assets/20_Activities/Travels/newzealand_study_abroad_2018/assets/nz_experience2.jpg" alt="ニュージーランド留学の様子2" width="48%">
+  <img src="linked_assets/20_Activities/Travels/newzealand_study_abroad_2018/assets/nz_experience3.jpg" alt="ニュージーランド留学の様子3" width="48%">
+  <img src="linked_assets/20_Activities/Travels/newzealand_study_abroad_2018/assets/nz_experience4.jpg" alt="ニュージーランド留学の様子4" width="48%">
 </div>

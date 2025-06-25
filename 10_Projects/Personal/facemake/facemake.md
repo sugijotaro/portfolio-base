@@ -40,11 +40,11 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 本プロジェクトは、コンテストの要件によりXcode Playgroundで開発しました。普段のアプリ開発ではStoryboard（GUIツール）でUIを構築しますが、Playgroundにはその機能がありません。そのため、UI要素の配置やデザインなど、すべての画面表示をSwiftのコードで記述する必要がありました。この制約は大きな挑戦でしたが、結果的にUIKitへの理解を深める貴重な機会となりました。
 
 ## スクリーンショット
-![Screenshot 1](assets/facemake_screenshot_1.jpg)
-![Screenshot 2](assets/facemake_screenshot_2.jpg)
-![Screenshot 3](assets/facemake_screenshot_3.jpg)
-![Screenshot 4](assets/facemake_screenshot_4.jpg)
-![Screenshot 5](assets/facemake_screenshot_5.jpg)
+![Screenshot 1](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_1.jpg)
+![Screenshot 2](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_2.jpg)
+![Screenshot 3](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_3.jpg)
+![Screenshot 4](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_4.jpg)
+![Screenshot 5](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_5.jpg)
 
 ## 受賞と影響
 本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。

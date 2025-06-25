@@ -18,7 +18,7 @@ links:
   - https://unityroom.com/unity1weeks
 ---
 
-![unity1week ロゴ](assets/unity1week_logo.jpg)
+![unity1week ロゴ](linked_assets/30_Knowledge/unity1week/assets/unity1week_logo.jpg)
 
 ## Unity1週間ゲームジャムとは
 Unityを使って1週間でゲームを作るイベントです。

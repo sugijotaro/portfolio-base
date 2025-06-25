@@ -34,14 +34,14 @@ summary: 未踏ジュニア2021に「スマートプロジェクター」の開�
 ## 関連資料
 
 ### 未踏ジュニア公式サイト
-<img src="assets/mitoujr_website.jpg" alt="未踏ジュニア公式サイト" width="60%">
+<img src="linked_assets/20_Activities/mitoujr_2021_application/assets/mitoujr_website.jpg" alt="未踏ジュニア公式サイト" width="60%">
 
 ### 企画書
 <div style="display: flex; gap: 10px;">
-  <img src="assets/proposal_page1.jpg" alt="スマートプロジェクター企画書 1ページ目" width="32%">
-  <img src="assets/proposal_page2.jpg" alt="スマートプロジェクター企画書 2ページ目" width="32%">
-  <img src="assets/proposal_page3.jpg" alt="スマートプロジェクター企画書 3ページ目" width="32%">
+  <img src="linked_assets/20_Activities/mitoujr_2021_application/assets/proposal_page1.jpg" alt="スマートプロジェクター企画書 1ページ目" width="32%">
+  <img src="linked_assets/20_Activities/mitoujr_2021_application/assets/proposal_page2.jpg" alt="スマートプロジェクター企画書 2ページ目" width="32%">
+  <img src="linked_assets/20_Activities/mitoujr_2021_application/assets/proposal_page3.jpg" alt="スマートプロジェクター企画書 3ページ目" width="32%">
 </div>
 
 ### 1次選考突破通知
-<img src="assets/first_round_pass.jpg" alt="1次選考突破メール" width="60%">
+<img src="linked_assets/20_Activities/mitoujr_2021_application/assets/first_round_pass.jpg" alt="1次選考突破メール" width="60%">

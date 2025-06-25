@@ -24,14 +24,14 @@ achievements:
   - activity_lit_school_cup_2020
 ---
 
-<img src="assets/habitan_icon.jpg" alt="Habitan アイコン" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_icon.jpg" alt="Habitan アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 「勉強のやる気が出ない」という課題を解決するために開発した、勉強を楽しく習慣化するためのiOSアプリです。15分単位のマスを色塗りすることで勉強時間を記録し、アプリが徐々にカラフルになっていくことで、ユーザーのモチベーションを高めます。
 
 ## 開発の経緯
 2020年8月24日にアイデアを思いつき、すぐにコンセプトを描き出して開発に着手しました。記録するまでのハードルを低く、かつ楽しく継続できることを重視し、「色を塗る」というシンプルなアクションを採用しました。
 
-![Habitanアイデアをまとめたルーズリーフ](assets/habitan_idea_looseleaf.jpg)
+![Habitanアイデアをまとめたルーズリーフ](linked_assets/10_Projects/Personal/habitan/assets/habitan_idea_looseleaf.jpg)
 
 ## プロモーション
 リリース時には、本アプリを紹介するプロモーションビデオを自ら作成し、YouTubeとTwitterで公開しました。
@@ -41,13 +41,13 @@ achievements:
 友人や知人に加え、TwitterのDMを通じて面識のない方からも「いつも使っています」という感謝の言葉や、具体的な機能改善のフィードバックをいただきました。自分の作ったアプリが実際に人の役に立っていることを実感し、大きな喜びを感じる経験となりました。
 
 <div style="display: flex; gap: 1px;">
-    <img src="assets/habitan_ss_1.jpg" alt="Habitanスクリーンショット1" width="24%">
-    <img src="assets/habitan_ss_2.jpg" alt="Habitanスクリーンショット2" width="24%">
-    <img src="assets/habitan_ss_3.jpg" alt="Habitanスクリーンショット3" width="24%">
-    <img src="assets/habitan_ss_4.jpg" alt="Habitanスクリーンショット4" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_1.jpg" alt="Habitanスクリーンショット1" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_2.jpg" alt="Habitanスクリーンショット2" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_3.jpg" alt="Habitanスクリーンショット3" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_4.jpg" alt="Habitanスクリーンショット4" width="24%">
 </div>
 <div style="display: flex; gap: 1px; margin-top: 4px;">
-    <img src="assets/habitan_ss_5.jpg" alt="Habitanスクリーンショット5" width="24%">
-    <img src="assets/habitan_ss_6.jpg" alt="Habitanスクリーンショット6" width="24%">
-    <img src="assets/habitan_ss_7.jpg" alt="Habitanスクリーンショット7" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_5.jpg" alt="Habitanスクリーンショット5" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_6.jpg" alt="Habitanスクリーンショット6" width="24%">
+    <img src="linked_assets/10_Projects/Personal/habitan/assets/habitan_ss_7.jpg" alt="Habitanスクリーンショット7" width="24%">
 </div>

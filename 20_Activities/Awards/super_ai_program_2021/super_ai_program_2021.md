@@ -40,6 +40,6 @@ AIやVRの最先端分野で活躍する講師陣による本格講義・ワー�
 
 ## 関連資料
 <div style="display: flex; gap: 10px;">
-  <img src="assets/superai_award_certificate.jpg" alt="スーパーAIプログラム最優秀賞 賞状" width="48%">
-  <img src="assets/superai_completion_certificate.jpg" alt="スーパーAIプログラム 受講修了証" width="48%">
+  <img src="linked_assets/20_Activities/Awards/super_ai_program_2021/assets/superai_award_certificate.jpg" alt="スーパーAIプログラム最優秀賞 賞状" width="48%">
+  <img src="linked_assets/20_Activities/Awards/super_ai_program_2021/assets/superai_completion_certificate.jpg" alt="スーパーAIプログラム 受講修了証" width="48%">
 </div> 

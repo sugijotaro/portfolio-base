@@ -22,6 +22,6 @@ summary: |
 
 教室では、課題ごとにロボットを組み立て、プログラムで制御し、発表会で成果をプレゼンする経験も積みました。
 
-![ロボットプログラミング教室でのプレゼン](assets/crefas_presentation.jpg)
+![ロボットプログラミング教室でのプレゼン](linked_assets/20_Activities/robot_programming_crefas/assets/crefas_presentation.jpg)
 
 この経験が、後の論理的思考力やプレゼンテーション力の基礎となりました。
