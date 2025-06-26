@@ -3,6 +3,7 @@ title: "ビタミンママ"
 type: "organization"
 subtype: "media_company"
 tags:
+  - vitamin-mama
   - media
   - local-magazine
   - japan

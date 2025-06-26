@@ -3,6 +3,7 @@ title: "ライフイズテック株式会社"
 type: "organization"
 subtype: "company"
 tags:
+  - life-is-tech
   - education
   - programming-school
   - japan

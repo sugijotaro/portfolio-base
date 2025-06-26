@@ -5,12 +5,13 @@ subtype: extracurricular_activity
 status: completed
 role:
   - 企画
-  - 開発リード
+  - デザイン
+  - アプリ開発
   - ARコンテンツ作成
 orgs:
   - org_high_school_geography_club
 start_date: 2019-05-18
-end_date: 2019-09-17 #2020-02-08リリース
+end_date: 2019-09-17
 tags:
   - ar
   - ios
@@ -20,7 +21,9 @@ tags:
   - photoshop
   - illustrator
   - school-festival
-  - education
+  - uikit
+  - burachiribu
+  - application
   - quiz
 summary: 2019年、高校1年時の学園祭で部長を務める地理部で開発したARクイズアプリ。地理部の新聞「ブラチリブNEWS」にiPadをかざすとARで筆者が現れてクイズを出す仕組み。1500人以上を集客し、学園祭の人気投票で1位を獲得、後にApp Storeでも公開した。
 media_features:
@@ -36,7 +39,7 @@ links:
 
 学園祭の来場者人気投票では、1500人以上を集客し、例年同じ団体が受賞していた歴史を塗り替えて1位を獲得することができました。
 
-![学園祭ポスター](linked_assets/10_Projects/Personal/ar_quiz_battle/assets/gakuensai_poster_quizbattle.jpg)
+![学園祭ポスター](linked_assets/20_Activities/burachiribu_club_activity/assets/gakuensai_poster_quizbattle.jpg)
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/10_Projects/Personal/ar_quiz_battle/assets/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
     <img src="linked_assets/10_Projects/Personal/ar_quiz_battle/assets/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
@@ -77,8 +80,8 @@ AppleのTestFlightを活用し、多くの友人にiPadでテストプレイを�
 
 ![TestFlightでの配信](linked_assets/10_Projects/Personal/ar_quiz_battle/assets/testflight_screenshot.jpg)
 
-![来場者がARクイズを体験する様子](linked_assets/10_Projects/Personal/ar_quiz_battle/assets/quizbattle_customers.jpg)
-![プレイ画面](linked_assets/10_Projects/Personal/ar_quiz_battle/assets/quizbattle_play_scene.jpg)
+![来場者がARクイズを体験する様子](linked_assets/20_Activities/burachiribu_club_activity/assets/quizbattle_customers.jpg)
+![プレイ画面](linked_assets/20_Activities/burachiribu_club_activity/assets/quizbattle_play_scene.jpg)
 
 ## 成果と学び
 

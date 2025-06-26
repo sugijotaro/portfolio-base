@@ -4,14 +4,18 @@ type: project
 subtype: personal
 status: completed
 role:
+  - 企画
+  - デザイン
   - 開発
-orgs: []
+orgs: 
 end_date: 2019-12-03
 tags:
   - ios
   - swift
   - xcode
   - app-store
+  - uikit
+  - application
 summary: |
   ボタンの色や形、さらには計算結果までも自由に変更できるというユニークなコンセプトの計算機アプリ。
 ---

@@ -13,7 +13,9 @@ tags:
   - ios
   - swift
   - xcode
+  - uikit
   - app-store
+  - application
 summary: |
   iPhoneアプリのプログラミング学習を始めてから、初めてApp Storeにリリースした記念すべき最初のアプリ。
 ---

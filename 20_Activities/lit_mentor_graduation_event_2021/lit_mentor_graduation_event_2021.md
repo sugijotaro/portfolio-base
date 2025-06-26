@@ -4,7 +4,7 @@ type: activity
 subtype: event
 status: completed
 role:
-  - イベント企画者
+  - イベント企画
   - MC
   - アクティビティ担当
 orgs:
@@ -12,6 +12,7 @@ orgs:
 start_date: 2021-04-10
 end_date: 2021-04-10
 tags:
+  - life-is-tech
   - event-planning
   - online-offline-hybrid
   - mc

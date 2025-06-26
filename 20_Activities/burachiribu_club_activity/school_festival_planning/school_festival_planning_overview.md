@@ -11,6 +11,7 @@ orgs:
   - org_high_school_geography_club
 start_date: 2019-01-01
 tags:
+  - burachiribu
   - school-festival
   - planning
   - exhibition

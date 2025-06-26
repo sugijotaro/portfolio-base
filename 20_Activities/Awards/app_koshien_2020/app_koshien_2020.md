@@ -13,7 +13,6 @@ end_date: 2020-11-01
 tags:
   - app-koshien
   - presentation
-  - competitive-programming
 projects:
   - habitan
 summary: |

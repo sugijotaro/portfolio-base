@@ -4,7 +4,6 @@ type: knowledge
 subtype: origin
 status: completed
 role:
-  - 本人
 start_date: 2005-04-01
 end_date: 2010-03-31
 tags:

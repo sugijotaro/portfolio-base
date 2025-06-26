@@ -11,6 +11,7 @@ orgs:
   - org_high_school_geography_club
 start_date: 2016-04-01
 tags:
+  - burachiribu
   - field-trip
   - travel
   - geography

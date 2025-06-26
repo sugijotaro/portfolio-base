@@ -3,6 +3,7 @@ title: NHK Eテレ「沼にハマってきいてみた」
 type: organization
 subtype: tv_program
 tags:
+  - nhk-hamatta
   - tv-program
   - nhk
   - etv

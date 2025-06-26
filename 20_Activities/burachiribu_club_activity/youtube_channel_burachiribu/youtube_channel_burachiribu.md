@@ -11,6 +11,7 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-11-01
 tags:
+  - burachiribu
   - youtube
   - video-editing
   - content-creation

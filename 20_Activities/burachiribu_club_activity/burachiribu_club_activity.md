@@ -1,5 +1,5 @@
 ---
-title: 地理部「ブラチリブ」の活動（ハブノート）
+title: 地理部「ブラチリブ」の活動
 type: activity
 subtype: club_activity
 status: completed
@@ -15,6 +15,8 @@ orgs:
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
+  - burachiribu
+  - setagaya-gakuen
   - leadership
   - planning
   - youtube
@@ -30,7 +32,7 @@ links:
 summary: 中学1年時に活動停止中だった地理部を再生させ、4年間部長として活動。YouTubeへの動画投稿、新聞発行、ARアプリ開発、オンライン学園祭でのバーチャルブース出展など、前例のない活動を展開し、部員数を2名から20名にまで増やした。
 ---
 
-# 地理部「ブラチリブ」活動ハブノート
+# 地理部「ブラチリブ」活動まとめ
 
 ## 概要
 

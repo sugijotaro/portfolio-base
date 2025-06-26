@@ -6,14 +6,18 @@ status: completed
 role:
   - 部長
   - 企画
-  - 制作
+  - 撮影
+  - 編集
 orgs:
   - org_high_school_geography_club
 start_date: 2020-01-01
 tags:
+  - burachiribu
   - blackboard-art
   - planning
   - expression
+  - youtube
+  - video-editing
 links: 
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---

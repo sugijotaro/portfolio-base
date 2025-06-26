@@ -12,10 +12,9 @@ tags:
   - interview
   - media-coverage
   - mynavi-news
-  - swift
-  - student
-  - challenge
+  - swift-student-challenge
   - wwdc
+  - life-is-tech
 related_activities:
   - award_ssc_2020
 links:

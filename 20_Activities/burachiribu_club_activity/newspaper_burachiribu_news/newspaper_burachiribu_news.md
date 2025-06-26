@@ -11,6 +11,7 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-10-01
 tags:
+  - burachiribu
   - newspaper
   - editing
   - publishing

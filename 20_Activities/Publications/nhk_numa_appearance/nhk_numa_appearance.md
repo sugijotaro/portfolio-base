@@ -14,11 +14,10 @@ tags:
   - tv-appearance
   - nhk
   - etv
-  - numa-ni-hamatte
+  - nhk-hamatta
   - app-development
   - high-school-student
-  - swift
-links: 
+links:
 summary: NHK Eテレの番組『沼にハマってきいてみた』の「スマホアプリ沼」特集に「世界が認めたアプリ開発高校生」として出演。Apple主催「Swift Student Challenge」入賞、部活でのARクイズアプリ開発、MCサバンナ高橋さんへのプログラミング伝授、新作アプリ「休日おみくじ」の企画から製作までの密着取材など、約15分間にわたり紹介された。
 ---
 ## 概要

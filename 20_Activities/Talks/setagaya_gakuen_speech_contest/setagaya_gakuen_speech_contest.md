@@ -3,7 +3,8 @@ title: "創立記念弁論大会"
 type: "activity"
 subtype: "talk"
 status: "completed"
-role: ["弁士"]
+role:
+  - 弁士
 orgs: ["setagaya_gakuen"]
 start_date: 2017-11-08
 end_date: 2021-11-06

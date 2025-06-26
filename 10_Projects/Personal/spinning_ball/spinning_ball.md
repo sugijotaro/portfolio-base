@@ -16,6 +16,8 @@ tags:
   - game-jam
   - unity1week
   - csharp
+  - app-store
+  - application
 links:
   - https://unityroom.com/games/spinningball
   - https://apps.apple.com/jp/app/id6736353585

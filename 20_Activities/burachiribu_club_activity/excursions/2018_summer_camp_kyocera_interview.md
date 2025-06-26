@@ -11,6 +11,7 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-08-01
 tags:
+  - burachiribu
   - summer-camp
   - interview
   - kyocera

@@ -19,6 +19,7 @@ tags:
   - illustrator
   - photoshop
   - app-store
+  - application
 links:
   - https://apps.apple.com/jp/app/id1563617004
 summary: |

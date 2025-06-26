@@ -7,9 +7,7 @@ role:
   - 企画
   - デザイン
   - 開発
-  - リリース
 orgs:
-  - life_is_tech
 end_date: 2020-09-07
 tags:
   - ios
@@ -17,6 +15,10 @@ tags:
   - firebase
   - xcode
   - app-store
+  - uikit
+  - firestore
+  - app-koshien
+  - application
 summary: |
   15分ごとに区切られたマスに色を塗って勉強時間を記録し、楽しく学習を習慣化できるiOSアプリ。アプリ甲子園2020ファイナリスト、Life is Tech! スクールカップ最高賞（ゴールドアワード）受賞。
 achievements:

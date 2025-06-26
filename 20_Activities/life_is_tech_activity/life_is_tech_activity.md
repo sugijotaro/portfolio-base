@@ -5,12 +5,13 @@ subtype: extracurricular_activity
 status: completed
 role:
   - メンバー
-  - 認定者
+  - 代表認定者
 orgs:
   - life_is_tech
-start_date: 2016-08-01
-end_date: 2020-12-31
+start_date: 2016-08-18
+end_date: 2022-03-30
 tags:
+  - life-is-tech
   - programming-school
   - summer-camp
 summary: |
@@ -41,4 +42,4 @@ summary: |
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/20_Activities/life_is_tech_activity/assets/with_ceo.jpg" alt="Life is Tech! 社長の水野雄介さんとの写真" width="49%">
     <img src="linked_assets/20_Activities/life_is_tech_activity/assets/sfc_award.jpg" alt="SFCのΩ館ステージで代表認定を受ける様子" width="49%">
-</div> 
+</div>

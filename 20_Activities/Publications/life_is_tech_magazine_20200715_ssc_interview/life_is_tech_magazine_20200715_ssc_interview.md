@@ -11,9 +11,7 @@ date: 2020-07-15
 tags:
   - interview
   - media-coverage
-  - swift
-  - student
-  - challenge
+  - swift-tudent-challenge
   - programming-school
   - life-is-tech
 related_activities:

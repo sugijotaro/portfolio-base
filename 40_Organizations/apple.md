@@ -3,6 +3,7 @@ title: Apple
 type: organization
 subtype: company
 tags:
+  - apple
   - technology
   - it
   - usa
