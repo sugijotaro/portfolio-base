@@ -11,9 +11,9 @@ orgs:
   - org_high_school_geography_club
 start_date: 2020-01-01
 tags:
-  - 黒板アート
-  - 企画
-  - 表現
+  - blackboard-art
+  - planning
+  - expression
 links: 
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---

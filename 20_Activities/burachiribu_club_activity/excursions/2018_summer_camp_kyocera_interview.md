@@ -11,10 +11,10 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-08-01
 tags:
-  - 夏合宿
-  - インタビュー
-  - 京セラ
-  - 体験
+  - summer-camp
+  - interview
+  - kyocera
+  - experience
 links: 
 summary: 2018年夏合宿での京セラインタビューや各種体験活動の詳細記録。
 ---

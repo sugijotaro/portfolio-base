@@ -11,10 +11,10 @@ orgs:
   - org_high_school_geography_club
 start_date: 2019-08-01
 tags:
-  - 夏合宿
-  - 松島
-  - 宮城
-  - 体験
+  - summer-camp
+  - matsushima
+  - miyagi
+  - experience
 links: 
 summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ---

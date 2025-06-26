@@ -12,10 +12,10 @@ orgs:
 start_date: 2021-04-10
 end_date: 2021-04-10
 tags:
-  - イベント企画
-  - オンライン・オフライン融合
-  - MC
-  - 卒業イベント
+  - event-planning
+  - online-offline-hybrid
+  - mc
+  - graduation-event
 links: 
 summary: Life is Tech!で大学卒業と同時に卒業するメンターを祝うため、高校生6人でオンライン・オフライン融合型の卒業イベントを企画・運営。MCとアクティビティを担当した。
 ---
