@@ -12,9 +12,9 @@ orgs:
   - org_high_school_geography_club
 start_date: 2020-01-27
 tags:
-  - 応援
-  - 動画
-  - 受験
+  - support
+  - video
+  - entrance-exam
 links:
   - https://youtu.be/YHYCAC8KM6w
 summary: 地理部「ブラチリブ」による中学受験生応援動画制作の記録。

@@ -3,12 +3,12 @@ title: ""
 type: org
 subtype: company | university | community | team
 status: active | inactive | graduated | archived
-role: 
-orgs: 
+role:
+orgs:
 start_date: ""
 end_date: ""
-tags: 
-links: 
+tags:
+links:
 summary: ""
 ---
 
@@ -29,13 +29,16 @@ title: "Infinity Inc."
 type: "org"
 subtype: "company"
 status: "active"
-role: ["代表取締役"]
-orgs: []
+role: 
+  - 代表取締役
+orgs:
 start_date: 2018-04-01
 end_date: ""
-tags: ["IT", "Startup"]
+tags:
+  - it
+  - startup
 links:
-  - {label: "公式サイト", url: "https://infinity.co.jp"}
+  - https://infinity888.jp/
 summary: >
   2022年設立。AI・モバイルアプリ開発を主軸とする。
 ---

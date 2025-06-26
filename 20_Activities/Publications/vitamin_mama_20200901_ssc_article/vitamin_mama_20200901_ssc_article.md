@@ -6,7 +6,11 @@ status: "completed"
 role: ["掲載者"]
 orgs: ["vitamin_mama"]
 date: 2020-09-01
-tags: ["メディア掲載", "ビタミンママ", "Swift Student Challenge", "地域情報誌"]
+tags:
+  - media-coverage
+  - vitamin-mama
+  - swift-student-challenge
+  - local-magazine
 related_activities:
   - "award_ssc_2020"
 summary: |

@@ -11,9 +11,9 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-10-01
 tags:
-  - 新聞
-  - 編集
-  - 発信
+  - newspaper
+  - editing
+  - publishing
 links:
   - https://drive.google.com/drive/folders/1MrIoVWPqcHykcmGArWzKvkz3fV2dVHnU
 summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」発行活動の記録。

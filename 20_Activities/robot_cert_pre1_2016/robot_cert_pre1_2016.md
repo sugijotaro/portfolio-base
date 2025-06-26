@@ -10,9 +10,9 @@ orgs:
 start_date: 2016-06-30
 end_date: 2016-06-30
 tags:
-  - ロボット検定
-  - 準1級
-  - 資格
+  - robot-certification
+  - pre-level-1
+  - certification
 links:
   - https://robogiken.jp/
 summary: 2016年6月30日にロボット検定 準1級に合格。

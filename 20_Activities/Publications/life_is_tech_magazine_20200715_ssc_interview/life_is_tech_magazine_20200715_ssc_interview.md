@@ -9,13 +9,13 @@ orgs:
   - life_is_tech
 date: 2020-07-15
 tags:
-  - インタビュー
-  - メディア掲載
-  - Swift
-  - Student
-  - Challenge
-  - プログラミングスクール
-  - LifeisTech
+  - interview
+  - media-coverage
+  - swift
+  - student
+  - challenge
+  - programming-school
+  - life-is-tech
 related_activities:
   - award_ssc_2020
 links:

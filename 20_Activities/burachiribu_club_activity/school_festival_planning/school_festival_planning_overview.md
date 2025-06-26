@@ -11,9 +11,9 @@ orgs:
   - org_high_school_geography_club
 start_date: 2019-01-01
 tags:
-  - 学園祭
-  - 企画
-  - 展示
+  - school-festival
+  - planning
+  - exhibition
 links: 
 summary: 地理部「ブラチリブ」による学園祭での企画・展示活動の全体像をまとめたノート。
 ---

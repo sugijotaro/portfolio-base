@@ -2,7 +2,10 @@
 title: "ビタミンママ"
 type: "organization"
 subtype: "media_company"
-tags: ["メディア", "地域情報誌", "日本"]
+tags:
+  - media
+  - local-magazine
+  - japan
 links:
   - https://www.vitamin-mama.com/
 summary: |

@@ -11,10 +11,10 @@ orgs:
   - org_high_school_geography_club
 start_date: 2020-10-01
 tags:
-  - 学園祭
-  - オンライン
-  - 3D
-  - 企画
+  - school-festival
+  - online
+  - 3d
+  - planning
 links: 
 summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」企画・運営の記録。
 ---

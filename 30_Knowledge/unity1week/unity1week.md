@@ -8,10 +8,10 @@ role:
 start_date: 2017-04-24
 end_date: 
 tags:
-  - Unity
-  - ゲームジャム
+  - unity
+  - game-jam
   - unity1week
-  - イベント
+  - event
 summary: |
   Unityを使って1週間でゲームを作る日本最大級のオンラインゲームジャムイベント。毎回多くのクリエイターが参加し、作品をunityroomに投稿・公開する。
 links:

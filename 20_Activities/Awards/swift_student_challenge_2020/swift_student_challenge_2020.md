@@ -10,16 +10,13 @@ orgs:
   - apple
 date: 2020-06-16
 tags:
-  - Apple
-  - WWDC
-  - Swift
-  - Student
-  - Challenge
-  - プログラミングコンテスト
-  - 受賞
-  - iOS
-  - Swift
-  - 高校生
+  - apple
+  - wwdc
+  - swift-student-challenge
+  - programming-contest
+  - award
+  - ios
+  - high-school-student
 related_projects:
   - swift_student_challenge_2020_facemake
 summary: |

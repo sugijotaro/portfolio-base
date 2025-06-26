@@ -10,10 +10,10 @@ orgs:
 start_date: 2018-05-01 # Life is Tech!スクールに通い始めた時期
 end_date: 2019-03-04
 tags:
-  - iOS
-  - Swift
-  - Xcode
-  - AppStore
+  - ios
+  - swift
+  - xcode
+  - app-store
 summary: |
   iPhoneアプリのプログラミング学習を始めてから、初めてApp Storeにリリースした記念すべき最初のアプリ。
 ---

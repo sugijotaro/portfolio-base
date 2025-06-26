@@ -11,10 +11,10 @@ orgs:
   - org_high_school_geography_club
 start_date: 2016-04-01
 tags:
-  - 巡検
-  - 旅行
-  - 地理
-  - 体験学習
+  - field-trip
+  - travel
+  - geography
+  - experiential-learning
 links: 
 summary: 地理部「ブラチリブ」における観光・巡検活動の全体像と方針、主な成果をまとめたノート。
 ---

@@ -7,7 +7,12 @@ role: ["受講生"]
 orgs: ["塾"]
 start_date: 2021-01-01
 end_date: 2021-12-31
-tags: ["SDGs", "教育", "非認知スキル", "問題解決", "プレゼンテーション", "即興"]
+tags:
+  - sdgs
+  - education
+  - non-cognitive-skills
+  - presentation
+  - improvisation
 links: []
 summary: "国連事務総長特別顧問Dr. Jeffrey D. Sachs認定のSDGsカリキュラムを受講。正解のない問題に即興で取り組み、自分の考え方を発見し、非認知スキルを向上させた。"
 ---

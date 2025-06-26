@@ -9,11 +9,11 @@ orgs: []
 start_date: 2020-01-15
 end_date: 2020-01-15
 tags:
-  - iOS
-  - Swift
-  - Xcode
-  - NFC
-  - デモアプリ
+  - ios
+  - swift
+  - xcode
+  - nfc
+  - demo-app
 summary: |
   iPhoneのNFC（近距離無線通信）機能を使ってICカードの読み取りが可能であることを学び、その技術検証のために作成した入退室管理のデモアプリ。
 ---
