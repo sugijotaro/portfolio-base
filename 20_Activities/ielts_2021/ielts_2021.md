@@ -7,7 +7,11 @@ role: ["受験者"]
 orgs: ["IELTS"]
 start_date: 2021-07-25
 end_date: 2021-07-25
-tags: ["IELTS", "英語資格", "語学検定", "国際基準"]
+tags:
+  - ielts
+  - english-certification
+  - language-certification
+  - international-standard
 links: []
 summary: "2021年7月25日に国際的な英語資格であるIELTSを受験し、Overall 5.0を取得"
 ---

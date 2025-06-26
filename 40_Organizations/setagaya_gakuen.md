@@ -2,7 +2,10 @@
 title: "世田谷学園中学校・高等学校"
 type: "organization"
 subtype: "school"
-tags: ["教育機関", "学校", "日本"]
+tags:
+  - educational-institution
+  - school
+  - japan
 links:
   - https://www.setagayagakuen.ac.jp/
 summary: |

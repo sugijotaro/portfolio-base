@@ -10,10 +10,10 @@ orgs:
 start_date: 2009-04-01
 end_date: 2011-03-31
 tags:
-  - ロボットプログラミング
-  - LEGO
+  - robot-programming
+  - lego
   - crefas
-  - プレゼン
+  - presentation
 summary: |
   小学4年生から通い始めたロボットプログラミング教室「crefas」で、LEGOのロボットをブロックプログラミングで動かすことに夢中になった。発表会でのプレゼン経験も貴重な学びとなった。
 ---

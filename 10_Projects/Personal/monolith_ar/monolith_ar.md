@@ -8,13 +8,13 @@ role:
   - 3Dモデリング
 end_date: 2020-12-04
 tags:
-  - WebAR
-  - AR
-  - Unity
-  - Blender
+  - web-ar
+  - ar
+  - unity
+  - blender
   - html
   - css
-  - GitHub Pages
+  - github-pages
   - usdz
 links:
   - https://sugijotaro.github.io/MonolithAR/

@@ -11,11 +11,11 @@ orgs:
 start_date: 2021-02-25
 end_date: 2021-02-28
 tags:
-  - Unity
-  - Blender
-  - ゲームジャム
+  - unity
+  - blender
+  - game-jam
   - unity1week
-  - CSharp
+  - csharp
 links:
   - https://unityroom.com/games/spinningball
   - https://apps.apple.com/jp/app/id6736353585

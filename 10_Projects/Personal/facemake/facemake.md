@@ -12,11 +12,11 @@ orgs:
 start_date: 2020-02-15
 end_date: 2020-05-17
 tags:
-  - Swift
-  - WWDC
-  - SwiftStudentChallenge
-  - iOS
-  - UIKit
+  - swift
+  - wwdc
+  - swift-student-challenge
+  - ios
+  - uikit
 summary: |
   Apple主催の世界的なプログラミングコンテスト「Swift Student Challenge 2020」に応募し、日本人で唯一入賞した福笑いをテーマにしたiPadアプリ。
 achievements:

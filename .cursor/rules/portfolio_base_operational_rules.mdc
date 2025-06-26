@@ -61,6 +61,25 @@ alwaysApply: true
 4.  `status`フィールドで進行状況（例: `idea`, `planned`, `in_progress`, `completed`, `archived`）を適切に管理すること。
 5.  どのノートも「将来的に API やデータベースで検索・集計しやすい内容」になっているか常に意識すること。
 
+## タグ(tags)に関するルール
+
+1.  **命名規則**: 全てのタグは、**英小文字のケバブケース (`kebab-case`)** に統一すること。
+    -   単語間はハイフン `-` で連結する。 (例: `personal-project`)
+    -   大文字は使用しない。 (NG: `Swift`, OK: `swift`)
+    -   スペースは使用しない。 (NG: `school festival`, OK: `school-festival`)
+    -   アンダースコアは使用しない。 (NG: `life_is_tech`, OK: `life-is-tech`)
+
+2.  **言語**: 原則として**英語**を使用すること。日本語のタグは使用しない。
+    -   例: `学園祭` → `school-festival`, `メディア掲載` → `media-coverage`
+
+3.  **一貫性**: 固有名詞やイベント名もルールに従うこと。
+    -   `Life is Tech!` → `life-is-tech`
+    -   `Swift Student Challenge` → `swift-student-challenge`
+    -   `アプリ甲子園` → `app-koshien`
+    -   `C#` → `c-sharp`
+
+4.  **目的**: タグは検索性、フィルタリング、自動集計（例: Dataview）のために使用します。常に機械的に処理しやすい形式を意識してください。
+
 ## その他
 
 - フォルダ・ファイル・Frontmatter のキー名・タグなどの命名は一貫性を重視すること。

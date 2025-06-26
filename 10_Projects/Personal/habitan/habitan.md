@@ -12,11 +12,11 @@ orgs:
   - life_is_tech
 end_date: 2020-09-07
 tags:
-  - iOS
-  - Swift
-  - Firebase
-  - Xcode
-  - AppStore
+  - ios
+  - swift
+  - firebase
+  - xcode
+  - app-store
 summary: |
   15分ごとに区切られたマスに色を塗って勉強時間を記録し、楽しく学習を習慣化できるiOSアプリ。アプリ甲子園2020ファイナリスト、Life is Tech! スクールカップ最高賞（ゴールドアワード）受賞。
 achievements:

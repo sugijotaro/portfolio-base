@@ -11,9 +11,9 @@ orgs:
   - org_high_school_geography_club
 start_date: 2018-11-01
 tags:
-  - YouTube
-  - 動画編集
-  - 発信
+  - youtube
+  - video-editing
+  - content-creation
 links:
   - https://www.youtube.com/@burachiribu
 summary: 地理部「ブラチリブ」のYouTubeチャンネル運営に関する活動記録。

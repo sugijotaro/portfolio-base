@@ -8,10 +8,10 @@ role:
 orgs: []
 end_date: 2019-12-03
 tags:
-  - iOS
-  - Swift
-  - Xcode
-  - AppStore
+  - ios
+  - swift
+  - xcode
+  - app-store
 summary: |
   ボタンの色や形、さらには計算結果までも自由に変更できるというユニークなコンセプトの計算機アプリ。
 ---

@@ -12,11 +12,11 @@ orgs:
 start_date: 2021-03-24
 end_date: 2021-04-04
 tags:
-  - AI
-  - VR
-  - スーパーAIプログラム
-  - プレゼンテーション
-  - 最優秀賞
+  - ai
+  - vr
+  - super-ai-program
+  - presentation
+  - grand-prize
 links: 
 summary: スーパーAIプログラム（2021年3月24日～4月4日）にて、食品ロスと栄養バランスの偏りを同時に解決するAI活用サービス案を発案・プレゼンし、最優秀賞を受賞した。
 ---

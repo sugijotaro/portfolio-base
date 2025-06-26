@@ -11,10 +11,10 @@ orgs:
   - org_high_school_geography_club
 start_date: 2019-10-01
 tags:
-  - 学園祭
-  - AR
-  - クイズ
-  - 企画
+  - school-festival
+  - ar
+  - quiz
+  - planning
 links:
   - ../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle.md
 summary: 2019年学園祭でのARクイズアプリ「部長とクイズバトル」企画・運営の記録。

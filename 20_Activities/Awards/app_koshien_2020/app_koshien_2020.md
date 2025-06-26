@@ -11,9 +11,9 @@ orgs:
 start_date: 2020-11-01 # 決勝戦が開催された月
 end_date: 2020-11-01
 tags:
-  - アプリ甲子園
-  - プレゼンテーション
-  - 競技プログラミング
+  - app-koshien
+  - presentation
+  - competitive-programming
 projects:
   - habitan
 summary: |

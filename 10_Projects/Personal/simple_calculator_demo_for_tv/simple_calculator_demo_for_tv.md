@@ -11,11 +11,11 @@ orgs:
 start_date: ""
 end_date: 2021-05-18
 tags:
-  - iOS
-  - Swift
-  - Xcode
-  - 教育デモ
-  - テレビ
+  - ios
+  - swift
+  - xcode
+  - education-demo
+  - tv
 summary: |
   NHK Eテレ『沼にハマってきいてみた』番組内で、MCのサバンナ高橋さんにプログラミングを体験してもらうために用意した簡単な足し算・引き算iOSアプリ。
 media_features:

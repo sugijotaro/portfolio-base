@@ -7,7 +7,13 @@ role: ["参加者"]
 orgs: ["setagaya_gakuen"]
 start_date: 2019-07-18
 end_date: 2019-07-28
-tags: ["留学", "カナダ", "語学研修", "ホームステイ", "国際交流", "英語力向上"]
+tags:
+  - study-abroad
+  - canada
+  - language-training
+  - homestay
+  - international-exchange
+  - english-improvement
 links: []
 summary: "カナダでの10日間の語学研修・ホームステイに参加。前年のニュージーランド留学と比較して英語力の向上を実感し、グローバルな視点の重要性を学んだ。"
 ---

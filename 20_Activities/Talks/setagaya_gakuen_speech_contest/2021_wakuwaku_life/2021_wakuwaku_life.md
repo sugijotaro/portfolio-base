@@ -9,7 +9,11 @@ end_date: 2021-11-06
 links:
   - https://youtu.be/UjUdiUo6qig
 summary: "2021年度の創立記念弁論大会で『ワクワクする生き方』をテーマに弁論し、優勝。YouTubeで弁論の様子も公開。"
-tags: ["弁論大会", "スピーチ", "ワクワク", "イノベーション"]
+tags:
+  - speech-contest
+  - speech
+  - wakuwaku
+  - innovation
 ---
 ## 概要
 

@@ -10,8 +10,8 @@ orgs:
 start_date: 2020-09-01 # Habitanリリース月
 end_date: 2020-09-30
 tags:
-  - Life is Tech!
-  - スクールカップ
+  - life-is-tech
+  - school-cup
 projects:
   - habitan
 summary: |

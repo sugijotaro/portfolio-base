@@ -7,7 +7,11 @@ role: ["講演者"]
 orgs: ["世田谷区立中丸小学校"]
 start_date: 2020-02-06
 end_date: 2020-02-06
-tags: ["講演", "小学校", "キャリア教育", "恩師"]
+tags:
+  - lecture
+  - elementary-school
+  - career-education
+  - mentor
 links: []
 summary: "恩師が勤める世田谷区立中丸小学校の5年1組にて、自分の活動体験をもとに「興味・関心を見極める」「枠を飛び出した発想」「仲間の大切さ」「やり抜く力」について講演した。"
 ---

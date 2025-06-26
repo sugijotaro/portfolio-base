@@ -15,14 +15,14 @@ orgs:
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
-  - リーダーシップ
-  - 企画
-  - YouTube
-  - 新聞発行
-  - AR
+  - leadership
+  - planning
+  - youtube
+  - newspaper-publishing
+  - ar
   - cluster
-  - 動画編集
-  - マネジメント
+  - video-editing
+  - management
 links:
   - https://www.youtube.com/@burachiribu
   - https://x.com/burachiribu

@@ -2,7 +2,9 @@
 title: "株式会社マイナビ"
 type: "organization"
 subtype: "media_company"
-tags: ["メディア", "日本"]
+tags:
+  - media
+  - japan
 links:
   - https://news.mynavi.jp/
 summary: |

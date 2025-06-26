@@ -12,13 +12,13 @@ orgs:
   - nhk_hamatta
 end_date: 2021-05-18
 tags:
-  - iOS
-  - Swift
-  - Firebase
-  - Xcode
-  - Illustrator
-  - Photoshop
-  - AppStore
+  - ios
+  - swift
+  - firebase
+  - xcode
+  - illustrator
+  - photoshop
+  - app-store
 links:
   - https://apps.apple.com/jp/app/id1563617004
 summary: |

@@ -3,10 +3,10 @@ title: NHK Eテレ「沼にハマってきいてみた」
 type: organization
 subtype: tv_program
 tags:
-  - テレビ番組
-  - NHK
-  - Eテレ
-  - 若者文化
+  - tv-program
+  - nhk
+  - etv
+  - youth-culture
 links:
   - https://www.nhk.jp/p/hamatta/
   - https://x.com/nhk_hamatta

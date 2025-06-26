@@ -12,11 +12,11 @@ orgs:
 start_date: 2021-04-17
 end_date: 2021-05-31
 tags:
-  - 未踏ジュニア
-  - スマートプロジェクター
-  - IoT
-  - プロダクト開発
-  - 応募
+  - mitou-jr
+  - smart-projector
+  - iot
+  - product-development
+  - application
 links: 
 summary: 未踏ジュニア2021に「スマートプロジェクター」の開発案を応募し、1次書類審査を突破して2次選考まで進出した。
 ---

@@ -9,13 +9,13 @@ orgs:
   - mynavi
 date: 2020-06-16
 tags:
-  - インタビュー
-  - メディア掲載
-  - マイナビニュース
-  - Swift
-  - Student
-  - Challenge
-  - WWDC
+  - interview
+  - media-coverage
+  - mynavi-news
+  - swift
+  - student
+  - challenge
+  - wwdc
 related_activities:
   - award_ssc_2020
 links:

@@ -3,9 +3,9 @@ title: Apple
 type: organization
 subtype: company
 tags:
-  - Technology
-  - IT
-  - USA
+  - technology
+  - it
+  - usa
 links:
   - https://www.apple.com/
 summary: |
