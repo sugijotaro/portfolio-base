@@ -1,12 +1,15 @@
 ---
-title: "よちよち.swift 第1回 登壇"
-type: "activity"
-subtype: "talk"
-status: "completed"
-role: ["speaker", "lt"]
-orgs: ["yotiyoti-swift"]
-start_date: "2020-11-27"
-end_date: "2020-11-27"
+title: よちよち.swift 第1回 登壇
+type: activity
+subtype: talk
+status: completed
+role:
+  - speaker
+  - lt
+orgs:
+  - yotiyoti-swift
+start_date: 2020-11-27
+end_date: 2020-11-27
 tags:
   - swift
   - lt
@@ -14,8 +17,9 @@ tags:
   - public-speaking
   - app-koshien
 links:
-  - "https://yotiyoti-swift.connpass.com/event/192143/"
-summary: "Swift初学者〜中級者向け勉強会「よちよち.swift」の第1回に急遽LT登壇した際の記録。準備期間が1日未満という状況下で、アプリ甲子園での経験を元に発表を行い、その即応力や経験の言語化能力が評価された。"
+  - https://yotiyoti-swift.connpass.com/event/192143/
+  - https://x.com/sugijotaro/status/1332334698148765697
+summary: Swift初学者〜中級者向け勉強会「よちよち.swift」の第1回に急遽LT登壇した際の記録。準備期間が1日未満という状況下で、アプリ甲子園での経験を元に発表を行い、その即応力や経験の言語化能力が評価された。
 ---
 
 ## 概要
