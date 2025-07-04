@@ -16,6 +16,7 @@ tags:
   - app-store
   - uikit
   - application
+  - making
 summary: |
   ボタンの色や形、さらには計算結果までも自由に変更できるというユニークなコンセプトの計算機アプリ。
 ---

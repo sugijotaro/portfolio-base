@@ -25,6 +25,7 @@ tags:
   - burachiribu
   - application
   - quiz
+  - making
 summary: 2019年、高校1年時の学園祭で部長を務める地理部で開発したARクイズアプリ。地理部の新聞「ブラチリブNEWS」にiPadをかざすとARで筆者が現れてクイズを出す仕組み。1500人以上を集客し、学園祭の人気投票で1位を獲得、後にApp Storeでも公開した。
 media_features:
   - activity_nhk_numa_20210518

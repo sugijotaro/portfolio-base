@@ -14,6 +14,7 @@ tags:
   - life-is-tech
   - programming-school
   - summer-camp
+  - making
 summary: |
   中学1年生から高校生までの約5年間、プログラミング教育機関「Life is Tech!」のキャンプやスクールに参加。プログラミングとものづくりの基礎を学び、数々の作品を生み出す原点となった。
 links:

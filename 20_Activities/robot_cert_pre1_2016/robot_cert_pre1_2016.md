@@ -13,6 +13,7 @@ tags:
   - robot-certification
   - pre-level-1
   - certification
+  - making
 links:
   - https://robogiken.jp/
 summary: 2016年6月30日にロボット検定 準1級に合格。

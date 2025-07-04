@@ -14,6 +14,7 @@ tags:
   - ios
   - swift
   - xcode
+  - making
 summary: |
   NHK Eテレ『沼にハマってきいてみた』番組内で、MCのサバンナ高橋さんにプログラミングを体験してもらうために用意した簡単な足し算・引き算iOSアプリ。
 media_features:

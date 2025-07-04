@@ -16,6 +16,7 @@ tags:
   - css
   - github-pages
   - usdz
+  - making
 links:
   - https://sugijotaro.github.io/MonolithAR/
   - https://github.com/sugijotaro/MonolithAR

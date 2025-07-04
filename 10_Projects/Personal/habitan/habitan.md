@@ -7,7 +7,7 @@ role:
   - 企画
   - デザイン
   - 開発
-orgs:
+orgs: 
 end_date: 2020-09-07
 tags:
   - ios
@@ -19,6 +19,7 @@ tags:
   - firestore
   - app-koshien
   - application
+  - making
 summary: |
   15分ごとに区切られたマスに色を塗って勉強時間を記録し、楽しく学習を習慣化できるiOSアプリ。アプリ甲子園2020ファイナリスト、Life is Tech! スクールカップ最高賞（ゴールドアワード）受賞。
 achievements:

@@ -18,6 +18,7 @@ tags:
   - ios
   - uikit
   - application
+  - making
 summary: |
   Apple主催の世界的なプログラミングコンテスト「Swift Student Challenge 2020」に応募し、日本人で唯一入賞した福笑いをテーマにしたiPadアプリ。
 achievements:

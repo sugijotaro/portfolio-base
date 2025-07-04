@@ -14,6 +14,7 @@ tags:
   - lego
   - crefas
   - presentation
+  - making
 summary: |
   小学4年生から通い始めたロボットプログラミング教室「crefas」で、LEGOのロボットをブロックプログラミングで動かすことに夢中になった。発表会でのプレゼン経験も貴重な学びとなった。
 ---

@@ -20,6 +20,7 @@ tags:
   - photoshop
   - app-store
   - application
+  - making
 links:
   - https://apps.apple.com/jp/app/id1563617004
 summary: |
