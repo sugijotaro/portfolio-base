@@ -34,4 +34,7 @@ summary: |
 作成したロボット
 <img src="linked_assets/20_Activities/robot_programming_crefas/assets/presentation_robot_20140913.jpg" alt="発表会で発表したロボット（2014-09-13）" width="60%">
 
+2017年3月1日の発表会の様子：
+<img src="linked_assets/20_Activities/robot_programming_crefas/assets/20170301_presentation.jpg" alt="発表会でのプレゼン（2017-03-01）" width="60%">
+
 この経験が、後の論理的思考力やプレゼンテーション力の基礎となりました。
