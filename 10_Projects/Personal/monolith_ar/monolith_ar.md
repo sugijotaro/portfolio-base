@@ -16,9 +16,11 @@ tags:
   - css
   - github-pages
   - usdz
+  - making
 links:
   - https://sugijotaro.github.io/MonolithAR/
   - https://github.com/sugijotaro/MonolithAR
+  - https://x.com/sugijotaro/status/1334847925474656258
 summary: |
   当時世界中で話題になった謎の鉄柱「モノリス」を、AR技術で現実世界に出現させられるWebサイト。Blenderで3Dモデルを作成し、usdz形式を利用してWebARとして公開した。
 ---

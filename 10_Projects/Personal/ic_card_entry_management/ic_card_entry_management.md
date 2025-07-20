@@ -14,6 +14,7 @@ tags:
   - xcode
   - nfc
   - demo-app
+  - making
 summary: |
   iPhoneのNFC（近距離無線通信）機能を使ってICカードの読み取りが可能であることを学び、その技術検証のために作成した入退室管理のデモアプリ。
 links:

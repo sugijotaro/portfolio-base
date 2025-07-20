@@ -7,7 +7,7 @@ role:
   - 開発
 orgs:
   - life_is_tech
-start_date: 2018-05-01 # Life is Tech!スクールに通い始めた時期
+start_date: 2018-05-01
 end_date: 2019-03-04
 tags:
   - ios
@@ -16,6 +16,7 @@ tags:
   - uikit
   - app-store
   - application
+  - making
 summary: |
   iPhoneアプリのプログラミング学習を始めてから、初めてApp Storeにリリースした記念すべき最初のアプリ。
 ---
