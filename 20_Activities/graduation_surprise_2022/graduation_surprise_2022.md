@@ -21,10 +21,17 @@ links:
   - https://x.com/sugijotaro/status/1513154437946441734
 ---
 
+<img src="linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_icon.jpg" alt="卒業サプライズ2022 イベントTシャツ" style="float: right; width: 200px; margin-left: 24px;">
+
 ## 概要
 [[life_is_tech|Life is Tech！]]の伝統行事である「卒業サプライズ」を、2022年度の運営チームの一員（6名）として企画・実施しました。このイベントは、プログラミング教育の場で指導にあたってきた卒業メンター（大学生・大学院生の講師）へ、在校メンバー（中高生）が感謝を伝えるためのサプライズ企画です。
 
 2022年は感染症対策のため、卒業メンター18名が会場に集まり、在校メンバー12名以上がZoomで参加するというハイブリッド形式を採用。
+
+<div style="display: flex; gap: 10px;">
+  <img src="linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_mc.jpg" alt="司会をしている自分の写真" width="48%">
+  <img src="linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_group.jpg" alt="全体の記念集合写真" width="48%">
+</div>
 
 ## 自分の役割
 
