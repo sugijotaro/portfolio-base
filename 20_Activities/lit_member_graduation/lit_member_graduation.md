@@ -15,7 +15,6 @@ tags:
   - graduation
   - milestone
   - community
-  - mc
 summary: |
   中学1年生から約6年間活動した「Life is Tech!」のメンバーを卒業。自身の"ものづくりの原点"であり、数々の挑戦の礎となったコミュニティでの学びの集大成として、卒業イベントではMCも務めた。
 links:
@@ -33,8 +32,15 @@ links:
 かつて自分がそうであったように、参加したメンバーとメンターが自然に交流し、刺激し合える場を作りたいという思いを込めて企画しました。自分がLife is Tech!から受け取った「人と繋がる楽しさ」「認め合い高め合う文化」を、少しでも次の世代に繋げられたと感じた、忘れられない経験です。
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="../../linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_group.jpg" alt="卒業サプライズの様子1" width="48%">
-    <img src="../../linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_mc.jpg" alt="卒業サプライズの様子2" width="48%">
+    <img src="linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_group.jpg" alt="卒業サプライズの様子1" width="48%">
+    <img src="linked_assets/20_Activities/graduation_surprise_2022/assets/graduation_surprise_2022_mc.jpg" alt="卒業サプライズの様子2" width="48%">
+</div>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 16px;">
+	<img src="linked_assets/20_Activities/lit_graduation/assets/lit_logo_photo.jpeg" alt="Life is Tech! ロゴの前で" width="48%">
+    <img src="linked_assets/20_Activities/lit_graduation/assets/app_koshien_presentation.jpeg" alt="アプリ甲子園での発表" width="48%">
+    <img src="linked_assets/20_Activities/lit_graduation/assets/lit_camp_ssc_intro.jpeg" alt="Life is Tech! キャンプでの様子" width="48%">
+    <img src="linked_assets/20_Activities/lit_graduation/assets/lit_school_mentoring.jpeg" alt="Life is Tech! スクールでの開発風景" width="48%">
 </div>
 
 ## Life is Tech! が育んだもの
