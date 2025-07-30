@@ -40,7 +40,6 @@ summary: |
 - **SFC 七夕祭 (2022年7月2-3日)**: SFCの学園祭で、複数のバンドの一員としてステージに立ちました。
 - **[[taru_fes_202208|樽Fes 2022]]**: バンド「camo maybe」として出場。
 - [[taru_fes_202208|SFC 樽フェス]]
-- 2022/11/05: [[keio_university_sfc_tanabata_festival_2022|SFC七夕祭]]
 
 ### 主な活動
 - [[koe_summer_camp_202209|K.O.E. 夏合宿 2022]]
