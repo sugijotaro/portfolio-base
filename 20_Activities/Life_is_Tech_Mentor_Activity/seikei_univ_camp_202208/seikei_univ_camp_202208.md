@@ -21,3 +21,9 @@ summary: 2022年夏、成蹊大学で開催された4日間のLife is Tech!キ�
 2022年8月16日〜19日の4日間、成蹊大学で開催されたLife is Tech!のサマーキャンプにメンターとして参加しました。常総学院での経験を活かし、より多くの生徒たちのサポートにあたりました。
 
 - **担当コース**: iPhoneアプリプログラミングコース
+
+## 最終日の記念写真
+
+<img src="linked_assets/20_Activities/Life_is_Tech_Mentor_Activity/seikei_univ_camp_202208/assets/final_day_group_photo.jpeg" alt="担当メンバーとの記念写真" width="600">
+
+最終日、担当した5人のメンバーたちと。
