@@ -7,8 +7,7 @@ role:
   - 企画
   - デザイン
   - 開発
-orgs:
-  - apple
+orgs: apple
 start_date: 2020-02-15
 end_date: 2020-05-17
 tags:
@@ -42,11 +41,11 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 本プロジェクトは、コンテストの要件によりXcode Playgroundで開発しました。普段のアプリ開発ではStoryboard（GUIツール）でUIを構築しますが、Playgroundにはその機能がありません。そのため、UI要素の配置やデザインなど、すべての画面表示をSwiftのコードで記述する必要がありました。この制約は大きな挑戦でしたが、結果的にUIKitへの理解を深める貴重な機会となりました。
 
 ## スクリーンショット
-![Screenshot 1](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_1.jpg)
-![Screenshot 2](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_2.jpg)
-![Screenshot 3](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_3.jpg)
-![Screenshot 4](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_4.jpg)
-![Screenshot 5](linked_assets/10_Projects/Personal/facemake/assets/facemake_screenshot_5.jpg)
+![Screenshot 1](linked_assets/projects/facemake/facemake_screenshot_1.jpg)
+![Screenshot 2](linked_assets/projects/facemake/facemake_screenshot_2.jpg)
+![Screenshot 3](linked_assets/projects/facemake/facemake_screenshot_3.jpg)
+![Screenshot 4](linked_assets/projects/facemake/facemake_screenshot_4.jpg)
+![Screenshot 5](linked_assets/projects/facemake/facemake_screenshot_5.jpg)
 
 ## 受賞と影響
 本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
@@ -54,9 +53,9 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk_numa_appearance|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
 
 ## メディア紹介
-- [[swift_student_challenge_2020|Swift Student Challenge 2020 受賞]]
+- [[swift-student_challenge_2020|Swift Student Challenge 2020 受賞]]
 - [[mynavi_news_20200616_ssc_interview|マイナビニュース]]
-- [[life_is_tech_magazine_20200715_ssc_interview|Life is Tech! マガジン]]
+- [[life-is-tech-magazine_2020-07-15-ssc-interview|Life is Tech! マガジン]]
 - [[vitamin_mama_20200901_ssc_article|ビタミンママ]]
 - [[gakuyu_2020_vol1_ssc_article|学友]]
 - [[nhk_numa_appearance|NHK Eテレ『沼にハマってきいてみた』]]
