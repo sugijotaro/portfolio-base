@@ -30,8 +30,8 @@ summary: 2018年夏合宿での京セラインタビューや各種体験活動�
 - **学び:** 「創業者稲盛和夫の先見の明と、それについていく社員の努力」が世界的企業になることができた要因だと実感し、その後の部活動では自分が先見の明を持ち、部員を1つの方向に導こうと意識するようになりました。
 
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/activities/burachiribu-kyocera-interview_2018/kyocera_interview_2018summer_1.jpg" alt="京セラインタビュー 2018年夏合宿 その1" width="49%">
-    <img src="linked_assets/activities/burachiribu-kyocera-interview_2018/kyocera_interview_2018summer_2.jpg" alt="京セラインタビュー 2018年夏合宿 その2" width="49%">
+    <img src="linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_kyocera_interview_2018/kyocera_interview_2018summer_1.jpg" alt="京セラインタビュー 2018年夏合宿 その1" width="49%">
+    <img src="llinked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_kyocera_interview_2018/kyocera_interview_2018summer_2.jpg" alt="京セラインタビュー 2018年夏合宿 その2" width="49%">
 </div>
 
 ## 体験活動
