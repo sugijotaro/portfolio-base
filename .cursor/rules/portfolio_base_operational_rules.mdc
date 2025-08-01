@@ -14,14 +14,14 @@ alwaysApply: true
 ## 2. ディレクトリ・ファイル命名規則
 
 ### 2.1. 命名形式
-- 全てのフォルダ名およびファイル名は、**英小文字のケバブケース (`kebab-case`)** に統一します。
-- 単語間はハイフン `-` で連結してください。
-- 例: `ar-quiz-battle`, `life-is-tech`
+- 全てのフォルダ名およびファイル名は、**英小文字のスネークケース (`snake_case`)** に統一します。
+- 単語間はアンダースコア `_` で連結してください。
+- 例: `ar_quiz_battle`, `life_is_tech`
 
 ### 2.2. 日付の付与
 - イベントや期間を持つ活動など、日付を識別子に含める場合は、名前の**末尾**にアンダースコア `_` 区切りで付与します。
-- 形式: `[名前]_[YYYY-MM-DD]` または `[名前]_[YYYY-MM]` または `[名前]_[YYYY]`
-- 例: `nhk-numa-appearance_2021-05-18`, `hakone-trip_2022-08`
+- 形式: `[名前]_[YYYY_MM_DD]` または `[名前]_[YYYY_MM]` または `[名前]_[YYYY]`
+- 例: `nhk_numa_appearance_2021_05_18`, `hakone_trip_2022_08`
 
 ### 2.3. 構造
 1.  **トップレベルディレクトリ構成は変更しないこと**
@@ -39,26 +39,25 @@ alwaysApply: true
 3.  **アイテムのエントリーポイント**
     -   各アイテムは、対応するカテゴリのサブディレクトリ内に専用のフォルダを作成します。
     -   アイテムフォルダ内の主要Markdownファイル名は、その**フォルダ名と完全に一致**させ、拡張子 `.md` を付与します。
-    -   例: `10_Projects/personal/ar-quiz-battle/ar-quiz-battle.md`
+    -   例: `10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md`
 
 ## 3. アセット管理ルール
 
 ### 3.1. 一元管理とパス構造
--   全てのアセット（画像、PDF等）は `linked_assets` サブモジュール内で一元管理します。
--   `linked_assets` 内のパス構造は、冗長なディレクトリを排除し、シンプルに保ちます。
-    -   **パス形式**: `linked_assets/[カテゴリ]/[アイテム名]/[ファイル名]`
-    -   **`[カテゴリ]`**: `projects`, `activities`, `organizations` など、本体のトップレベルに対応する複数形の名前。
-    -   **`[アイテム名]`**: 本体リポジトリのアイテムフォルダ名と一致させる。
-    -   **新パスの例**:
-        -   `linked_assets/projects/ar-quiz-battle/icon.jpg`
-        -   `linked_assets/activities/swift-student-challenge_2020/certificate.jpg`
+- 全てのアセット（画像、PDF等）は `linked_assets` サブモジュール内で一元管理します。
+- `linked_assets` 内のパス構造は、**本体リポジトリのディレクトリ構造を完全にミラーリング（再現）します。** これにより、アセットの場所が直感的にわかります。
+- **パス形式**: `linked_assets/[カテゴリ]/[サブカテゴリ]/.../[アイテム名]/[ファイル名]`
+- **パスの例**:
+    - `linked_assets/10_Projects/personal/sfcway/sfcway_icon.jpg`
+    - `linked_assets/20_Activities/awards/swift_student_challenge_2020/certificate.jpg`
+- このディレクトリ構造は `sync_assets.sh` スクリプトによって維持・管理できます。
 
 ### 3.2. Markdown内での参照
--   Markdownからアセットを参照する際は、上記の新パス構造を使用してください。
--   例: `![ARクイズバトル アイコン](linked_assets/projects/ar-quiz-battle/icon.jpg)`
+- Markdownからアセットを参照する際は、リポジトリのルートからのパスで記述してください。
+- 例: `![SFCWay アイコン](linked_assets/10_Projects/personal/sfcway/sfcway_icon.jpg)`
 
 ### 3.3. 大容量ファイルの管理
--   動画（.mp4, .mov等）やサイズの大きいPDFなど、**10MBを超えるファイルは必ずGit LFSで管理**してください。
+- 動画（.mp4, .mov等）やサイズの大きいPDFなど、**10MBを超えるファイルは必ずGit LFSで管理**してください。（この設定は `linked_assets` 側のリポジトリで行います）
 
 ## 4. Frontmatter (YAML) ルール
 
@@ -81,10 +80,10 @@ alwaysApply: true
       - firebase
     role:
       - pm
-      - ios-lead
+      - ios_lead
     orgs:
-      - infinity-inc
-      - expo-2025
+      - infinity_inc
+      - expo_2025
     links:
       - https://apps.apple.com/ja/app/xxxx
       - https://example.com/pr.pdf
@@ -92,35 +91,35 @@ alwaysApply: true
 
 ## 5. タグ (tags) ルール
 
-1.  **命名規則**: 全てのタグは、フォルダ名・ファイル名と同様に、**英小文字のケバブケース (`kebab-case`)** に統一します。
+1.  **命名規則**: 全てのタグは、フォルダ名・ファイル名と同様に、**英小文字のスネークケース (`snake_case`)** に統一します。
 2.  **言語**: 原則として**英語**を使用してください。
-3.  **一貫性**: 固有名詞もルールに従います。（例: `Life is Tech!` → `life-is-tech`）
+3.  **一貫性**: 固有名詞もルールに従います。（例: `Life is Tech!` → `life_is_tech`）
 
 ## 6. 内容記述とレイアウト
 
 ### 6.1. 記述の基本
--   「自分が何を担当したか」など、役割と貢献を具体的に記述してください。
--   外部リンクはFrontmatterの `links` に必ず記載し、本文中でも必要に応じてリンクしてください。
--   成果、学び、気づき、今後の展望などを記録してください。
+- 「自分が何を担当したか」など、役割と貢献を具体的に記述してください。
+- 外部リンクはFrontmatterの `links` に必ず記載し、本文中でも必要に応じてリンクしてください。
+- 成果、学び、気づき、今後の展望などを記録してください。
 
 ### 6.2. 画像レイアウト
--   **アイコン**: 各プロジェクトのアイコンは、以下のHTMLで右上に配置します。ファイル名は `icon.png` や `icon.jpg` にしてください。
-    ```html
-    <img src="linked_assets/projects/プロジェクト名/icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
-    ```
--   **複数画像（横並び）**: 以下のHTML記法を推奨します。`width` は合計が100%弱になるように調整してください。
-    ```html
-    <div style="display: flex; gap: 10px;">
-        <img src="パス1" alt="説明1" width="32%">
-        <img src="パス2" alt="説明2" width="32%">
-        <img src="パス3" alt="説明3" width="32%">
-    </div>
-    ```
+- **アイコン**: 各プロジェクトのアイコンは、以下のHTMLで右上に配置します。ファイル名は `icon.png` や `icon.jpg` にしてください。
+  ```html
+  <img src="linked_assets/10_Projects/personal/プロジェクト名/icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
+  ```
+- **複数画像（横並び）**: 以下のHTML記法を推奨します。`width` は合計が100%弱になるように調整してください。
+  ```html
+  <div style="display: flex; gap: 10px;">
+      <img src="パス1" alt="説明1" width="32%">
+      <img src="パス2" alt="説明2" width="32%">
+      <img src="パス3" alt="説明3" width="32%">
+  </div>
+  ```
 
 ## 7. 禁止事項
 
--   本ルールに定義されていないディレクトリ構成や命名規則を適用しないこと。
--   Frontmatterの必須項目を省略したり、不正確な情報を記述したりしないこと。
--   機密情報・個人情報を誤ってコミットしないこと。
+- 本ルールに定義されていないディレクトリ構成や命名規則を適用しないこと。
+- Frontmatterの必須項目を省略したり、不正確な情報を記述したりしないこと。
+- 機密情報・個人情報を誤ってコミットしないこと。
 
 以上を常に遵守してください。
