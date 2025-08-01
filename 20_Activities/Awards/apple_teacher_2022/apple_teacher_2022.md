@@ -19,7 +19,7 @@ links:
 summary: Appleが提供する、教育者向けの認定プログラム「Apple Teacher」において、Swift Playgroundsコースの認定を取得しました。
 ---
 
-<img src="linked_assets/20_Activities/Awards/apple_teacher_2022/assets/apple-teacher-icon.jpeg" alt="Apple Teacher Icon" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/20_Activities/awards/apple_teacher_2022/assets/apple-teacher-icon.jpeg" alt="Apple Teacher Icon" style="float: right; width: 100px; margin-left: 16px;">
 
 ## 概要
 
@@ -30,5 +30,5 @@ Appleが提供する、教育者向けの認定プログラム「Apple Teacher�
 ## 認定証
 
 <div style="display: flex; justify-content: center;">
-    <img src="linked_assets/20_Activities/Awards/apple_teacher_2022/assets/apple-teacher-certificate.jpeg" alt="Apple Teacher Certificate" width="80%">
+    <img src="linked_assets/20_Activities/awards/apple_teacher_2022/assets/apple-teacher-certificate.jpeg" alt="Apple Teacher Certificate" width="80%">
 </div>

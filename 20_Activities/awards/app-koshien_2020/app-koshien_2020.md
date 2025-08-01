@@ -22,7 +22,7 @@ summary: |
 色塗りで勉強を習慣化する自作アプリ[[habitan|Habitan]]で、2020年11月に開催されたアプリ甲子園の決勝戦に進出しました。
 アプリ甲子園は、UI/UX、独創性・新規性、消費者支持度、実装力、技術チャレンジの5項目で審査される、2011年から続く歴史あるコンテストです。
 
-<img src="linked_assets/20_Activities/Awards/app_koshien_2020/assets/about_app_koshien.jpg" alt="アプリ甲子園についての説明画像" width="60%">
+<img src="linked_assets/20_Activities/awards/app_koshien_2020/assets/about_app_koshien.jpg" alt="アプリ甲子園についての説明画像" width="60%">
 
 ## 結果と学び
 決勝のプレゼンテーションでは、**独創性・新規性で83点**、**消費者支持度で90点**と高い評価を獲得しました。一方で、実装力や技術チャレンジの項目では評価が振るわず、結果は入賞となりました。
@@ -31,8 +31,8 @@ summary: |
 
 ## 発表・表彰・フィードバック
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="linked_assets/20_Activities/Awards/app_koshien_2020/assets/presentation.jpg" alt="アプリ甲子園決勝でのプレゼンテーション" width="32%">
-    <img src="linked_assets/20_Activities/Awards/app_koshien_2020/assets/award_certificate.jpg" alt="アプリ甲子園の賞状" width="32%">
-    <img src="linked_assets/20_Activities/Awards/app_koshien_2020/assets/feedback_1.jpg" alt="審査員からのフィードバック1" width="32%">
-    <img src="linked_assets/20_Activities/Awards/app_koshien_2020/assets/feedback_2.jpg" alt="審査員からのフィードバック2" width="32%">
+    <img src="linked_assets/20_Activities/awards/app_koshien_2020/assets/presentation.jpg" alt="アプリ甲子園決勝でのプレゼンテーション" width="32%">
+    <img src="linked_assets/20_Activities/awards/app_koshien_2020/assets/award_certificate.jpg" alt="アプリ甲子園の賞状" width="32%">
+    <img src="linked_assets/20_Activities/awards/app_koshien_2020/assets/feedback_1.jpg" alt="審査員からのフィードバック1" width="32%">
+    <img src="linked_assets/20_Activities/awards/app_koshien_2020/assets/feedback_2.jpg" alt="審査員からのフィードバック2" width="32%">
 </div>
