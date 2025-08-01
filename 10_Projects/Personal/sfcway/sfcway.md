@@ -26,11 +26,11 @@ summary: |
   SFC生の通学課題を解決するために開発した、湘南台駅-SFC間のバス時刻表に特化したiOSアプリ。リリース初日にApp Storeナビゲーション部門で103位にランクインし、現在も多くの学生に利用されている（レビュー★4.9）。
 ---
 
-<img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_icon.jpg" alt="SFCWay Icon" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/projects/sfcway/sfcway_icon.jpg" alt="SFCWay Icon" style="float: right; width: 100px; margin-left: 16px;">
 
 ## 概要
 慶應義塾大学SFCの学生が日常的に利用する「湘南台駅 ⇄ SFC」間のバス移動の課題を解決するために、企画からリリースまで全て一人で開発したiOSアプリです。
-このプロジェクトは、[[life_is_tech_activity|Life is Tech!]]のメンター育成研修「Leaders」の最終課題としての一面も持ち合わせています。
+このプロジェクトは、[[life-is-tech|Life is Tech!]]のメンター育成研修「[[lit-leaders-program_2022|Leaders]]」の最終課題としての一面も持ち合わせています。
 
 ## 背景と課題
 SFCへの通学は、多くの学生にとってバスが主要な交通手段です。しかし、既存の時刻表アプリやWebサイトは情報が古かったり、UIが複雑で使いにくかったりという課題がありました。特に、長蛇の列に並ぶバス待ちの時間では、「次のバスまであと何分何秒か」という情報を素早く、直感的に知りたいという切実なニーズがありました。
@@ -53,16 +53,16 @@ SFCへの通学は、多くの学生にとってバスが主要な交通手段�
 ## 関連アセット
 
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_ss_1.jpg" alt="SFCWay Screenshot 1" width="32%">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_ss_2.jpg" alt="SFCWay Screenshot 2" width="32%">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_ranking.jpg" alt="SFCWay Ranking" width="32%">
+    <img src="linked_assets/projects/sfcway/sfcway_ss_1.jpg" alt="SFCWay Screenshot 1" width="32%">
+    <img src="linked_assets/projects/sfcway/sfcway_ss_2.jpg" alt="SFCWay Screenshot 2" width="32%">
+    <img src="linked_assets/projects/sfcway/sfcway_ranking.jpg" alt="SFCWay Ranking" width="32%">
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_proposal_v1.jpg" alt="SFCWay Proposal v1" width="49%">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_concept_memo.jpg" alt="SFCWay Concept Memo" width="49%">
+    <img src="linked_assets/projects/sfcway/sfcway_proposal_v1.jpg" alt="SFCWay Proposal v1" width="49%">
+    <img src="linked_assets/projects/sfcway/sfcway_concept_memo.jpg" alt="SFCWay Concept Memo" width="49%">
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/sfcway/assets/sfcway_initial_concept.png" alt="SFCWay Initial Concept" width="100%">
+    <img src="linked_assets/projects/sfcway/sfcway_initial_concept.png" alt="SFCWay Initial Concept" width="100%">
 </div> 

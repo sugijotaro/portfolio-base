@@ -21,7 +21,7 @@ summary: |
   iPhoneアプリのプログラミング学習を始めてから、初めてApp Storeにリリースした記念すべき最初のアプリ。
 ---
 
-<img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_icon.jpg" alt="時間割アプリ アイコン" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/projects/timetable-app/timetable_app_icon.jpg" alt="時間割アプリ アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 
 2018年5月からプログラミングスクール「Life is Tech！スクール」に通い始め、約1年間の学習の集大成として開発し、2019年3月4日にApp Storeでリリースした時間割管理アプリです。
@@ -30,9 +30,9 @@ summary: |
 
 ## スクリーンショット
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_ss_1.jpg" alt="時間割アプリ スクリーンショット1" width="32%">
-    <img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_ss_2.jpg" alt="時間割アプリ スクリーンショット2" width="32%">
-    <img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_ss_3.jpg" alt="時間割アプリ スクリーンショット3" width="32%">
-    <img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_ss_4.jpg" alt="時間割アプリ スクリーンショット4" width="32%">
-    <img src="linked_assets/10_Projects/personal/timetable_app/assets/timetable_app_ss_5.jpg" alt="時間割アプリ スクリーンショット5" width="32%">
+    <img src="linked_assets/projects/timetable-app/timetable_app_ss_1.jpg" alt="時間割アプリ スクリーンショット1" width="32%">
+    <img src="linked_assets/projects/timetable-app/timetable_app_ss_2.jpg" alt="時間割アプリ スクリーンショット2" width="32%">
+    <img src="linked_assets/projects/timetable-app/timetable_app_ss_3.jpg" alt="時間割アプリ スクリーンショット3" width="32%">
+    <img src="linked_assets/projects/timetable-app/timetable_app_ss_4.jpg" alt="時間割アプリ スクリーンショット4" width="32%">
+    <img src="linked_assets/projects/timetable-app/timetable_app_ss_5.jpg" alt="時間割アプリ スクリーンショット5" width="32%">
 </div>

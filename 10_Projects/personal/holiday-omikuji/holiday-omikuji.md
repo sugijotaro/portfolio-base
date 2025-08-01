@@ -8,8 +8,7 @@ role:
   - デザイン
   - 開発
   - リリース
-orgs:
-  - nhk_hamatta
+orgs: nhk-hamatta
 end_date: 2021-05-18
 tags:
   - ios
@@ -27,11 +26,11 @@ summary: |
   「休日を無駄に過ごしてしまう」という悩みを解決するため、休日の過ごし方を提案するおみくじアプリ。企画からリリースまでがNHK Eテレ『沼にハマってきいてみた』で密着取材された。
 ---
 
-<img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_icon.jpg" alt="休日みくじ アイコン" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_icon.jpg" alt="休日みくじ アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 休日にやることが見つからず、時間を無駄にしてしまうという課題を解決するために開発したiOSアプリです。iPhoneを振ることでおみくじが引かれ、様々な休日の過ごし方が提案されます。
 
-NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロからアプリを企画し開発する様子が密着取材されました。（詳細は [[nhk_numa_appearance]] を参照）
+NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロからアプリを企画し開発する様子が密着取材されました。（詳細は [[nhk-numa-appearance_2021-05-18|沼にハマってきいてみた]] を参照）
 
 ## 主な機能
 - **おみくじ**: iPhoneを振ると、休日の過ごし方が提案されます。
@@ -45,16 +44,16 @@ NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロ
 
 ## スクリーンショット
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_ss_1.jpg" alt="休日みくじスクリーンショット1" width="32%">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_ss_2.jpg" alt="休日みくじスクリーンショット2" width="32%">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_ss_3.jpg" alt="休日みくじスクリーンショット3" width="32%">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_ss_4.jpg" alt="休日みくじスクリーンショット4" width="32%">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/holiday_omikuji_ss_5.jpg" alt="休日みくじスクリーンショット5" width="32%">
+    <img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_ss_1.jpg" alt="休日みくじスクリーンショット1" width="32%">
+    <img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_ss_2.jpg" alt="休日みくじスクリーンショット2" width="32%">
+    <img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_ss_3.jpg" alt="休日みくじスクリーンショット3" width="32%">
+    <img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_ss_4.jpg" alt="休日みくじスクリーンショット4" width="32%">
+    <img src="linked_assets/projects/holiday-omikuji/holiday_omikuji_ss_5.jpg" alt="休日みくじスクリーンショット5" width="32%">
 </div>
 
 ## メディア紹介
 番組内では、MCのサバンナ高橋さんに実際にアプリを体験していただきました。
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/takahashi_san_1.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子1" width="49%">
-    <img src="linked_assets/10_Projects/personal/holiday_omikuji/assets/takahashi_san_2.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子2" width="49%">
+    <img src="linked_assets/projects/holiday-omikuji/takahashi_san_1.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子1" width="49%">
+    <img src="linked_assets/projects/holiday-omikuji/takahashi_san_2.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子2" width="49%">
 </div>

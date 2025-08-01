@@ -26,7 +26,7 @@ summary: |
   Unityの1週間ゲーム開発イベント「Unity1週間ゲームジャム」のお題「回」に合わせて3日間で制作したバスケットボール回しゲーム。初めてインターネットに公開したUnity製のゲーム。
 ---
 
-<img src="linked_assets/10_Projects/personal/spinning_ball/assets/spinning_ball_icon.jpg" alt="Spinning Ball アイコン" style="float: right; width: 100px; margin-left: 16px;">
+<img src="linked_assets/projects/spinning-ball/spinning_ball_icon.jpg" alt="Spinning Ball アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 
 [[unity1week|Unity1週間ゲームジャム]]（お題：「回」）への参加作品として、3日間という短期間で開発したゲームです。友人の間で流行っていたバスケットボール回しから着想を得ました。
@@ -36,9 +36,9 @@ summary: |
 
 ## スクリーンショット
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Projects/personal/spinning_ball/assets/spinning_ball_ss_1.jpg" alt="Spinning Ball スクリーンショット1" width="32%">
-    <img src="linked_assets/10_Projects/personal/spinning_ball/assets/spinning_ball_ss_2.jpg" alt="Spinning Ball スクリーンショット2" width="32%">
-    <img src="linked_assets/10_Projects/personal/spinning_ball/assets/spinning_ball_ss_3.jpg" alt="Spinning Ball スクリーンショット3" width="32%">
+    <img src="linked_assets/projects/spinning-ball/spinning_ball_ss_1.jpg" alt="Spinning Ball スクリーンショット1" width="32%">
+    <img src="linked_assets/projects/spinning-ball/spinning_ball_ss_2.jpg" alt="Spinning Ball スクリーンショット2" width="32%">
+    <img src="linked_assets/projects/spinning-ball/spinning_ball_ss_3.jpg" alt="Spinning Ball スクリーンショット3" width="32%">
 </div>
 
 ## 開発と工夫
