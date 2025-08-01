@@ -61,8 +61,8 @@ summary: "カナダでの10日間の語学研修・ホームステイに参加�
 
 ## 関連資料
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019/assets/canada_experience1.jpg" alt="カナダ留学の様子1" width="48%">
-  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019/assets/canada_experience2.jpg" alt="カナダ留学の様子2" width="48%">
-  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019/assets/canada_experience3.jpg" alt="カナダ留学の様子3" width="48%">
-  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019/assets/canada_experience4.jpg" alt="カナダ留学の様子4" width="48%">
+  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019_07/canada_experience1.jpg" alt="カナダ留学の様子1" width="48%">
+  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019_07/canada_experience2.jpg" alt="カナダ留学の様子2" width="48%">
+  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019_07/canada_experience3.jpg" alt="カナダ留学の様子3" width="48%">
+  <img src="linked_assets/20_Activities/travels/canada_study_abroad_2019_07/canada_experience4.jpg" alt="カナダ留学の様子4" width="48%">
 </div>
