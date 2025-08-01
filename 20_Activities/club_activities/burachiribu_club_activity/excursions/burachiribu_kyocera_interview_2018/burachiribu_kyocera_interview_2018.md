@@ -31,7 +31,7 @@ summary: 2018年夏合宿での京セラインタビューや各種体験活動�
 
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_kyocera_interview_2018/kyocera_interview_2018summer_1.jpg" alt="京セラインタビュー 2018年夏合宿 その1" width="49%">
-    <img src="llinked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_kyocera_interview_2018/kyocera_interview_2018summer_2.jpg" alt="京セラインタビュー 2018年夏合宿 その2" width="49%">
+    <img src="linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_kyocera_interview_2018/kyocera_interview_2018summer_2.jpg" alt="京セラインタビュー 2018年夏合宿 その2" width="49%">
 </div>
 
 ## 体験活動
