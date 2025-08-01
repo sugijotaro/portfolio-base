@@ -39,7 +39,7 @@ links:
 
 学園祭の来場者人気投票では、1500人以上を集客し、例年同じ団体が受賞していた歴史を塗り替えて1位を獲得することができました。
 
-![学園祭ポスター](linked_assets/activities/burachiribu-club-activity/gakuensai_poster_quizbattle.jpg)
+![学園祭ポスター](linked_assets/projects/ar-quiz-battle/gakuensai_poster_quizbattle.jpg)
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/projects/ar-quiz-battle/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
     <img src="linked_assets/projects/ar-quiz-battle/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
@@ -80,8 +80,8 @@ AppleのTestFlightを活用し、多くの友人にiPadでテストプレイを�
 
 ![TestFlightでの配信](linked_assets/projects/ar-quiz-battle/testflight_screenshot.jpg)
 
-![来場者がARクイズを体験する様子](linked_assets/activities/burachiribu-club-activity/quizbattle_customers.jpg)
-![プレイ画面](linked_assets/activities/burachiribu-club-activity/quizbattle_play_scene.jpg)
+![来場者がARクイズを体験する様子](linked_assets/projects/ar-quiz-battle/quizbattle_customers.jpg)
+![プレイ画面](linked_assets/projects/ar-quiz-battle/quizbattle_play_scene.jpg)
 
 ## 成果と学び
 
