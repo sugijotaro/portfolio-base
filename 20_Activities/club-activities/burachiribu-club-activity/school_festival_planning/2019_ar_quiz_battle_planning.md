@@ -17,7 +17,7 @@ tags:
   - quiz
   - planning
 links:
-  - ../10_Projects/Personal/ar_quiz_battle/ar_quiz_battle.md
+  - ../10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md
 summary: 2019年学園祭でのARクイズアプリ「部長とクイズバトル」企画・運営の記録。
 ---
 # 2019年学園祭ARクイズアプリ企画
