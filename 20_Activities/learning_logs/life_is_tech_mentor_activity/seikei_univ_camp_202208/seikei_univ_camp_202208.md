@@ -24,6 +24,6 @@ summary: 2022年夏、成蹊大学で開催された4日間のLife is Tech!キ�
 
 ## 最終日の記念写真
 
-<img src="linked_assets/20_Activities/Life_is_Tech_Mentor_Activity/seikei_univ_camp_202208/assets/final_day_group_photo.jpeg" alt="担当メンバーとの記念写真" width="600">
+<img src="linked_assets/20_Activities/learning_logs/life_is_tech_mentor_activity/seikei_univ_camp_202208/final_day_group_photo.jpeg" alt="担当メンバーとの記念写真" width="600">
 
 最終日、担当した5人のメンバーたちと。

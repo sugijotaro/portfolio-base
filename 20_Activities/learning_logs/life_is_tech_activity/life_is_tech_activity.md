@@ -43,6 +43,6 @@ links:
 この場所での出会いや学びが、[[habitan|Habitan]]や[[ar_quiz_battle|ARクイズバトル]]など、数多くのプロジェクトにつながっていきました。
 
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/20_Activities/life_is_tech_activity/assets/with_ceo.jpg" alt="Life is Tech! 社長の水野雄介さんとの写真" width="49%">
-    <img src="linked_assets/20_Activities/life_is_tech_activity/assets/sfc_award.jpg" alt="SFCのΩ館ステージで代表認定を受ける様子" width="49%">
+    <img src="linked_assets/20_Activities/learning_logs/life_is_tech_activity/with_ceo.jpg" alt="Life is Tech! 社長の水野雄介さんとの写真" width="49%">
+    <img src="linked_assets/20_Activities/learning_logs/life_is_tech_activity/sfc_award.jpg" alt="SFCのΩ館ステージで代表認定を受ける様子" width="49%">
 </div>

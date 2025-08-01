@@ -21,4 +21,4 @@ summary: 2022年4月1日、慶應義塾大学 環境情報学部 SFC に入学�
 
 2022年4月1日、慶應義塾大学に入学しました。
 
-![入学式の記念写真](linked_assets/20_Activities/keio_university_admission_2022/assets/keio_admission_photo.jpg)
+![入学式の記念写真](linked_assets/20_Activities/learning_logs/keio_university_admission_2022/keio_admission_photo.jpg)
