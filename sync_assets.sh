@@ -8,7 +8,7 @@ set -euo pipefail
 # 定数定義
 readonly SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 readonly ASSET_ROOT="${SCRIPT_DIR}/linked_assets"
-readonly TARGET_DIRS=("10_Projects" "20_Activities" "30_Knowledge" "40_Organizations")
+readonly TARGET_DIRS=("10_Achievements" "20_Projects" "30_Background" "40_Personal_Growth" "50_Knowledge_Base" "60_Organizations")
 
 # カラーコード定義
 readonly COLOR_RESET='\033[0m'
