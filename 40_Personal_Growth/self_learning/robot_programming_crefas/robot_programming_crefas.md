@@ -4,17 +4,17 @@ type: personal_growth
 subtype: self_learning
 status: completed
 role:
-- 受講生
+  - participant
 orgs:
-- crefas
+  - crefas
 start_date: 2013-04-01
 end_date: 2017-03-31
 tags:
-- robot-programming
-- lego
-- crefas
-- presentation
-- making
+  - robot_programming
+  - lego
+  - crefas
+  - presentation
+  - making
 summary: 小学4年生から通い始めたロボットプログラミング教室「crefas」で、LEGOのロボットをブロックプログラミングで動かすことに夢中になった。発表会でのプレゼン経験も貴重な学びとなった。
 ---
 ## 概要

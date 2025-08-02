@@ -4,11 +4,12 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 企画
-  - デザイン
-  - 開発
-  - リリース
-orgs: nhk-hamatta
+  - planner
+  - designer
+  - developer
+orgs:
+  - nhk_hamatta
+start_date: 2021-04-01
 end_date: 2021-05-18
 tags:
   - ios
@@ -17,7 +18,7 @@ tags:
   - xcode
   - illustrator
   - photoshop
-  - app-store
+  - app_store
   - application
   - making
 links:

@@ -4,15 +4,16 @@ type: achievement
 subtype: media
 status: completed
 role:
-- 著者
-orgs: setagaya_gakuen
+  - author
+orgs: 
+  - setagaya_gakuen
 start_date: 2020-12-01
 tags:
-- school-magazine
-- gakuyu
-- swift-student-challenge
-- speech-contest
-links: null
+  - school_magazine
+  - gakuyu
+  - swift_student_challenge
+  - speech_contest
+links: []
 summary: 学校誌『学友』2020年Vol.1（第227号）に、Swift Student Challengeでの体験をもとにした創立記念弁論大会での発表「新時代の文化」が掲載されました。
 ---
 

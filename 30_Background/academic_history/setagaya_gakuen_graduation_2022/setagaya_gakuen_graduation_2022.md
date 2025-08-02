@@ -11,10 +11,10 @@ orgs:
 start_date: 2022-03-01
 end_date: 2022-03-01
 tags:
-- setagaya-gakuen
-- graduation
-- high-school
-- valedictorian
+  - setagaya_gakuen
+  - graduation
+  - high_school
+  - valedictorian
 links:
 - https://x.com/sugijotaro/status/1498643869767921666
 - https://x.com/sugijotaro/status/1498647403570032643

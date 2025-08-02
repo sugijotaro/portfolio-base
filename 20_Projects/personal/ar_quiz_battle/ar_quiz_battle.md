@@ -4,33 +4,31 @@ type: project
 subtype: personal
 status: completed
 role:
-- 企画
-- デザイン
-- アプリ開発
-- ARコンテンツ作成
-orgs: org_high_school_geography_club
+  - planner
+  - designer
+  - developer
+orgs:
+  - burachiribu_club_activity
 start_date: 2019-05-18
 end_date: 2019-09-17
 tags:
-- ar
-- ios
-- swift
-- arkit
-- premiere-pro
-- photoshop
-- illustrator
-- school-festival
-- uikit
-- burachiribu
-- application
-- quiz
-- making
+  - ar
+  - ios
+  - swift
+  - arkit
+  - premiere_pro
+  - photoshop
+  - illustrator
+  - school_festival
+  - uikit
+  - burachiribu
+  - application
+  - quiz
+  - making
 summary: 2019年、高校1年時の学園祭で部長を務める地理部で開発したARクイズアプリ。地理部の新聞「ブラチリブNEWS」にiPadをかざすとARで筆者が現れてクイズを出す仕組み。1500人以上を集客し、学園祭の人気投票で1位を獲得、後にApp
   Storeでも公開した。
-media_features:
-- activity_nhk_numa_20210518
 links:
-- https://apps.apple.com/jp/app/id1479295376
+  - https://apps.apple.com/jp/app/id1479295376
 ---
 
 <img src="linked_assets/20_Projects/personal/ar_quiz_battle/ar_quiz_battle_icon.jpg" alt="部長とクイズバトル アイコン" style="float: right; width: 100px; margin-left: 16px;">

@@ -4,18 +4,19 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- 旅行計画
-orgs: org_high_school_geography_club
+  - leader
+  - planner
+orgs:
+  - setagaya_gakuen_geography_club
 start_date: 2019-08-01
+end_date: 2019-08-05
 tags:
-- burachiribu
-- summer-camp
-- matsushima
-- miyagi
-- experience
-links: null
+  - burachiribu
+  - summer_camp
+  - matsushima
+  - miyagi
+  - experience
+links: []
 summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ---
 

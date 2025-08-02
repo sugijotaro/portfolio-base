@@ -4,7 +4,7 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 開発
+  - developer
 orgs:
   - life_is_tech
 start_date: 2018-05-01
@@ -14,7 +14,7 @@ tags:
   - swift
   - xcode
   - uikit
-  - app-store
+  - app_store
   - application
   - making
 summary: |

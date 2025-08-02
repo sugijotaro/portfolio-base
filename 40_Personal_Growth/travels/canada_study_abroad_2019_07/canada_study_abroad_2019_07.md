@@ -4,18 +4,18 @@ type: personal_growth
 subtype: travel
 status: completed
 role:
-- 参加者
+  - participant
 orgs:
-- setagaya_gakuen
+  - setagaya_gakuen
 start_date: 2019-07-18
 end_date: 2019-07-28
 tags:
-- study-abroad
-- canada
-- language-training
-- homestay
-- international-exchange
-- english-improvement
+  - study_abroad
+  - canada
+  - language_training
+  - homestay
+  - international_exchange
+  - english_improvement
 links: []
 summary: カナダでの10日間の語学研修・ホームステイに参加。前年のニュージーランド留学と比較して英語力の向上を実感し、グローバルな視点の重要性を学んだ。
 ---

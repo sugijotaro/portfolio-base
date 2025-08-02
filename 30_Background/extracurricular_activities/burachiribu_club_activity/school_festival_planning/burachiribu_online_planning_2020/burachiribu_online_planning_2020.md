@@ -4,18 +4,21 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- 3Dワールド制作
-orgs: org_high_school_geography_club
+  - leader
+  - planner
+  - developer
+  - designer
+orgs:
+  - setagaya_gakuen_geography_club
 start_date: 2020-10-01
+end_date: 2020-10-31
 tags:
-- burachiribu
-- school-festival
-- online
-- 3d
-- planning
-links: null
+  - burachiribu
+  - school_festival
+  - online
+  - 3d
+  - planning
+links: []
 summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」企画・運営の記録。
 ---
 # 2020年学園祭オンライン展示企画

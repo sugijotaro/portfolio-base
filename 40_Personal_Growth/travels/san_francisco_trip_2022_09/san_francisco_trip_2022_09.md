@@ -4,19 +4,19 @@ type: personal_growth
 subtype: travel
 status: completed
 role:
-- 参加者
-- 探訪者
+  - participant
+  - explorer
 orgs: []
 start_date: 2022-09-28
 end_date: 2022-10-04
 tags:
-- travel
-- san-francisco
-- silicon-valley
-- startup-world-cup
-- apple
-- google
-- tech-tour
+  - travel
+  - san_francisco
+  - silicon_valley
+  - startup_world_cup
+  - apple
+  - google
+  - tech_tour
 summary: 初めてのサンフランシスコ訪問。父の仕事に同行し「スタートアップワールドカップ」に参加。世界中の起業家たちの熱気に触れると共に、シリコンバレーの聖地を巡礼した。
 ---
 ## 概要

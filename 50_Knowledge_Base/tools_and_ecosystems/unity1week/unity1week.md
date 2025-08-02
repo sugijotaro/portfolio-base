@@ -4,14 +4,14 @@ type: knowledge
 subtype: tools_and_ecosystems
 status: completed
 role:
-- 参加者
+  - participant
 start_date: 2017-04-24
-end_date: null
+end_date: ''
 tags:
-- unity
-- game-jam
-- unity1week
-- event
+  - unity
+  - game_jam
+  - unity1week
+  - event
 summary: 'Unityを使って1週間でゲームを作る日本最大級のオンラインゲームジャムイベント。毎回多くのクリエイターが参加し、作品をunityroomに投稿・公開する。
 
   '

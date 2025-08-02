@@ -4,18 +4,17 @@ type: achievement
 subtype: presentation
 status: completed
 role:
-- speaker
-- lt
+  - speaker
 orgs:
-- yotiyoti-swift
+  - yotiyoti_swift
 start_date: 2020-11-27
 end_date: 2020-11-27
 tags:
-- swift
-- lt
-- community-event
-- public-speaking
-- app-koshien
+  - swift
+  - lt
+  - community_event
+  - public_speaking
+  - app_koshien
 links:
 - https://yotiyoti-swift.connpass.com/event/192143/
 - https://x.com/sugijotaro/status/1332334698148765697

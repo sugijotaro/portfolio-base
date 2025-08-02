@@ -4,14 +4,14 @@ type: achievement
 subtype: award
 status: completed
 role:
-  - ファイナリスト
-  - 登壇者
+  - finalist
+  - speaker
 orgs:
-  - app-koshien
+  - app_koshien
 start_date: 2020-11-01 # 決勝戦が開催された月
 end_date: 2020-11-01
 tags:
-  - app-koshien
+  - app_koshien
   - presentation
 projects:
   - habitan

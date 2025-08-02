@@ -4,17 +4,16 @@ type: achievement
 subtype: media
 status: completed
 role:
-- 掲載者
+  - recipient
 orgs:
-- vitamin_mama
-date: 2020-09-01
+  - vitamin_mama
+start_date: 2020-09-01
+end_date: 2020-09-01
 tags:
-- media-coverage
-- vitamin-mama
-- swift-student-challenge
-- local-magazine
-related_activities:
-- award_ssc_2020
+  - media_coverage
+  - vitamin_mama
+  - swift_student_challenge
+  - local_magazine
 summary: 地域情報誌「ビタミンママ」Vol.86にて、Swift Student Challenge 2020への入賞が紹介されました。
 ---
 ## 概要

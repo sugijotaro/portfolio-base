@@ -4,18 +4,17 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- ボーカル
-orgs: camo_maybe
+  - vocalist
+orgs:
+  - camo_maybe
 start_date: 2022-08-07
 end_date: 2022-08-07
 tags:
-- acappella
-- performance
-- music-festival
-- otaru
-- camo-maybe
-related_activities:
-- hokkaido_aomori_trip_202208
+  - acappella
+  - performance
+  - music_festival
+  - otaru
+  - camo_maybe
 summary: アカペラバンド「camo maybe」として、小樽の街を舞台にしたアカペラフェスティバル「樽Fes」に出場。浴衣を着てパフォーマンスを行った。
 ---
 ## 概要

@@ -4,19 +4,18 @@ type: project
 subtype: personal
 status: completed
 role:
-  - ゲーム開発
-  - 3Dモデリング
-  - サウンド
+  - developer
+  - designer
 orgs: 
 start_date: 2021-02-25
 end_date: 2021-02-28
 tags:
   - unity
   - blender
-  - game-jam
+  - game_jam
   - unity1week
   - csharp
-  - app-store
+  - app_store
   - application
   - making
 links:

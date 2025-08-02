@@ -4,18 +4,19 @@ type: achievement
 subtype: presentation
 status: completed
 role:
-- 弁士
+  - speaker
 orgs:
-- setagaya_gakuen
+  - setagaya_gakuen
+start_date: 2021-11-06
 end_date: 2021-11-06
 links:
-- https://youtu.be/UjUdiUo6qig
+  - https://youtu.be/UjUdiUo6qig
 summary: 2021年度の創立記念弁論大会で『ワクワクする生き方』をテーマに弁論し、優勝。YouTubeで弁論の様子も公開。
 tags:
-- speech-contest
-- speech
-- wakuwaku
-- innovation
+  - speech_contest
+  - speech
+  - wakuwaku
+  - innovation
 ---
 ## 概要
 

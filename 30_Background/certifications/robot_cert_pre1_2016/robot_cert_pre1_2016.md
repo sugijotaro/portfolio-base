@@ -4,16 +4,16 @@ type: background
 subtype: certification
 status: completed
 role:
-- 受験者
+  - participant
 orgs:
-- ロボット検定協会
+  - robot_certification_association
 start_date: 2016-06-30
 end_date: 2016-06-30
 tags:
-- robot-certification
-- pre-level-1
-- certification
-- making
+  - robot_certification
+  - pre_level_1
+  - certification
+  - making
 links:
 - https://robogiken.jp/
 summary: 2016年6月30日にロボット検定 準1級に合格。

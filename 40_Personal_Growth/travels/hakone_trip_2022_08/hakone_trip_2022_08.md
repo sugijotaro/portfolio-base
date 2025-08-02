@@ -4,15 +4,15 @@ type: personal_growth
 subtype: travel
 status: completed
 role:
-- 参加者
+  - participant
 orgs: []
 start_date: 2022-08-04
 end_date: 2022-08-06
 tags:
-- travel
-- hakone
-- family-trip
-- onsen
+  - travel
+  - hakone
+  - family_trip
+  - onsen
 summary: 2022年夏の家族旅行で箱根を訪問。温泉や歴史的建造物、アスレチックなどを巡り、リフレッシュした3日間。
 ---
 ## 概要

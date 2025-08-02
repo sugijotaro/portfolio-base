@@ -4,18 +4,19 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- 旅行計画
-orgs: org_high_school_geography_club
+  - leader
+  - planner
+orgs:
+  - setagaya_gakuen_geography_club
 start_date: 2016-04-01
+end_date: 2020-03-31
 tags:
-- burachiribu
-- field-trip
-- travel
-- geography
-- experiential-learning
-links: null
+  - burachiribu
+  - field_trip
+  - travel
+  - geography
+  - experiential_learning
+links: []
 summary: 地理部「ブラチリブ」における観光・巡検活動の全体像と方針、主な成果をまとめたノート。
 ---
 # 観光・巡検活動 概要

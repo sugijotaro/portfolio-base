@@ -10,10 +10,10 @@ orgs:
 start_date: 2022-06-18
 end_date: 2022-06-18
 tags:
-- apple-teacher
-- swift-playgrounds
-- certification
-- swift
+  - apple_teacher
+  - swift_playgrounds
+  - certification
+  - swift
 links:
 - https://twitter.com/sugijotaro/status/1538136380189966336
 summary: Appleが提供する、教育者向けの認定プログラム「Apple Teacher」において、Swift Playgroundsコースの認定を取得しました。

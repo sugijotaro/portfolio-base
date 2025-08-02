@@ -4,21 +4,21 @@ type: personal_growth
 subtype: life_event
 status: completed
 role:
-- Learner
-orgs: null
+  - participant
+orgs: []
 start_date: 2021-12-01
 end_date: 2022-03-31
 tags:
-- exhibition
-- museum
-- xr
-- vr
-- ar
-- gadget
-- photogrammetry
-- travel
-- self-improvement
-- sfc
+  - exhibition
+  - museum
+  - xr
+  - vr
+  - ar
+  - gadget
+  - photogrammetry
+  - travel
+  - self_improvement
+  - sfc
 links:
 - https://x.com/sugijotaro/status/1471454932503252996
 - https://x.com/sugijotaro/status/1472813058460635136

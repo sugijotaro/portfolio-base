@@ -4,20 +4,20 @@ type: background
 subtype: training_program
 status: completed
 role:
-- 研修生
-- 14期生
-- iPhoneアプリプログラミングコース
-orgs: life-is-tech
+  - trainee
+  - 14th
+orgs:
+  - life_is_tech
 start_date: 2022-04-17
 end_date: 2022-07-03
 tags:
-- life-is-tech
-- leaders-program
-- mentorship
-- training
-- swift
-- ios
-- facilitation
+  - life_is_tech
+  - leaders_program
+  - mentorship
+  - training
+  - swift
+  - ios
+  - facilitation
 projects:
 - sfcway
 summary: Life is Tech! のメンター育成プログラム「Leaders」の14期生として、iPhoneアプリプログラミングコースを修了。約3ヶ月間の研修を通じて、技術指導力やファシリテーションスキルを学び、最終課題としてiOSアプリ「SFCWay」を開発。このプログラムを経て、正式にメンターとしてデビューした。

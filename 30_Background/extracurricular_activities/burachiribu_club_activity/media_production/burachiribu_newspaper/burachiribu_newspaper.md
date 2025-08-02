@@ -4,17 +4,17 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 編集
-- 記事執筆
+  - leader
+  - author
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
 start_date: 2018-10-01
+end_date: 2020-03-31
 tags:
-- burachiribu
-- newspaper
-- editing
-- publishing
+  - burachiribu
+  - newspaper
+  - editing
+  - publishing
 links:
 - https://drive.google.com/drive/folders/1MrIoVWPqcHykcmGArWzKvkz3fV2dVHnU
 summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」発行活動の記録。

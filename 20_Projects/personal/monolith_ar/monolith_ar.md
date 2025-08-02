@@ -4,17 +4,18 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 開発
-  - 3Dモデリング
+  - developer
+  - designer
+start_date: 2020-11-18
 end_date: 2020-12-04
 tags:
-  - web-ar
+  - web_ar
   - ar
   - unity
   - blender
   - html
   - css
-  - github-pages
+  - github_pages
   - usdz
   - making
 links:

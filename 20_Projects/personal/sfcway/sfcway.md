@@ -4,10 +4,9 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 企画
-  - デザイン
-  - 開発
-  - リリース
+  - planner
+  - designer
+  - developer
 orgs:
   - life_is_tech
 start_date: 2022-05-15
@@ -17,7 +16,7 @@ tags:
   - swift
   - uikit
   - firebase
-  - app-store
+  - app_store
   - application
   - making
 links:

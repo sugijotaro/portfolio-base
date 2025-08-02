@@ -4,17 +4,20 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- 展示制作
-orgs: org_high_school_geography_club
+  - leader
+  - planner
+  - designer
+  - developer
+orgs:
+  - setagaya_gakuen_geography_club
 start_date: 2019-01-01
+end_date: 2020-10-31
 tags:
-- burachiribu
-- school-festival
-- planning
-- exhibition
-links: null
+  - burachiribu
+  - school_festival
+  - planning
+  - exhibition
+links: []
 summary: 地理部「ブラチリブ」による学園祭での企画・展示活動の全体像をまとめたノート。
 ---
 # 学園祭企画 概要

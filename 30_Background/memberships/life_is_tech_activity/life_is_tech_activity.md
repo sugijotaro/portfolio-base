@@ -4,17 +4,17 @@ type: background
 subtype: membership
 status: completed
 role:
-- メンバー
-- 代表認定者
+  - member
+  - recipient
 orgs:
-- life_is_tech
+  - life_is_tech
 start_date: 2016-08-18
 end_date: 2022-03-30
 tags:
-- life-is-tech
-- programming-school
-- summer-camp
-- making
+  - life_is_tech
+  - programming_school
+  - summer_camp
+  - making
 summary: '中学1年生から高校生までの約5年間、プログラミング教育機関「Life is Tech!」のキャンプやスクールに参加。プログラミングとものづくりの基礎を学び、数々の作品を生み出す原点となった。
 
   '

@@ -4,18 +4,19 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- ARアプリ開発
+  - leader
+  - planner
+  - developer
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
 start_date: 2019-10-01
+end_date: 2019-10-31
 tags:
-- burachiribu
-- school-festival
-- ar
-- quiz
-- planning
+  - burachiribu
+  - school_festival
+  - ar
+  - quiz
+  - planning
 links:
 - ../10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md
 summary: 2019年学園祭でのARクイズアプリ「部長とクイズバトル」企画・運営の記録。

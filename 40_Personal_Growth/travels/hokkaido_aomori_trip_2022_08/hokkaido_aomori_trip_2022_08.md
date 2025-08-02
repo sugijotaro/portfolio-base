@@ -4,16 +4,16 @@ type: personal_growth
 subtype: travel
 status: completed
 role:
-- 参加者
-orgs: null
+  - participant
+orgs: []
 start_date: 2022-08-07
 end_date: 2022-08-12
 tags:
-- travel
-- hokkaido
-- aomori
-- jomon
-- world-heritage
+  - travel
+  - hokkaido
+  - aomori
+  - jomon
+  - world_heritage
 summary: 人生初の北海道上陸を含む5泊6日の旅行。アカペラフェス参加に加え、世界文化遺産「北海道・北東北の縄文遺跡群」を巡るなど、文化と自然を満喫した。
 ---
 ## 概要

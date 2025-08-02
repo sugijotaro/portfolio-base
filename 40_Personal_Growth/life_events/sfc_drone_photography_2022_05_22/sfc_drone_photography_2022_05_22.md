@@ -4,16 +4,17 @@ type: personal_growth
 subtype: life_event
 status: completed
 role:
-- 撮影者
-- ドローン操縦士
+  - photographer
+  - drone_pilot
 orgs:
-- keio-university-sfc
-date: 2022-05-22
+  - keio_university_sfc
+start_date: 2022-05-22
+end_date: 2022-05-22
 tags:
-- drone
-- aerial-photography
-- sfc
-- ecofw
+  - drone
+  - aerial_photography
+  - sfc
+  - ecofw
 links:
 - https://x.com/sugijotaro/status/1528321479318081538
 summary: ドローンを使用し、慶應義塾大学SFCキャンパスの上空30mからの空撮を実施。

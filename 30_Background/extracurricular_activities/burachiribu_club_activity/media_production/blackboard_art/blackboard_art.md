@@ -4,21 +4,22 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- 撮影
-- 編集
+  - leader
+  - planner
+  - designer
+  - developer
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
 start_date: 2020-01-01
+end_date: 2020-01-05
 tags:
-- burachiribu
-- blackboard-art
-- planning
-- expression
-- youtube
-- video-editing
-links: null
+  - burachiribu
+  - blackboard_art
+  - planning
+  - expression
+  - youtube
+  - video_editing
+links: []
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---
 

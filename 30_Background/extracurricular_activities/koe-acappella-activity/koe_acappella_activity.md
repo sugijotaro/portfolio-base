@@ -4,20 +4,20 @@ type: background
 subtype: extracurricular_activity
 status: in_progress
 role:
-- メンバー
-- コーラス
-- ボーカル
+  - member
+  - chorus
+  - vocalist
 orgs:
-- keio-university-sfc
+  - keio_university_sfc
 start_date: 2022-04-11
 end_date: ''
 tags:
-- acappella
-- music
-- club-activity
-- sfc
-- performance
-- extracurricular
+  - acappella
+  - music
+  - club_activity
+  - sfc
+  - performance
+  - extracurricular
 summary: 大学入学後、アカペラシンガーズK.O.E.に所属。ボーカルを中心に様々なパートを担当し、チームでの音楽創作活動に取り組む。七夕祭などの学園祭や外部イベントでのライブパフォーマンスも多数経験。
 ---
 

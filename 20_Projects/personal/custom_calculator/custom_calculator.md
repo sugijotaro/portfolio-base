@@ -4,16 +4,17 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 企画
-  - デザイン
-  - 開発
-orgs: 
+  - planner
+  - designer
+  - developer
+orgs:
+start_date: 2019-12-03
 end_date: 2019-12-03
 tags:
   - ios
   - swift
   - xcode
-  - app-store
+  - app_store
   - uikit
   - application
   - making

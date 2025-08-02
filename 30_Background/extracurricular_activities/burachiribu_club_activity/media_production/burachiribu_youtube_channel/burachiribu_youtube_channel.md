@@ -4,17 +4,18 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 動画企画
-- 編集
+  - leader
+  - planner
+  - designer
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
 start_date: 2018-11-01
+end_date: 2020-03-31
 tags:
-- burachiribu
-- youtube
-- video-editing
-- content-creation
+  - burachiribu
+  - youtube
+  - video_editing
+  - content_creation
 links:
 - https://www.youtube.com/@burachiribu
 summary: 地理部「ブラチリブ」のYouTubeチャンネル運営に関する活動記録。

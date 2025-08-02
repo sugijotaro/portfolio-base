@@ -4,20 +4,20 @@ type: personal_growth
 subtype: life_event
 status: completed
 role:
-- 応募者
-- 企画者
+  - participant
+  - planner
 orgs:
-- 未踏ジュニア
-- 情報処理推進機構
+  - mitou_jr
+  - ipa
 start_date: 2021-04-17
 end_date: 2021-05-31
 tags:
-- mitou-jr
-- smart-projector
-- iot
-- product-development
-- application
-links: null
+  - mitou_jr
+  - smart_projector
+  - iot
+  - product_development
+  - application
+links: []
 summary: 未踏ジュニア2021に「スマートプロジェクター」の開発案を応募し、1次書類審査を突破して2次選考まで進出した。
 ---
 ## 概要

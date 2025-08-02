@@ -3,15 +3,17 @@ title: camo maybe
 type: organization
 subtype: camo_maybe
 status: active
+status: in-progress
 role:
-- メンバー
-orgs: koe-acappella-activity
+  - member
+orgs:
+  - koe_acappella_activity
 start_date: 2022-07-01
 tags:
-- acappella
-- band
-- team
-- music
+  - acappella
+  - band
+  - team
+  - music
 summary: 大学のアカペラサークルで結成された、男2女2の4人組混声アカペラバンド。様々なイベントで活動している。
 ---
 ## 概要

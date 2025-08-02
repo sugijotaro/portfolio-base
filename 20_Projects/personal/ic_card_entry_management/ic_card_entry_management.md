@@ -4,7 +4,7 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 開発
+  - developer
 orgs: 
 start_date: 2020-01-15
 end_date: 2020-01-15
@@ -13,7 +13,7 @@ tags:
   - swift
   - xcode
   - nfc
-  - demo-app
+  - demo_app
   - making
 summary: |
   iPhoneのNFC（近距離無線通信）機能を使ってICカードの読み取りが可能であることを学び、その技術検証のために作成した入退室管理のデモアプリ。

@@ -4,20 +4,19 @@ type: achievement
 subtype: media
 status: completed
 role:
-- 被取材者
+  - interviewee
 orgs:
-- life_is_tech
-date: 2020-07-15
+  - life_is_tech
+start_date: 2020-07-15
+end_date: 2020-07-15
 tags:
-- interview
-- media-coverage
-- swift-tudent-challenge
-- programming-school
-- life-is-tech
-related_activities:
-- award_ssc_2020
+  - interview
+  - media_coverage
+  - swift_student_challenge
+  - programming_school
+  - life_is_tech
 links:
-- https://life-is-tech.com/news/member/2020-interview-award-01
+  - https://life-is-tech.com/news/member/2020-interview-award-01
 summary: Life is Tech! マガジンよりSwift Student Challenge 2020入賞に関するインタビューを受け、プログラミングとの出会いやLife
   is Tech!での経験、ものづくりへの情熱について語った記事が掲載されました。
 ---

@@ -1,11 +1,11 @@
 ---
 title: yotiyoti.swift
 type: organization
-subtype: yotiyoti_swift
+subtype: community
 tags:
-- swift
-- community
-- study-group
+  - swift
+  - community
+  - study_group
 links:
 - https://yotiyoti-swift.connpass.com/
 - https://twitter.com/ikepon0413

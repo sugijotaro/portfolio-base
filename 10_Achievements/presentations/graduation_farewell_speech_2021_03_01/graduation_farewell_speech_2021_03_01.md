@@ -4,15 +4,15 @@ type: achievement
 subtype: presentation
 status: completed
 role:
-- 在校生代表
+  - speaker
 orgs:
-- setagaya_gakuen
+  - setagaya_gakuen
 start_date: 2021-03-01
 end_date: 2021-03-01
 tags:
-- farewell-speech
-- graduation
-- speech
+  - farewell_speech
+  - graduation
+  - speech
 links: []
 summary: 2020年度の高校3年生の卒業式にて、在校生を代表して送辞を担当しました。創立記念弁論大会での一連の経験が、この大役に繋がりました。
 ---

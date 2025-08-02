@@ -6,13 +6,13 @@ status: completed
 role:
 - student
 orgs:
-- keio-university-sfc
+  - keio_university_sfc
 start_date: 2022-04-01
 end_date: 2022-04-01
 tags:
-- sfc
-- keio-university
-- admission
+  - sfc
+  - keio_university
+  - admission
 links:
 - https://www.sfc.keio.ac.jp/
 - https://www.instagram.com/p/Cb1TkEMhfXa/

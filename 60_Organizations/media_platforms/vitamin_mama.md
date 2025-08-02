@@ -1,12 +1,12 @@
 ---
 title: ビタミンママ
-type: organization
-subtype: media_platforms
+type: media_platform
+subtype: local_magazine
 tags:
-- vitamin-mama
-- media
-- local-magazine
-- japan
+  - vitamin_mama
+  - media
+  - local_magazine
+  - japan
 links:
 - https://www.vitamin-mama.com/
 summary: 横浜・川崎エリアのファミリー向け地域情報誌を発行している。

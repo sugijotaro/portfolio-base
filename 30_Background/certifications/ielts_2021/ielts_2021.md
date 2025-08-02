@@ -4,16 +4,16 @@ type: background
 subtype: certification
 status: completed
 role:
-- 受験者
+  - participant
 orgs:
-- IELTS
+  - ielts
 start_date: 2021-07-25
 end_date: 2021-07-25
 tags:
-- ielts
-- english-certification
-- language-certification
-- international-standard
+  - ielts
+  - english_certification
+  - language_certification
+  - international_standard
 links: []
 summary: 2021年7月25日に国際的な英語資格であるIELTSを受験し、Overall 5.0を取得
 ---

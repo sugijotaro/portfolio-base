@@ -4,21 +4,22 @@ type: achievement
 subtype: award
 status: completed
 role:
-- 受賞者
-- アプリ開発者
+  - recipient
+  - developer
 orgs:
-- apple
-date: 2020-06-16
+  - apple
+start_date: 2020-06-16
+end_date: 2020-06-16
 tags:
-- apple
-- wwdc
-- swift-student-challenge
-- programming-contest
-- award
-- ios
-- high-school-student
-related_projects:
-- swift_student_challenge_2020_facemake
+  - apple
+  - wwdc
+  - swift_student_challenge
+  - programming_contest
+  - award
+  - ios
+  - high_school_student
+projects:
+  - swift_student_challenge_2020_facemake
 summary: Appleが開催する世界中の学生向けプログラミングコンテスト「Swift Student Challenge 2020」において、福笑いをモチーフにしたSwift
   Playground作品「Face Make!」で日本人として唯一入賞しました。
 ---

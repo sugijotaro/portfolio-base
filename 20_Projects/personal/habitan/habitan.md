@@ -4,27 +4,24 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 企画
-  - デザイン
-  - 開発
+  - planner
+  - designer
+  - developer
 orgs: 
+start_date: 2020-08-24
 end_date: 2020-09-07
 tags:
   - ios
   - swift
   - firebase
   - xcode
-  - app-store
+  - app_store
   - uikit
   - firestore
-  - app-koshien
+  - app_koshien
   - application
   - making
-summary: |
-  15分ごとに区切られたマスに色を塗って勉強時間を記録し、楽しく学習を習慣化できるiOSアプリ。アプリ甲子園2020ファイナリスト、Life is Tech! スクールカップ最高賞（ゴールドアワード）受賞。
-achievements:
-  - activity_app_koshien_2020
-  - activity_lit_school_cup_2020
+summary: 15分ごとに区切られたマスに色を塗って勉強時間を記録し、楽しく学習を習慣化できるiOSアプリ。アプリ甲子園2020ファイナリスト、Life is Tech! スクールカップ最高賞（ゴールドアワード）受賞。
 ---
 
 <img src="linked_assets/20_Projects/personal/habitan/habitan_icon.jpg" alt="Habitan アイコン" style="float: right; width: 100px; margin-left: 16px;">

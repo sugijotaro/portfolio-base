@@ -4,20 +4,19 @@ type: personal_growth
 subtype: life_event
 status: completed
 role:
-- イベント企画
-- MC
-- アクティビティ担当
+  - planner
+  - mc
 orgs:
-- life_is_tech
+  - life_is_tech
 start_date: 2021-04-10
 end_date: 2021-04-10
 tags:
-- life-is-tech
-- event-planning
-- online-offline-hybrid
-- mc
-- graduation-event
-links: null
+  - life_is_tech
+  - event_planning
+  - online_offline_hybrid
+  - mc
+  - graduation_event
+links: []
 summary: Life is Tech!で大学卒業と同時に卒業するメンターを祝うため、高校生6人でオンライン・オフライン融合型の卒業イベントを企画・運営。MCとアクティビティを担当した。
 ---
 ## 概要

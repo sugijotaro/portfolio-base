@@ -4,14 +4,14 @@ type: achievement
 subtype: award
 status: completed
 role:
-- 受賞者
+  - recipient
 orgs:
-- life_is_tech
+  - life_is_tech
 start_date: 2020-09-01
 end_date: 2020-09-30
 tags:
-- life-is-tech
-- school-cup
+  - life_is_tech
+  - school_cup
 projects:
 - habitan
 summary: 自作の勉強習慣化アプリ「Habitan」が、当時通っていたプログラミングスクールLife is Tech!主催のコンテストで最高賞であるゴールドアワードを受賞した。

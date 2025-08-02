@@ -4,21 +4,20 @@ type: achievement
 subtype: media
 status: completed
 role:
-- 被取材者
+  - interviewee
 orgs:
-- mynavi
-date: 2020-06-16
+  - mynavi
+start_date: 2020-06-16
+end_date: 2020-06-16
 tags:
-- interview
-- media-coverage
-- mynavi-news
-- swift-student-challenge
-- wwdc
-- life-is-tech
-related_activities:
-- award_ssc_2020
+  - interview
+  - media_coverage
+  - mynavi_news
+  - swift_student_challenge
+  - wwdc
+  - life_is_tech
 links:
-- https://news.mynavi.jp/article/20200616-1057966/
+  - https://news.mynavi.jp/article/20200616-1057966/
 summary: Apple Swift Student Challenge 2020入賞に関し、マイナビニュースの山本敦氏より取材を受け、プログラミングを始めたきっかけやアプリ開発の経緯、WWDC
   20への期待について語った記事が掲載されました。
 ---

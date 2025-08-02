@@ -4,24 +4,22 @@ type: project
 subtype: personal
 status: completed
 role:
-  - 企画
-  - デザイン
-  - 開発
-orgs: apple
+  - planner
+  - designer
+  - developer
+orgs:
+  - apple
 start_date: 2020-02-15
 end_date: 2020-05-17
 tags:
   - swift
   - wwdc
-  - swift-student-challenge
+  - swift_student_challenge
   - ios
   - uikit
   - application
   - making
-summary: |
-  Apple主催の世界的なプログラミングコンテスト「Swift Student Challenge 2020」に応募し、日本人で唯一入賞した福笑いをテーマにしたiPadアプリ。
-achievements:
-  - award_ssc_2020
+summary: Apple主催の世界的なプログラミングコンテスト「Swift Student Challenge 2020」に応募し、日本人で唯一入賞した福笑いをテーマにしたiPadアプリ。
 ---
 ## 概要
 Appleが2020年に開催した世界の学生向けプログラミングコンテスト「Swift Student Challenge 2020」への提出作品。日本の伝統的な遊びである「福笑い」をテーマに、iPad上で手軽に楽しめるよう開発しました。

@@ -4,19 +4,21 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- インタビュー
+  - leader
+  - planner
+  - interviewer
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
+  - kyocera
 start_date: 2018-08-01
+end_date: 2018-08-05
 tags:
-- burachiribu
-- summer-camp
-- interview
-- kyocera
-- experience
-links: null
+  - burachiribu
+  - summer_camp
+  - interview
+  - kyocera
+  - experience
+links: []
 summary: 2018年夏合宿での京セラインタビューや各種体験活動の詳細記録。
 ---
 # 2018年夏合宿・京セラインタビュー

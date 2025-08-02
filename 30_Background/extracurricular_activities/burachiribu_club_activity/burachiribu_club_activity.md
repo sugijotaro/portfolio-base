@@ -4,27 +4,25 @@ type: background
 subtype: extracurricular_activity
 status: completed
 role:
-- 部長
-- 企画
-- YouTube動画制作
-- 新聞発行
-- ARアプリ開発
-- 3Dワールド制作
+  - leader
+  - planner
+  - developer
+  - designer
 orgs:
-- org_high_school_geography_club
+  - setagaya_gakuen_geography_club
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
-- burachiribu
-- setagaya-gakuen
-- leadership
-- planning
-- youtube
-- newspaper-publishing
-- ar
-- cluster
-- video-editing
-- management
+  - burachiribu
+  - setagaya_gakuen
+  - leadership
+  - planning
+  - youtube
+  - newspaper_publishing
+  - ar
+  - cluster
+  - video_editing
+  - management
 links:
 - https://www.youtube.com/@burachiribu
 - https://x.com/burachiribu
