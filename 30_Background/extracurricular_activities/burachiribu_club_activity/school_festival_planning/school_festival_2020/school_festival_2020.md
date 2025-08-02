@@ -47,8 +47,8 @@ summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」�
 
 ## 画像ギャラリー
 
-- ![2020年学園祭 ブラチリブONLINE ロゴ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_online_planning_2020/online_logo_2020.jpg)
-- ![ブラチリブONLINE 設計図・スケッチ1](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_online_planning_2020/online_sketch_1.jpg)
-- ![ブラチリブONLINE 設計図・スケッチ2](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_online_planning_2020/online_sketch_2.jpg)
-- ![ブラチリブONLINE 実際の会場の様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_online_planning_2020/online_venue_2025.jpg)
-- ![ブラチリブONLINE PV絵コンテ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_online_planning_2020/online_pv_storyboard_2025.jpg) 
+- ![2020年学園祭 ブラチリブONLINE ロゴ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_logo_2020.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ1](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_sketch_1.jpg)
+- ![ブラチリブONLINE 設計図・スケッチ2](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_sketch_2.jpg)
+- ![ブラチリブONLINE 実際の会場の様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_venue_2025.jpg)
+- ![ブラチリブONLINE PV絵コンテ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_pv_storyboard_2025.jpg) 

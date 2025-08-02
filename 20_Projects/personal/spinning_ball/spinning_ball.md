@@ -31,7 +31,7 @@ summary: |
 [[unity1week|Unity1週間ゲームジャム]]（お題：「回」）への参加作品として、3日間という短期間で開発したゲームです。友人の間で流行っていたバスケットボール回しから着想を得ました。
 この作品は、私にとって初めてインターネット上に公開したUnity製のゲームであり、ゲーム開発の経験における重要な一歩となりました。
 
-![unity1week ロゴ](linked_assets/50_Knowledge_Base/tools_and_ecosystems/unity1week/unity1week_logo.jpg)
+![unity1week ロゴ](linked_assets/60_Organizations/unity1week/unity1week_logo.jpg)
 
 ## スクリーンショット
 <div style="display: flex; gap: 10px;">

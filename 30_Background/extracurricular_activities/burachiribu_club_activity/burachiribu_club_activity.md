@@ -46,8 +46,8 @@ summary: 中学1年時に活動停止中だった地理部を再生させ、4年
 - [[burachiribu_youtube_channel|YouTubeチャンネル運営]]: 観光や部活動の様子を動画で発信。
 - [[burachiribu_newspaper|新聞「ブラチリブNEWS」発行]]: 巡検や調査結果をまとめた新聞を定期発行。
 - [[school_festival_planning|学園祭企画]]: 革新的な展示や企画で学園祭を盛り上げました。
-  - [[burachiribu_ar_quiz_planning_2019|2019年ARクイズアプリ企画]]（→ [[ar_quiz_battle|プロジェクト詳細]])
-  - [[burachiribu_online_planning_2020|2020年オンライン展示企画]]
+  - [[school_festival_2019|2019年ARクイズアプリ企画]]（→ [[ar_quiz_battle|プロジェクト詳細]])
+  - [[school_festival_2020|2020年オンライン展示企画]]
 - [[exam_support_video|中学受験生応援動画]]
 - [[blackboard_art|黒板アート新年企画]]
 

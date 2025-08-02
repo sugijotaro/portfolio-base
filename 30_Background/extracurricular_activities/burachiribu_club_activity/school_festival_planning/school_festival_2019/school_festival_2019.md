@@ -42,6 +42,6 @@ summary: 2019年学園祭でのARクイズアプリ「部長とクイズバト�
 
 ## 画像ギャラリー
 
-- ![2019年学園祭ポスター 部長とクイズバトル](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/gakuensai_poster_quizbattle.jpg)
-- ![部長とクイズバトルプレイの様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_play_scene.jpg)
-- ![部長とクイズバトルをプレイするお客さんたち](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_customers.jpg)
+- ![2019年学園祭ポスター 部長とクイズバトル](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/gakuensai_poster_quizbattle.jpg)
+- ![部長とクイズバトルプレイの様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_play_scene.jpg)
+- ![部長とクイズバトルをプレイするお客さんたち](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_customers.jpg)
