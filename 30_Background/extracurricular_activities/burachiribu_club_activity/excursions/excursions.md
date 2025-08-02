@@ -114,8 +114,8 @@ summary: 地理部「ブラチリブ」における観光・巡検活動の全�
 
 ## 主要な巡検・合宿の詳細
 
-- [[burachiribu_kyocera_interview_2018|2018年夏合宿・京セラインタビュー]]
-- [[burachiribu_matsushima_camp_2019|2019年夏合宿・宮城松島]]
+- [[burachiribu_summer_camp_2018|2018年夏合宿・京セラインタビュー]]
+- [[burachiribu_summer_camp_2019|2019年夏合宿・宮城松島]]
 
 ## 学び・得られた力
 

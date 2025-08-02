@@ -41,8 +41,8 @@ summary: 中学1年時に活動停止中だった地理部を再生させ、4年
 地理部「ブラチリブ」では、以下のような多様な活動を行いました。詳細は各ページをご覧ください。
 
 - [[excursions|観光・巡検活動]]: 月1回の巡検や夏合宿など、体験型の活動を重視。
-  - [[burachiribu_kyocera_interview_2018|2018年夏合宿・京セラインタビュー]]
-  - [[burachiribu_matsushima_camp_2019|2019年夏合宿・宮城松島]]
+  - [[burachiribu_summer_camp_2018|2018年夏合宿・京セラインタビュー]]
+  - [[burachiribu_summer_camp_2019|2019年夏合宿・宮城松島]]
 - [[burachiribu_youtube_channel|YouTubeチャンネル運営]]: 観光や部活動の様子を動画で発信。
 - [[burachiribu_newspaper|新聞「ブラチリブNEWS」発行]]: 巡検や調査結果をまとめた新聞を定期発行。
 - [[school_festival_planning|学園祭企画]]: 革新的な展示や企画で学園祭を盛り上げました。
