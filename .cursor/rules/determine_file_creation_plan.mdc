@@ -1,0 +1,75 @@
+---
+alwaysApply: false
+---
+# 新規ノート作成計画ルール
+
+これから提供される情報（新しい活動記録、プロジェクトの概要、ブログ記事のURLなど）を分析し、このリポジトリのルールに従って、新規作成すべきMarkdownファイルの「計画」を立案してください。
+
+## 1. 情報の分解とエンティティ抽出
+
+まず、提供された情報から中心となる**「エンティティ（実体）」**をすべて抽出します。エンティティとは、記録すべき独立した事柄であり、以下のいずれかに分類されます。
+
+-   **Achievement**: 受賞、メディア掲載、登壇、職務経験など
+-   **Project**: アプリ開発、イベント企画などの制作物
+-   **Background**: 学歴、資格取得、研修、所属活動など
+-   **Personal Growth**: 旅行、自己探求、個人的な学びなど
+-   **Knowledge**: 特定の技術や概念に関する知識
+-   **Organization**: 企業、大学、コミュニティなどの組織
+
+**例:** 「Life is Tech! のイベントで開発したアプリ『SFCWay』が、アプリ甲子園で入賞した」という情報からは、以下の3つのエンティティが抽出できます。
+1.  **Project**: `SFCWay`
+2.  **Achievement**: `アプリ甲子園での入賞`
+3.  **Organization**: `Life is Tech!`, `アプリ甲子園` (もし未登録なら)
+
+## 2. 各エンティティの分類と配置場所の決定
+
+抽出した各エンティティについて、以下のディレクトリ構造マッピングに従い、どのトップレベルカテゴリとサブカテゴリに配置すべきかを決定します。
+
+| エンティティの種類 | トップレベルカテゴリ | サブカテゴリの例 |
+|:--- |:--- |:--- |
+| **Achievement** | `10_Achievements` | `awards`, `media`, `presentations`, `work_experiences` |
+| **Project** | `20_Projects` | `personal`, `client`, `research` |
+| **Background** | `30_Background` | `academic_history`, `certifications`, `extracurricular_activities` |
+| **Personal Growth** | `40_Personal_Growth` | `travels`, `life_events`, `self_learning` |
+| **Knowledge** | `50_Knowledge_Base` | `technical_concepts`, `tools_and_ecosystems` |
+| **Organization** | `60_Organizations` | `company`, `university`, `community` |
+
+## 3. ファイル名の命名
+
+各エンティティのファイル名は、以下の命名規則に従って決定します。
+
+1.  **形式**: **英小文字のスネークケース (`snake_case`)** に統一します。
+2.  **内容**: エンティティの内容を簡潔に表す英語の単語を組み合わせます。
+    - 例: `アプリ甲子園 2024` -> `app_koshien_2024`
+    - 例: `SFCの残留体験` -> `sfc_zanryu_experience`
+3.  **日付**: 必要に応じて、末尾に `_[YYYY_MM_DD]` または `_[YYYY_MM]`  または `_[YYYY]` の形式で日付を付与します。
+    - 例: `nhk_appearance_2024_08_15`
+
+## 4. 作成計画の出力
+
+分析結果を元に、以下の形式で「ファイル作成計画」を出力してください。
+
+---
+
+### **ファイル作成計画**
+
+**分析サマリー:**
+（ここに、提供された情報から何を読み取ったかの簡単な要約を記述）
+
+**作成するファイル一覧:**
+
+1.  **ファイルパス:** `[フルパス]/[ファイル名]/[ファイル名].md`
+    - **Frontmatter案:**
+        ```yaml
+        title: "[日本語の正式名称]"
+        type: "[achievement, project, etc.]"
+        subtype: "[award, personal, etc.]"
+        # ...その他の必須項目
+        ```
+    - **作成理由:** (なぜこのファイルをこの場所に作成するのかの簡潔な説明)
+
+2.  **ファイルパス:** `...`
+    - **Frontmatter案:** `...`
+    - **作成理由:** `...`
+
+---
