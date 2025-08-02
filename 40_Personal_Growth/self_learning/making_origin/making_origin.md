@@ -1,18 +1,17 @@
 ---
 title: 幼少期のものづくり原体験
-type: knowledge
-subtype: origin
+type: personal_growth
+subtype: self_learning
 status: completed
-role:
+role: null
 start_date: 2005-04-01
 end_date: 2010-03-31
 tags:
-  - making
-  - childhood
-  - creation
-  - wakuwaku-san
-summary: |
-  幼少期から家にある材料で様々なものを作ることが好きで、NHK Eテレ「つくってあそぼ」のワクワクさんに強い影響を受けた。自作のラジコンなど、創意工夫の原点となった体験を記録。
+- making
+- childhood
+- creation
+- wakuwaku-san
+summary: 幼少期から家にある材料で様々なものを作ることが好きで、NHK Eテレ「つくってあそぼ」のワクワクさんに強い影響を受けた。自作のラジコンなど、創意工夫の原点となった体験を記録。
 ---
 ## 概要
 小さい頃からものづくりが大好きで、NHK Eテレ「つくってあそぼ」のワクワクさんを見ながら、家にある段ボールや乾電池、豆電球、モーターなどを使って様々なものを作っていました。

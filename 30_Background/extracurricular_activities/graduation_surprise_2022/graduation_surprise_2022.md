@@ -1,24 +1,24 @@
 ---
 title: Life is Tech! 卒業サプライズ 2022
-type: Activity
-subtype: Event
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - MC
-  - Planner
+- MC
+- Planner
 orgs:
-  - life-is-tech
+- life-is-tech
 start_date: 2022-03-01
 end_date: 2022-04-09
 tags:
-  - life-is-tech
-  - event-planning
-  - mc
-  - online-event
-  - hybrid-event
+- life-is-tech
+- event-planning
+- mc
+- online-event
+- hybrid-event
 summary: Life is Tech! を卒業するメンターへの感謝を伝える伝統的なサプライズイベントを、2022年度の運営チームとして企画・実施。コロナ禍に対応したハイブリッド形式（卒業メンターは会場、在校メンバーはZoom参加）を採用し、全体MCとインタラクティブなアクティビティ設計を担当。一体感の創出に貢献した。
 links:
-  - https://x.com/sugijotaro/status/1513154437946441734
+- https://x.com/sugijotaro/status/1513154437946441734
 ---
 
 <img src="linked_assets/30_Background/extracurricular_activities/graduation_surprise_2022/graduation_surprise_2022_icon.jpg" alt="卒業サプライズ2022 イベントTシャツ" style="float: right; width: 200px; margin-left: 24px;">

@@ -1,21 +1,22 @@
 ---
 title: Unity1週間ゲームジャム
 type: knowledge
-subtype: event
+subtype: tools_and_ecosystems
 status: completed
 role:
-  - 参加者
+- 参加者
 start_date: 2017-04-24
-end_date: 
+end_date: null
 tags:
-  - unity
-  - game-jam
-  - unity1week
-  - event
-summary: |
-  Unityを使って1週間でゲームを作る日本最大級のオンラインゲームジャムイベント。毎回多くのクリエイターが参加し、作品をunityroomに投稿・公開する。
+- unity
+- game-jam
+- unity1week
+- event
+summary: 'Unityを使って1週間でゲームを作る日本最大級のオンラインゲームジャムイベント。毎回多くのクリエイターが参加し、作品をunityroomに投稿・公開する。
+
+  '
 links:
-  - https://unityroom.com/unity1weeks
+- https://unityroom.com/unity1weeks
 ---
 
 ![unity1week ロゴ](linked_assets/50_Knowledge_Base/tools_and_ecosystems/unity1week/unity1week_logo.jpg)

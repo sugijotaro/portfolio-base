@@ -1,24 +1,24 @@
 ---
 title: 黒板アート新年企画
-type: activity
-subtype: blackboard_art
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 撮影
-  - 編集
+- 部長
+- 企画
+- 撮影
+- 編集
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2020-01-01
 tags:
-  - burachiribu
-  - blackboard-art
-  - planning
-  - expression
-  - youtube
-  - video-editing
-links: 
+- burachiribu
+- blackboard-art
+- planning
+- expression
+- youtube
+- video-editing
+links: null
 summary: 地理部「ブラチリブ」による新年の黒板アート企画の記録。
 ---
 

@@ -1,20 +1,21 @@
 ---
-title: "創立記念弁論大会"
-type: "activity"
-subtype: "talk"
-status: "completed"
+title: 創立記念弁論大会
+type: achievement
+subtype: presentation
+status: completed
 role:
-  - 弁士
-orgs: ["setagaya_gakuen"]
+- 弁士
+orgs:
+- setagaya_gakuen
 start_date: 2017-11-08
 end_date: 2021-11-06
 tags:
-  - speech-contest
-  - speech
-  - presentation
+- speech-contest
+- speech
+- presentation
 links:
-  - https://youtu.be/UjUdiUo6qig
-summary: "中学2年から高校3年まで5年連続で創立記念弁論大会の決勝に出場し、優勝3回、準優勝1回の成績を収めた。一連の経験を通じて、主張を文章にまとめて分かりやすく話すプレゼンテーション技術が向上し、大勢の前で発表する自信がついた。"
+- https://youtu.be/UjUdiUo6qig
+summary: 中学2年から高校3年まで5年連続で創立記念弁論大会の決勝に出場し、優勝3回、準優勝1回の成績を収めた。一連の経験を通じて、主張を文章にまとめて分かりやすく話すプレゼンテーション技術が向上し、大勢の前で発表する自信がついた。
 ---
 ## 概要
 

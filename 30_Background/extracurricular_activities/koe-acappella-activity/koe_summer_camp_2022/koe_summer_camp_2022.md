@@ -1,19 +1,19 @@
 ---
 title: K.O.E. 夏合宿 2022
-type: activity
-subtype: training_camp
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 参加者
+- 参加者
 orgs:
-  - koe_acappella_activity
+- koe_acappella_activity
 start_date: 2022-09-02
 end_date: 2022-09-04
 tags:
-  - acappella
-  - summer-camp
-  - music
-  - team-building
+- acappella
+- summer-camp
+- music
+- team-building
 summary: 大学のアカペラサークル「K.O.E.」の夏合宿に参加。山梨県の鳴沢村で3日間、集中的に練習し、メンバーとの親睦を深めた。
 ---
 ## 概要

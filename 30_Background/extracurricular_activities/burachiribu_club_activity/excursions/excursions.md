@@ -1,21 +1,21 @@
 ---
 title: ブラチリブ 観光・巡検活動 概要
-type: activity
-subtype: excursions_overview
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 旅行計画
+- 部長
+- 企画
+- 旅行計画
 orgs: org_high_school_geography_club
 start_date: 2016-04-01
 tags:
-  - burachiribu
-  - field-trip
-  - travel
-  - geography
-  - experiential-learning
-links: 
+- burachiribu
+- field-trip
+- travel
+- geography
+- experiential-learning
+links: null
 summary: 地理部「ブラチリブ」における観光・巡検活動の全体像と方針、主な成果をまとめたノート。
 ---
 # 観光・巡検活動 概要

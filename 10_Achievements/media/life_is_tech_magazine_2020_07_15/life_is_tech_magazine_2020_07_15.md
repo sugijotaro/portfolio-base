@@ -1,25 +1,25 @@
 ---
 title: Life is Tech! マガジン掲載『WWDCのプログラミングコンテストに入選！...』
-type: activity
-subtype: media_interview
+type: achievement
+subtype: media
 status: completed
 role:
-  - 被取材者
+- 被取材者
 orgs:
-  - life_is_tech
+- life_is_tech
 date: 2020-07-15
 tags:
-  - interview
-  - media-coverage
-  - swift-tudent-challenge
-  - programming-school
-  - life-is-tech
+- interview
+- media-coverage
+- swift-tudent-challenge
+- programming-school
+- life-is-tech
 related_activities:
-  - award_ssc_2020
+- award_ssc_2020
 links:
-  - https://life-is-tech.com/news/member/2020-interview-award-01
-summary: |
-  Life is Tech! マガジンよりSwift Student Challenge 2020入賞に関するインタビューを受け、プログラミングとの出会いやLife is Tech!での経験、ものづくりへの情熱について語った記事が掲載されました。
+- https://life-is-tech.com/news/member/2020-interview-award-01
+summary: Life is Tech! マガジンよりSwift Student Challenge 2020入賞に関するインタビューを受け、プログラミングとの出会いやLife
+  is Tech!での経験、ものづくりへの情熱について語った記事が掲載されました。
 ---
 ## 概要
 当時通っていたプログラミングスクール「Life is Tech!」のWebマガジンに、クリス氏による[インタビュー記事](https://life-is-tech.com/news/member/2020-interview-award-01)が掲載されました。

@@ -1,22 +1,22 @@
 ---
 title: 2018年夏合宿・京セラインタビュー
-type: activity
-subtype: excursion_event
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - インタビュー
+- 部長
+- 企画
+- インタビュー
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2018-08-01
 tags:
-  - burachiribu
-  - summer-camp
-  - interview
-  - kyocera
-  - experience
-links: 
+- burachiribu
+- summer-camp
+- interview
+- kyocera
+- experience
+links: null
 summary: 2018年夏合宿での京セラインタビューや各種体験活動の詳細記録。
 ---
 # 2018年夏合宿・京セラインタビュー

@@ -1,21 +1,23 @@
 ---
-title: "カナダ語学研修・留学"
-type: "activity"
-subtype: "travel"
-status: "completed"
-role: ["参加者"]
-orgs: ["setagaya_gakuen"]
+title: カナダ語学研修・留学
+type: personal_growth
+subtype: travel
+status: completed
+role:
+- 参加者
+orgs:
+- setagaya_gakuen
 start_date: 2019-07-18
 end_date: 2019-07-28
 tags:
-  - study-abroad
-  - canada
-  - language-training
-  - homestay
-  - international-exchange
-  - english-improvement
+- study-abroad
+- canada
+- language-training
+- homestay
+- international-exchange
+- english-improvement
 links: []
-summary: "カナダでの10日間の語学研修・ホームステイに参加。前年のニュージーランド留学と比較して英語力の向上を実感し、グローバルな視点の重要性を学んだ。"
+summary: カナダでの10日間の語学研修・ホームステイに参加。前年のニュージーランド留学と比較して英語力の向上を実感し、グローバルな視点の重要性を学んだ。
 ---
 
 ## 概要

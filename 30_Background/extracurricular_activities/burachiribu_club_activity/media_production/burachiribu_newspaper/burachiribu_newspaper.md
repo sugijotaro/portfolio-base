@@ -1,22 +1,22 @@
 ---
 title: ブラチリブ新聞「ブラチリブNEWS」発行
-type: activity
-subtype: newspaper
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 編集
-  - 記事執筆
+- 部長
+- 編集
+- 記事執筆
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2018-10-01
 tags:
-  - burachiribu
-  - newspaper
-  - editing
-  - publishing
+- burachiribu
+- newspaper
+- editing
+- publishing
 links:
-  - https://drive.google.com/drive/folders/1MrIoVWPqcHykcmGArWzKvkz3fV2dVHnU
+- https://drive.google.com/drive/folders/1MrIoVWPqcHykcmGArWzKvkz3fV2dVHnU
 summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」発行活動の記録。
 ---
 

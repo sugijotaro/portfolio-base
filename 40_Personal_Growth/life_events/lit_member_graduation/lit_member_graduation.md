@@ -1,24 +1,25 @@
 ---
 title: Life is Tech! での活動の集大成と卒業
-type: activity
-subtype: milestone
+type: personal_growth
+subtype: life_event
 status: completed
 role:
-  - メンバー
-  - 卒業生
-  - 卒業イベントMC
+- メンバー
+- 卒業生
+- 卒業イベントMC
 orgs:
-  - life_is_tech
+- life_is_tech
 start_date: 2022-04-10
 tags:
-  - life-is-tech
-  - graduation
-  - milestone
-  - community
-summary: |
-  中学1年生から約6年間活動した「Life is Tech!」のメンバーを卒業。自身の"ものづくりの原点"であり、数々の挑戦の礎となったコミュニティでの学びの集大成として、卒業イベントではMCも務めた。
+- life-is-tech
+- graduation
+- milestone
+- community
+summary: '中学1年生から約6年間活動した「Life is Tech!」のメンバーを卒業。自身の"ものづくりの原点"であり、数々の挑戦の礎となったコミュニティでの学びの集大成として、卒業イベントではMCも務めた。
+
+  '
 links:
-  - https://x.com/sugijotaro/status/1513154480107560968
+- https://x.com/sugijotaro/status/1513154480107560968
 ---
 
 ## 概要

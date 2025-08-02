@@ -1,22 +1,22 @@
 ---
 title: ブラチリブ YouTubeチャンネル運営
-type: activity
-subtype: youtube_channel
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 動画企画
-  - 編集
+- 部長
+- 動画企画
+- 編集
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2018-11-01
 tags:
-  - burachiribu
-  - youtube
-  - video-editing
-  - content-creation
+- burachiribu
+- youtube
+- video-editing
+- content-creation
 links:
-  - https://www.youtube.com/@burachiribu
+- https://www.youtube.com/@burachiribu
 summary: 地理部「ブラチリブ」のYouTubeチャンネル運営に関する活動記録。
 ---
 

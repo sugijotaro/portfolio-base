@@ -1,16 +1,15 @@
 ---
-title: "世田谷学園中学校・高等学校"
-type: "organization"
-subtype: "school"
+title: 世田谷学園中学校・高等学校
+type: organization
+subtype: setagaya_gakuen
 tags:
-  - setagaya-gakuen
-  - educational-institution
-  - school
-  - japan
+- setagaya-gakuen
+- educational-institution
+- school
+- japan
 links:
-  - https://www.setagayagakuen.ac.jp/
-summary: |
-  東京都世田谷区にある私立男子中学校・高等学校。
+- https://www.setagayagakuen.ac.jp/
+summary: 東京都世田谷区にある私立男子中学校・高等学校。
 ---
 ## 概要
 在籍していた中学校・高等学校です。

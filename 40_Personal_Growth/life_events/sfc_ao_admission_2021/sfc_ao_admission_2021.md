@@ -1,16 +1,23 @@
 ---
-title: "慶應義塾大学SFC AO入試 (2022年度)"
-type: "activity"
-subtype: "entrance-exam"
-status: "completed"
-role: ["applicant"]
-orgs: ["keio-university-sfc"]
-start_date: "2021-08-01"
-end_date: "2021-11-30"
-tags: ["sfc", "ao-admission", "university-entrance-exam", "self-analysis", "statement-of-purpose"]
+title: 慶應義塾大学SFC AO入試 (2022年度)
+type: personal_growth
+subtype: life_event
+status: completed
+role:
+- applicant
+orgs:
+- keio-university-sfc
+start_date: '2021-08-01'
+end_date: '2021-11-30'
+tags:
+- sfc
+- ao-admission
+- university-entrance-exam
+- self-analysis
+- statement-of-purpose
 links:
-  - "https://x.com/sugijotaro/status/1465537511044763648"
-summary: "慶應義塾大学環境情報学部(SFC)へのAO入試の過程と成果の記録。自己分析を通して過去の経験である「地理」と「プログラミング」を結びつけ、「AR触感観光」という独自のビジョンを構築したプロセスと、提出した志望理由書、そしてこの経験を通じて得られた自己理解をまとめた。"
+- https://x.com/sugijotaro/status/1465537511044763648
+summary: 慶應義塾大学環境情報学部(SFC)へのAO入試の過程と成果の記録。自己分析を通して過去の経験である「地理」と「プログラミング」を結びつけ、「AR触感観光」という独自のビジョンを構築したプロセスと、提出した志望理由書、そしてこの経験を通じて得られた自己理解をまとめた。
 ---
 
 ## 概要

@@ -1,23 +1,23 @@
 ---
 title: 未踏ジュニア2021 応募・2次選考進出
-type: activity
-subtype: award
+type: personal_growth
+subtype: life_event
 status: completed
 role:
-  - 応募者
-  - 企画者
+- 応募者
+- 企画者
 orgs:
-  - 未踏ジュニア
-  - 情報処理推進機構
+- 未踏ジュニア
+- 情報処理推進機構
 start_date: 2021-04-17
 end_date: 2021-05-31
 tags:
-  - mitou-jr
-  - smart-projector
-  - iot
-  - product-development
-  - application
-links: 
+- mitou-jr
+- smart-projector
+- iot
+- product-development
+- application
+links: null
 summary: 未踏ジュニア2021に「スマートプロジェクター」の開発案を応募し、1次書類審査を突破して2次選考まで進出した。
 ---
 ## 概要

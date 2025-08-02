@@ -1,23 +1,24 @@
 ---
 title: NHK Eテレ『沼にハマってきいてみた』「スマホアプリ沼」出演
-type: activity
-subtype: media_appearance
+type: achievement
+subtype: media
 status: completed
 role:
-  - 出演者
-  - アプリ開発者
+- 出演者
+- アプリ開発者
 orgs: nhk_hamatta
 start_date: 2021-05-18
 end_date: 2021-08-17
 tags:
-  - tv-appearance
-  - nhk
-  - etv
-  - nhk-hamatta
-  - app-development
-  - high-school-student
-links: 
-summary: NHK Eテレの番組『沼にハマってきいてみた』の「スマホアプリ沼」特集に「世界が認めたアプリ開発高校生」として出演。Apple主催「Swift Student Challenge」入賞、部活でのARクイズアプリ開発、MCサバンナ高橋さんへのプログラミング伝授、新作アプリ「休日おみくじ」の企画から製作までの密着取材など、約15分間にわたり紹介された。
+- tv-appearance
+- nhk
+- etv
+- nhk-hamatta
+- app-development
+- high-school-student
+links: null
+summary: NHK Eテレの番組『沼にハマってきいてみた』の「スマホアプリ沼」特集に「世界が認めたアプリ開発高校生」として出演。Apple主催「Swift Student
+  Challenge」入賞、部活でのARクイズアプリ開発、MCサバンナ高橋さんへのプログラミング伝授、新作アプリ「休日おみくじ」の企画から製作までの密着取材など、約15分間にわたり紹介された。
 ---
 ## 概要
 [[nhk_hamatta|NHK Eテレの番組『沼にハマってきいてみた』]]NHK Eテレの番組『沼にハマってきいてみた』の「スマホアプリ沼」特集に「世界が認めたアプリ開発高校生」として出演しました。

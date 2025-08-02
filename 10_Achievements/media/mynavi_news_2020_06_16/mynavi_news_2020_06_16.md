@@ -1,26 +1,26 @@
 ---
 title: マイナビニュース掲載『WWDCのSwiftプログラムコンテストに入選 日本人高校生の横顔』
-type: activity
-subtype: media_interview
+type: achievement
+subtype: media
 status: completed
 role:
-  - 被取材者
+- 被取材者
 orgs:
-  - mynavi
+- mynavi
 date: 2020-06-16
 tags:
-  - interview
-  - media-coverage
-  - mynavi-news
-  - swift-student-challenge
-  - wwdc
-  - life-is-tech
+- interview
+- media-coverage
+- mynavi-news
+- swift-student-challenge
+- wwdc
+- life-is-tech
 related_activities:
-  - award_ssc_2020
+- award_ssc_2020
 links:
-  - https://news.mynavi.jp/article/20200616-1057966/
-summary: |
-  Apple Swift Student Challenge 2020入賞に関し、マイナビニュースの山本敦氏より取材を受け、プログラミングを始めたきっかけやアプリ開発の経緯、WWDC 20への期待について語った記事が掲載されました。
+- https://news.mynavi.jp/article/20200616-1057966/
+summary: Apple Swift Student Challenge 2020入賞に関し、マイナビニュースの山本敦氏より取材を受け、プログラミングを始めたきっかけやアプリ開発の経緯、WWDC
+  20への期待について語った記事が掲載されました。
 ---
 ## 概要
 Apple Swift Student Challenge 2020での受賞を受けて、[マイナビニュースの山本敦氏によるインタビュー記事](https://news.mynavi.jp/article/20200616-1057966/)が掲載されました。

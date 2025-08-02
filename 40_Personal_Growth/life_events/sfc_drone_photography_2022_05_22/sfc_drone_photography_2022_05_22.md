@@ -1,22 +1,22 @@
 ---
 title: SFCキャンパスのドローン空撮
-type: activity
-subtype: skill_demonstration
+type: personal_growth
+subtype: life_event
 status: completed
 role:
-  - 撮影者
-  - ドローン操縦士
+- 撮影者
+- ドローン操縦士
 orgs:
-  - keio-university-sfc
+- keio-university-sfc
 date: 2022-05-22
 tags:
-  - drone
-  - aerial-photography
-  - sfc
-  - ecofw
+- drone
+- aerial-photography
+- sfc
+- ecofw
 links:
-  - https://x.com/sugijotaro/status/1528321479318081538
-summary: "ドローンを使用し、慶應義塾大学SFCキャンパスの上空30mからの空撮を実施。"
+- https://x.com/sugijotaro/status/1528321479318081538
+summary: ドローンを使用し、慶應義塾大学SFCキャンパスの上空30mからの空撮を実施。
 ---
 
 ## 概要

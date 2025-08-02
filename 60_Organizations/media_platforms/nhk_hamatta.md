@@ -1,16 +1,16 @@
 ---
 title: NHK Eテレ「沼にハマってきいてみた」
 type: organization
-subtype: tv_program
+subtype: media_platforms
 tags:
-  - nhk-hamatta
-  - tv-program
-  - nhk
-  - etv
-  - youth-culture
+- nhk-hamatta
+- tv-program
+- nhk
+- etv
+- youth-culture
 links:
-  - https://www.nhk.jp/p/hamatta/
-  - https://x.com/nhk_hamatta
+- https://www.nhk.jp/p/hamatta/
+- https://x.com/nhk_hamatta
 summary: NHK Eテレで放送されている若者の"沼"文化を紹介する番組。10代の若者たちの多種多様な趣味・嗜好の世界を深く掘り下げる。
 ---
 ## 概要

@@ -1,21 +1,20 @@
 ---
 title: Life is Tech! スクールカップ ゴールドアワード受賞
-type: activity
+type: achievement
 subtype: award
 status: completed
 role:
-  - 受賞者
+- 受賞者
 orgs:
-  - life_is_tech
-start_date: 2020-09-01 # Habitanリリース月
+- life_is_tech
+start_date: 2020-09-01
 end_date: 2020-09-30
 tags:
-  - life-is-tech
-  - school-cup
+- life-is-tech
+- school-cup
 projects:
-  - habitan
-summary: |
-  自作の勉強習慣化アプリ「Habitan」が、当時通っていたプログラミングスクールLife is Tech!主催のコンテストで最高賞であるゴールドアワードを受賞した。
+- habitan
+summary: 自作の勉強習慣化アプリ「Habitan」が、当時通っていたプログラミングスクールLife is Tech!主催のコンテストで最高賞であるゴールドアワードを受賞した。
 ---
 ## 概要
 開発した勉強習慣化アプリ[[habitan|Habitan]]を、当時通っていたプログラミングスクールLife is Tech!内で開催されたコンテスト「スクールカップ」に応募しました。

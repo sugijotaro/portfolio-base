@@ -1,15 +1,16 @@
 ---
-title: "yotiyoti.swift"
-type: "organization"
-subtype: "community"
+title: yotiyoti.swift
+type: organization
+subtype: yotiyoti_swift
 tags:
-  - swift
-  - community
-  - study-group
+- swift
+- community
+- study-group
 links:
-  - https://yotiyoti-swift.connpass.com/
-  - https://twitter.com/ikepon0413
-summary: "SwiftやiOS開発初心者が、初心者同士で学び合い、よちよちから一人前を目指すオンライン勉強会コミュニティ。主にLT（ライトニングトーク）形式のイベントを開催し、参加者同士の交流やアウトプットの場を提供している。ハッシュタグは #yochiyochiswift。主催は@ikepon0413。"
+- https://yotiyoti-swift.connpass.com/
+- https://twitter.com/ikepon0413
+summary: 'SwiftやiOS開発初心者が、初心者同士で学び合い、よちよちから一人前を目指すオンライン勉強会コミュニティ。主にLT（ライトニングトーク）形式のイベントを開催し、参加者同士の交流やアウトプットの場を提供している。ハッシュタグは
+  #yochiyochiswift。主催は@ikepon0413。'
 ---
 
 ## 概要

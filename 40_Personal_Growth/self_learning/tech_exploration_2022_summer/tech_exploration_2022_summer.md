@@ -1,26 +1,26 @@
 ---
 title: 大学入学後の技術・カルチャー探求 (2022年夏〜秋)
-type: activity
-subtype: self-learning
+type: personal_growth
+subtype: self_learning
 status: completed
 role:
-  - Learner
-  - Creator
-  - Observer
+- Learner
+- Creator
+- Observer
 orgs:
-  - keio-university-sfc
+- keio-university-sfc
 start_date: 2022-07-01
 end_date: 2022-09-22
 tags:
-  - self-learning
-  - generative-ai
-  - ar
-  - vr
-  - apple-event
-  - splatoon
-  - flutter-flow
-  - rhino3d
-  - sfc
+- self-learning
+- generative-ai
+- ar
+- vr
+- apple-event
+- splatoon
+- flutter-flow
+- rhino3d
+- sfc
 summary: 大学入学後、初の長期休暇となった2022年夏から秋学期開始までの自主的な探求活動の記録。技術的な学習に加え、新作ゲームやAppleの新製品発表など、カルチャーの最前線にも積極的に触れた。
 ---
 ## 概要

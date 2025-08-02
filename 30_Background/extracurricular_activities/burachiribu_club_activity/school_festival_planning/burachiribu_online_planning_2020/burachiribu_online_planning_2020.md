@@ -1,21 +1,21 @@
 ---
 title: 2020年学園祭オンライン展示企画
-type: activity
-subtype: school_festival_event
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 3Dワールド制作
+- 部長
+- 企画
+- 3Dワールド制作
 orgs: org_high_school_geography_club
 start_date: 2020-10-01
 tags:
-  - burachiribu
-  - school-festival
-  - online
-  - 3d
-  - planning
-links: 
+- burachiribu
+- school-festival
+- online
+- 3d
+- planning
+links: null
 summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」企画・運営の記録。
 ---
 # 2020年学園祭オンライン展示企画

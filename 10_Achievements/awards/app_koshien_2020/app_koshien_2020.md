@@ -1,6 +1,6 @@
 ---
 title: アプリ甲子園2020 決勝進出
-type: activity
+type: achievement
 subtype: award
 status: completed
 role:
@@ -15,8 +15,7 @@ tags:
   - presentation
 projects:
   - habitan
-summary: |
-  自作の勉強習慣化アプリ「Habitan」で、中高生向けアプリ開発コンテスト「アプリ甲子園2020」の決勝に進出。プレゼンテーションでは高評価を得て入賞した。
+summary: 自作の勉強習慣化アプリ「Habitan」で、中高生向けアプリ開発コンテスト「アプリ甲子園2020」の決勝に進出。プレゼンテーションでは高評価を得て入賞した。
 ---
 ## 概要
 色塗りで勉強を習慣化する自作アプリ[[habitan|Habitan]]で、2020年11月に開催されたアプリ甲子園の決勝戦に進出しました。

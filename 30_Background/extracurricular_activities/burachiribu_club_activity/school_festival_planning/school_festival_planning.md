@@ -1,20 +1,20 @@
 ---
 title: ブラチリブ 学園祭企画 概要
-type: activity
-subtype: school_festival_overview
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 展示制作
+- 部長
+- 企画
+- 展示制作
 orgs: org_high_school_geography_club
 start_date: 2019-01-01
 tags:
-  - burachiribu
-  - school-festival
-  - planning
-  - exhibition
-links: 
+- burachiribu
+- school-festival
+- planning
+- exhibition
+links: null
 summary: 地理部「ブラチリブ」による学園祭での企画・展示活動の全体像をまとめたノート。
 ---
 # 学園祭企画 概要

@@ -1,21 +1,21 @@
 ---
 title: 2019年夏合宿・宮城松島
-type: activity
-subtype: excursion_event
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 旅行計画
+- 部長
+- 企画
+- 旅行計画
 orgs: org_high_school_geography_club
 start_date: 2019-08-01
 tags:
-  - burachiribu
-  - summer-camp
-  - matsushima
-  - miyagi
-  - experience
-links: 
+- burachiribu
+- summer-camp
+- matsushima
+- miyagi
+- experience
+links: null
 summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ---
 

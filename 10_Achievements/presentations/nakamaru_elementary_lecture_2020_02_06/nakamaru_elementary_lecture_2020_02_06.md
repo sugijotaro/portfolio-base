@@ -1,19 +1,21 @@
 ---
-title: "世田谷区立中丸小学校 5年生クラス講演"
-type: "activity"
-subtype: "talk"
-status: "completed"
-role: ["講演者"]
-orgs: ["世田谷区立中丸小学校"]
+title: 世田谷区立中丸小学校 5年生クラス講演
+type: achievement
+subtype: presentation
+status: completed
+role:
+- 講演者
+orgs:
+- 世田谷区立中丸小学校
 start_date: 2020-02-06
 end_date: 2020-02-06
 tags:
-  - lecture
-  - elementary-school
-  - career-education
-  - mentor
+- lecture
+- elementary-school
+- career-education
+- mentor
 links: []
-summary: "恩師が勤める世田谷区立中丸小学校の5年1組にて、自分の活動体験をもとに「興味・関心を見極める」「枠を飛び出した発想」「仲間の大切さ」「やり抜く力」について講演した。"
+summary: 恩師が勤める世田谷区立中丸小学校の5年1組にて、自分の活動体験をもとに「興味・関心を見極める」「枠を飛び出した発想」「仲間の大切さ」「やり抜く力」について講演した。
 ---
 
 ## 概要

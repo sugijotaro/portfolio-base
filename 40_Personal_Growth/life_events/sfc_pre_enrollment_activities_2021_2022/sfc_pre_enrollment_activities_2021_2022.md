@@ -1,37 +1,37 @@
 ---
 title: SFC合格後〜入学までの活動 (2021/12〜2022/03)
-type: activity
-subtype: self-learning
+type: personal_growth
+subtype: life_event
 status: completed
 role:
-  - Learner
-orgs: 
+- Learner
+orgs: null
 start_date: 2021-12-01
 end_date: 2022-03-31
 tags:
-  - exhibition
-  - museum
-  - xr
-  - vr
-  - ar
-  - gadget
-  - photogrammetry
-  - travel
-  - self-improvement
-  - sfc
+- exhibition
+- museum
+- xr
+- vr
+- ar
+- gadget
+- photogrammetry
+- travel
+- self-improvement
+- sfc
 links:
-  - https://x.com/sugijotaro/status/1471454932503252996
-  - https://x.com/sugijotaro/status/1472813058460635136
-  - https://x.com/sugijotaro/status/1496775465956089857
-  - https://x.com/sugijotaro/status/1500051147494948866
-  - https://x.com/sugijotaro/status/1472029494630559744
-  - https://x.com/sugijotaro/status/1473140917335134209
-  - https://x.com/sugijotaro/status/1480178693914112000
-  - https://x.com/sugijotaro/status/1485918083751768066
-  - https://x.com/sugijotaro/status/1485923136424280066
-  - https://x.com/sugijotaro/status/1485930023433699337
-  - https://x.com/sugijotaro/status/1491280108778590208
-  - https://x.com/sugijotaro/status/1509445983591346181
+- https://x.com/sugijotaro/status/1471454932503252996
+- https://x.com/sugijotaro/status/1472813058460635136
+- https://x.com/sugijotaro/status/1496775465956089857
+- https://x.com/sugijotaro/status/1500051147494948866
+- https://x.com/sugijotaro/status/1472029494630559744
+- https://x.com/sugijotaro/status/1473140917335134209
+- https://x.com/sugijotaro/status/1480178693914112000
+- https://x.com/sugijotaro/status/1485918083751768066
+- https://x.com/sugijotaro/status/1485923136424280066
+- https://x.com/sugijotaro/status/1485930023433699337
+- https://x.com/sugijotaro/status/1491280108778590208
+- https://x.com/sugijotaro/status/1509445983591346181
 summary: SFC合格後から大学入学までの約4ヶ月間、自身の興味関心に基づき、展示会への参加、ガジェットの試用、旅行、技術習得など多岐にわたる活動を行った記録。
 ---
 

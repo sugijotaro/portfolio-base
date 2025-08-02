@@ -1,23 +1,22 @@
 ---
 title: スターバックスコーヒー 目黒セントラルスクエア店 勤務
-type: activity
-subtype: work-experience
+type: achievement
+subtype: work_experience
 status: in_progress
 role:
-  - Partner
-  - Barista
+- Partner
+- Barista
 orgs:
-  - starbucks_japan
+- starbucks_japan
 start_date: 2022-02-07
-end_date: ""
+end_date: ''
 tags:
-  - part-time-job
-  - work-experience
-  - customer-service
-  - barista
-  - starbucks
-summary: |
-  大学受験終了後の2022年2月から、スターバックスコーヒー目黒セントラルスクエア店でパートナーとして勤務。接客、レジ対応、ドリンク作成などを通じ、チームワークやホスピタリティの重要性を学んでいる。
+- part-time-job
+- work-experience
+- customer-service
+- barista
+- starbucks
+summary: 大学受験終了後の2022年2月から、スターバックスコーヒー目黒セントラルスクエア店でパートナーとして勤務。接客、レジ対応、ドリンク作成などを通じ、チームワークやホスピタリティの重要性を学んでいる。
 ---
 
 ## 概要

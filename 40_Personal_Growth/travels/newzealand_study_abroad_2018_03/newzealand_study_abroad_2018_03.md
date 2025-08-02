@@ -1,20 +1,23 @@
 ---
-title: "ニュージーランド語学研修・留学"
-type: "activity"
-subtype: "travel"
-status: "completed"
-role: ["参加者", "代表スピーカー"]
-orgs: ["setagaya_gakuen"]
+title: ニュージーランド語学研修・留学
+type: personal_growth
+subtype: travel
+status: completed
+role:
+- 参加者
+- 代表スピーカー
+orgs:
+- setagaya_gakuen
 start_date: 2018-03-20
 end_date: 2018-03-29
 tags:
-  - study-abroad
-  - new-zealand
-  - language-training
-  - homestay
-  - international-exchange
+- study-abroad
+- new-zealand
+- language-training
+- homestay
+- international-exchange
 links: []
-summary: "学校内選抜を通過し、ニュージーランドでの9日間の語学研修・ホームステイに参加。異なる教育システムや文化に触れ、最終日には代表として感謝の言葉を述べた。"
+summary: 学校内選抜を通過し、ニュージーランドでの9日間の語学研修・ホームステイに参加。異なる教育システムや文化に触れ、最終日には代表として感謝の言葉を述べた。
 ---
 
 ## 概要

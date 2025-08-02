@@ -1,21 +1,21 @@
 ---
 title: ロボット検定 準1級 合格
-type: activity
-subtype: certificate
+type: background
+subtype: certification
 status: completed
 role:
-  - 受験者
+- 受験者
 orgs:
-  - ロボット検定協会
+- ロボット検定協会
 start_date: 2016-06-30
 end_date: 2016-06-30
 tags:
-  - robot-certification
-  - pre-level-1
-  - certification
-  - making
+- robot-certification
+- pre-level-1
+- certification
+- making
 links:
-  - https://robogiken.jp/
+- https://robogiken.jp/
 summary: 2016年6月30日にロボット検定 準1級に合格。
 ---
 

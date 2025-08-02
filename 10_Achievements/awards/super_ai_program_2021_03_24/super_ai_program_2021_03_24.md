@@ -1,23 +1,23 @@
 ---
 title: スーパーAIプログラム2021 最優秀賞受賞
-type: activity
+type: achievement
 subtype: award
 status: completed
 role:
-  - チームリーダー
-  - 発案者
-  - プレゼン資料作成
+- チームリーダー
+- 発案者
+- プレゼン資料作成
 orgs:
-  - 技術評論社
+- 技術評論社
 start_date: 2021-03-24
 end_date: 2021-04-04
 tags:
-  - ai
-  - vr
-  - super-ai-program
-  - presentation
-  - grand-prize
-links: 
+- ai
+- vr
+- super-ai-program
+- presentation
+- grand-prize
+links: null
 summary: スーパーAIプログラム（2021年3月24日～4月4日）にて、食品ロスと栄養バランスの偏りを同時に解決するAI活用サービス案を発案・プレゼンし、最優秀賞を受賞した。
 ---
 ## 概要

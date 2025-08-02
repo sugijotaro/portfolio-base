@@ -1,15 +1,14 @@
 ---
-title: "株式会社マイナビ"
-type: "organization"
-subtype: "media_company"
+title: 株式会社マイナビ
+type: organization
+subtype: media_platforms
 tags:
-  - mynavi-news
-  - media
-  - japan
+- mynavi-news
+- media
+- japan
 links:
-  - https://news.mynavi.jp/
-summary: |
-  日本の大手人材・広告企業。ニュースサイト「マイナビニュース」を運営している。
+- https://news.mynavi.jp/
+summary: 日本の大手人材・広告企業。ニュースサイト「マイナビニュース」を運営している。
 ---
 ## 概要
 株式会社マイナビが運営するニュースサイト。IT、ビジネス、エンタメなど幅広い分野のニュースを扱っています。

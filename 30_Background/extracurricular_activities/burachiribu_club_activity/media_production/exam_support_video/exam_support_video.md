@@ -1,25 +1,25 @@
 ---
 title: 中学受験生応援動画企画
-type: activity
-subtype: support_video
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - 撮影
-  - 編集
+- 部長
+- 企画
+- 撮影
+- 編集
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2020-01-27
 tags:
-  - burachiribu
-  - support
-  - video
-  - entrance-exam
-  - youtube
-  - video-editing
+- burachiribu
+- support
+- video
+- entrance-exam
+- youtube
+- video-editing
 links:
-  - https://youtu.be/YHYCAC8KM6w
+- https://youtu.be/YHYCAC8KM6w
 summary: 地理部「ブラチリブ」による中学受験生応援動画制作の記録。
 ---
 

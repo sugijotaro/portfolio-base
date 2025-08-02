@@ -1,19 +1,19 @@
 ---
 title: SFC名物「残留」初体験
-type: activity
-subtype: campus_life
+type: personal_growth
+subtype: life_event
 status: completed
 role:
-  - 参加者
+- 参加者
 orgs:
-  - keio-university-sfc
+- keio-university-sfc
 start_date: 2022-06-21
 end_date: 2022-06-22
 tags:
-  - sfc
-  - zanryu
-  - campus-life
-  - community
+- sfc
+- zanryu
+- campus-life
+- community
 summary: コロナ禍を経て再開されたSFCのユニークな文化「残留」を友人4人と共に初体験。キャンパス内の教室に泊まり込み、SFCのコミュニティと文化に深く浸った一泊二日。
 ---
 ## 概要

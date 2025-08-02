@@ -1,23 +1,23 @@
 ---
 title: 2019年学園祭ARクイズアプリ企画
-type: activity
-subtype: school_festival_event
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - ARアプリ開発
+- 部長
+- 企画
+- ARアプリ開発
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2019-10-01
 tags:
-  - burachiribu
-  - school-festival
-  - ar
-  - quiz
-  - planning
+- burachiribu
+- school-festival
+- ar
+- quiz
+- planning
 links:
-  - ../10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md
+- ../10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md
 summary: 2019年学園祭でのARクイズアプリ「部長とクイズバトル」企画・運営の記録。
 ---
 # 2019年学園祭ARクイズアプリ企画

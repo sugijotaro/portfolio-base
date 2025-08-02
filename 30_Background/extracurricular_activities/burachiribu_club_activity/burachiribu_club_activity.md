@@ -1,34 +1,34 @@
 ---
 title: 地理部「ブラチリブ」の活動
-type: activity
-subtype: club_activity
+type: background
+subtype: extracurricular_activity
 status: completed
 role:
-  - 部長
-  - 企画
-  - YouTube動画制作
-  - 新聞発行
-  - ARアプリ開発
-  - 3Dワールド制作
+- 部長
+- 企画
+- YouTube動画制作
+- 新聞発行
+- ARアプリ開発
+- 3Dワールド制作
 orgs:
-  - org_high_school_geography_club
+- org_high_school_geography_club
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
-  - burachiribu
-  - setagaya-gakuen
-  - leadership
-  - planning
-  - youtube
-  - newspaper-publishing
-  - ar
-  - cluster
-  - video-editing
-  - management
+- burachiribu
+- setagaya-gakuen
+- leadership
+- planning
+- youtube
+- newspaper-publishing
+- ar
+- cluster
+- video-editing
+- management
 links:
-  - https://www.youtube.com/@burachiribu
-  - https://x.com/burachiribu
-  - https://www.setagayagakuen.ac.jp/life/club/geography/
+- https://www.youtube.com/@burachiribu
+- https://x.com/burachiribu
+- https://www.setagayagakuen.ac.jp/life/club/geography/
 summary: 中学1年時に活動停止中だった地理部を再生させ、4年間部長として活動。YouTubeへの動画投稿、新聞発行、ARアプリ開発、オンライン学園祭でのバーチャルブース出展など、前例のない活動を展開し、部員数を2名から20名にまで増やした。
 ---
 
