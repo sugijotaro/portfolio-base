@@ -51,8 +51,8 @@ summary: Life is Tech!で大学卒業と同時に卒業するメンターを祝�
 
 ## 関連資料
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="linked_assets/20_Activities/learning_logs/lit_mentor_graduation_event_2021/event_scene1.jpg" alt="メンター卒業イベントの様子1" width="48%">
-  <img src="linked_assets/20_Activities/learning_logs/lit_mentor_graduation_event_2021/event_scene2.jpg" alt="メンター卒業イベントの様子2" width="48%">
-  <img src="linked_assets/20_Activities/learning_logs/lit_mentor_graduation_event_2021/event_scene3.jpg" alt="メンター卒業イベントの様子3" width="48%">
-  <img src="linked_assets/20_Activities/learning_logs/lit_mentor_graduation_event_2021/event_scene4.jpg" alt="メンター卒業イベントの様子4" width="48%">
+  <img src="linked_assets/40_Personal_Growth/life_events/lit_mentor_graduation_event_2021/event_scene1.jpg" alt="メンター卒業イベントの様子1" width="48%">
+  <img src="linked_assets/40_Personal_Growth/life_events/lit_mentor_graduation_event_2021/event_scene2.jpg" alt="メンター卒業イベントの様子2" width="48%">
+  <img src="linked_assets/40_Personal_Growth/life_events/lit_mentor_graduation_event_2021/event_scene3.jpg" alt="メンター卒業イベントの様子3" width="48%">
+  <img src="linked_assets/40_Personal_Growth/life_events/lit_mentor_graduation_event_2021/event_scene4.jpg" alt="メンター卒業イベントの様子4" width="48%">
 </div>

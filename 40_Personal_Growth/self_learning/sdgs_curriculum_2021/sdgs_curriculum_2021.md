@@ -54,6 +54,6 @@ summary: "国連事務総長特別顧問Dr. Jeffrey D. Sachs認定のSDGsカリ�
 
 ## 関連資料
 <div style="display: flex; gap: 10px;">
-  <img src="linked_assets/20_Activities/learning_logs/sdgs_curriculum_2021/sdgs_curriculum_scene1.jpg" alt="SDGsカリキュラムの様子1" width="48%">
-  <img src="linked_assets/20_Activities/learning_logs/sdgs_curriculum_2021/sdgs_curriculum_scene2.jpg" alt="SDGsカリキュラムの様子2" width="48%">
+  <img src="linked_assets/40_Personal_Growth/self_learning/sdgs_curriculum_2021/sdgs_curriculum_scene1.jpg" alt="SDGsカリキュラムの様子1" width="48%">
+  <img src="linked_assets/40_Personal_Growth/self_learning/sdgs_curriculum_2021/sdgs_curriculum_scene2.jpg" alt="SDGsカリキュラムの様子2" width="48%">
 </div>

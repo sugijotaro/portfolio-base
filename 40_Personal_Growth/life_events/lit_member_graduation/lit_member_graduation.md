@@ -32,15 +32,15 @@ links:
 かつて自分がそうであったように、参加したメンバーとメンターが自然に交流し、刺激し合える場を作りたいという思いを込めて企画しました。自分がLife is Tech!から受け取った「人と繋がる楽しさ」「認め合い高め合う文化」を、少しでも次の世代に繋げられたと感じた、忘れられない経験です。
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="linked_assets/20_Activities/club_activities/graduation_surprise_2022/graduation_surprise_2022_group.jpg" alt="卒業サプライズの様子1" width="48%">
-    <img src="linked_assets/20_Activities/club_activities/graduation_surprise_2022/graduation_surprise_2022_mc.jpg" alt="卒業サプライズの様子2" width="48%">
+    <img src="linked_assets/30_Background/extracurricular_activities/club_activities/graduation_surprise_2022/graduation_surprise_2022_group.jpg" alt="卒業サプライズの様子1" width="48%">
+    <img src="linked_assets/30_Background/extracurricular_activities/club_activities/graduation_surprise_2022/graduation_surprise_2022_mc.jpg" alt="卒業サプライズの様子2" width="48%">
 </div>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 16px;">
-	<img src="linked_assets/20_Activities/learning_logs/lit_member_graduation/lit_logo_photo.jpg" alt="Life is Tech! ロゴの前で" width="48%">
-    <img src="linked_assets/20_Activities/awards/app_koshien_2020/presentation2.jpg" alt="アプリ甲子園での発表" width="48%">
-    <img src="linked_assets/20_Activities/learning_logs/lit_member_graduation/lit_camp_ssc_intro.jpg" alt="Life is Tech! キャンプでの様子" width="48%">
-    <img src="linked_assets/20_Activities/learning_logs/lit_member_graduation/lit_school_mentoring.jpg" alt="Life is Tech! スクールでの開発風景" width="48%">
+	<img src="linked_assets/40_Personal_Growth/life_events/lit_member_graduation/lit_logo_photo.jpg" alt="Life is Tech! ロゴの前で" width="48%">
+    <img src="linked_assets/10_Achievements/awards/app_koshien_2020/presentation2.jpg" alt="アプリ甲子園での発表" width="48%">
+    <img src="linked_assets/40_Personal_Growth/life_events/lit_member_graduation/lit_camp_ssc_intro.jpg" alt="Life is Tech! キャンプでの様子" width="48%">
+    <img src="linked_assets/40_Personal_Growth/life_events/lit_member_graduation/lit_school_mentoring.jpg" alt="Life is Tech! スクールでの開発風景" width="48%">
 </div>
 
 ## Life is Tech! が育んだもの
