@@ -25,7 +25,7 @@ summary: 2022年3月1日、世田谷学園高等学校を卒業。6年間の学�
 ## 概要
 2022年3月1日、6年間通った世田谷学園高等学校を卒業しました。
 
-![](linked_assets/20_Activities/learning_logs/setagaya_gakuen_graduation_2022/graduation_photo.jpg)
+![](linked_assets/30_Background/academic_history/setagaya_gakuen_graduation_2022/graduation_photo.jpg)
 
 また、卒業生代表で答辞を務めました。
-![](linked_assets/20_Activities/learning_logs/setagaya_gakuen_graduation_2022/valedictorian_speech_photo.jpg)
+![](linked_assets/30_Background/academic_history/setagaya_gakuen_graduation_2022/valedictorian_speech_photo.jpg)

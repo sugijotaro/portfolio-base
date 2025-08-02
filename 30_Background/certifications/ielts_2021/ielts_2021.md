@@ -25,4 +25,4 @@ summary: "2021年7月25日に国際的な英語資格であるIELTSを受験し�
 - 各技能のスコアは証明書参照
 
 ## 関連資料
-<img src="linked_assets/20_Activities/certifications/ielts_2021/ielts_certificate_2021.jpg" alt="IELTSスコア証明書" width="60%">
+<img src="linked_assets/30_Background/certifications/ielts_2021/ielts_certificate_2021.jpg" alt="IELTSスコア証明書" width="60%">
