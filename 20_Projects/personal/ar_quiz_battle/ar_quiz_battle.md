@@ -39,10 +39,10 @@ links:
 
 学園祭の来場者人気投票では、1500人以上を集客し、例年同じ団体が受賞していた歴史を塗り替えて1位を獲得することができました。
 
-![学園祭ポスター](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/gakuensai_poster_quizbattle.jpg)
+![学園祭ポスター](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/gakuensai_poster_quizbattle.jpg)
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
-    <img src="linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
+    <img src="linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/award_group_photo_1.jpg" alt="人気投票1位の集合写真" width="49%">
+    <img src="linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/award_group_photo_2_with_prize.jpg" alt="景品を受け取った際の集合写真" width="49%">
 </div>
 
 ## 背景と課題
@@ -80,8 +80,8 @@ AppleのTestFlightを活用し、多くの友人にiPadでテストプレイを�
 
 ![TestFlightでの配信](linked_assets/20_Projects/personal/ar_quiz_battle/testflight_screenshot.jpg)
 
-![来場者がARクイズを体験する様子](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_customers.jpg)
-![プレイ画面](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_play_scene.jpg)
+![来場者がARクイズを体験する様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_customers.jpg)
+![プレイ画面](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_play_scene.jpg)
 
 ## 成果と学び
 
