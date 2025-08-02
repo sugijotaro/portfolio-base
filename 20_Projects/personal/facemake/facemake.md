@@ -46,9 +46,9 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 ![Screenshot 5](linked_assets/20_Projects/personal/facemake/facemake_screenshot_5.jpg)
 
 ## 受賞と影響
-本プロジェクトでの受賞は、[[swift-student-challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
+本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
 
-この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk-hamatta|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
+この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[hamatta|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
 
 ## メディア紹介
 - [[swift-student-challenge_2020|Swift Student Challenge 2020 受賞]]
