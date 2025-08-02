@@ -2,7 +2,6 @@
 title: camo maybe
 type: organization
 subtype: camo_maybe
-status: active
 status: in-progress
 role:
   - member
