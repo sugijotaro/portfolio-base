@@ -32,7 +32,7 @@ APIや静的サイト等のデータソースとしても活用できる設計�
 - 全てのアセット（画像、PDF等）は `linked_assets` サブモジュールで一元管理します。
 - `linked_assets` 内のディレクトリ構造は、このリポジトリの構造を完全にミラーリングします。
   - (`sync_assets.sh` スクリプトで同期可能です)
-- Markdownからの参照は `linked_assets/10_Projects/...` のように、ルートからのパスで記述します。
+- Markdownからの参照は `linked_assets/20_Projects/...` のように、ルートからのパスで記述します。
 - 10MBを超える大容量ファイルは、`linked_assets` 側でGit LFSを使用して管理します。
 
 ---
