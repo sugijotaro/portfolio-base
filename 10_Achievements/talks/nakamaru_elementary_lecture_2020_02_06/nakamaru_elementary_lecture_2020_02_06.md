@@ -45,6 +45,6 @@ summary: "恩師が勤める世田谷区立中丸小学校の5年1組にて、�
 
 ## 関連資料
 <div style="display: flex; gap: 10px;">
-  <img src="linked_assets/10_Achievements/presentations/talks/nakamaru_elementary_lecture_2020_02_06/lecture_scene1.jpg" alt="中丸小学校での講演の様子1" width="48%">
-  <img src="linked_assets/10_Achievements/presentations/talks/nakamaru_elementary_lecture_2020_02_06/lecture_scene2.jpg" alt="中丸小学校での講演の様子2" width="48%">
+  <img src="linked_assets/10_Achievements/talks/nakamaru_elementary_lecture_2020_02_06/lecture_scene1.jpg" alt="中丸小学校での講演の様子1" width="48%">
+  <img src="linked_assets/10_Achievements/talks/nakamaru_elementary_lecture_2020_02_06/lecture_scene2.jpg" alt="中丸小学校での講演の様子2" width="48%">
 </div>
