@@ -38,24 +38,24 @@ summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」�
 ## 画像ギャラリー
 
 新聞「ブラチリブNEWS」紙面1
-![ブラチリブNEWS 紙面1](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_1.jpg)
+![ブラチリブNEWS 紙面1](inked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_1.jpg)
 新聞「ブラチリブNEWS」紙面2
-![ブラチリブNEWS 紙面2](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_2.jpg)
+![ブラチリブNEWS 紙面2](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_2.jpg)
 新聞「ブラチリブNEWS」紙面3
-![ブラチリブNEWS 紙面3](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_3.jpg)
+![ブラチリブNEWS 紙面3](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_3.jpg)
 新聞「ブラチリブNEWS」紙面4
-![ブラチリブNEWS 紙面4](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_4.jpg)
+![ブラチリブNEWS 紙面4](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_4.jpg)
 新聞「ブラチリブNEWS」紙面5
-![ブラチリブNEWS 紙面5](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_5.jpg)
+![ブラチリブNEWS 紙面5](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_5.jpg)
 新聞「ブラチリブNEWS」紙面6
-![ブラチリブNEWS 紙面6](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_6.jpg)
+![ブラチリブNEWS 紙面6](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_6.jpg)
 新聞「ブラチリブNEWS」紙面7
-![ブラチリブNEWS 紙面7](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_7.jpg)
+![ブラチリブNEWS 紙面7](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_7.jpg)
 新聞「ブラチリブNEWS」紙面8
-![ブラチリブNEWS 紙面8](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_8.jpg)
+![ブラチリブNEWS 紙面8](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_8.jpg)
 新聞「ブラチリブNEWS」紙面9
-![ブラチリブNEWS 紙面9](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_9.jpg)
+![ブラチリブNEWS 紙面9](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_9.jpg)
 新聞「ブラチリブNEWS」紙面10
-![ブラチリブNEWS 紙面10](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_10.jpg)
+![ブラチリブNEWS 紙面10](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_10.jpg)
 新聞「ブラチリブNEWS」紙面11
-![ブラチリブNEWS 紙面11](linked_assets/20_Activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_11.jpg)
+![ブラチリブNEWS 紙面11](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_11.jpg)

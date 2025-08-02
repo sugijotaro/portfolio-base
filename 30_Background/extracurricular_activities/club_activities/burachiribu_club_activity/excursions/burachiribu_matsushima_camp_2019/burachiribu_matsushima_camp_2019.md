@@ -26,12 +26,12 @@ summary: 2019年夏合宿（宮城・松島）での活動詳細記録。
 ## 巡検の流れ
 
 - **松島観光:** 日本三景の一つである松島を訪れ、島々を巡る遊覧船や歴史的な寺院を見学しました。
-  ![宮城 松島 2019年夏合宿 その1](linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_matsushima_2019summer_1.jpg)
-  ![宮城 松島 2019年夏合宿 その2](linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_matsushima_2019summer_2.jpg)
+  ![宮城 松島 2019年夏合宿 その1](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_matsushima_2019summer_1.jpg)
+  ![宮城 松島 2019年夏合宿 その2](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_matsushima_2019summer_2.jpg)
 - **仙台城跡:** 伊達政宗ゆかりの仙台城跡を訪れ、東北の歴史や文化について学びました。
-  ![宮城 仙台城 2019年夏合宿](linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_sendaijo_2019summer.jpg)
+  ![宮城 仙台城 2019年夏合宿](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/miyagi_sendaijo_2019summer.jpg)
 - **天童 将棋駒体験:** 山形県天童市では、伝統工芸である将棋駒作りを体験しました。
-  ![天童 将棋駒体験 2019年夏合宿](linked_assets/20_Activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/tendo_shogikoma_2019summer.jpg)
+  ![天童 将棋駒体験 2019年夏合宿](linked_assets/30_Background/extracurricular_activities/club_activities/burachiribu_club_activity/excursions/burachiribu_matsushima_camp_2019/tendo_shogikoma_2019summer.jpg)
 
 ## 体験活動・印象的な出来事
 
