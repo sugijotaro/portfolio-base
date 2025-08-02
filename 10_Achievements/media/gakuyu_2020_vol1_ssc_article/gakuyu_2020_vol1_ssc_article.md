@@ -23,9 +23,9 @@ summary: |
 この原稿は、Apple主催のプログラミング世界大会「Swift Student Challenge」で日本人で唯一入賞した経験をもとに、誰もが文化の担い手になりうるというメッセージを込めたものです。
 
 ## 掲載内容
-![学友 表紙](linked_assets/20_Activities/media/gakuyu_2020_vol1_ssc_article/gakuyu_cover.jpg)
-![学友 掲載ページ1](linked_assets/20_Activities/media/gakuyu_2020_vol1_ssc_article/gakuyu_page_1.jpg)
-![学友 掲載ページ2](linked_assets/20_Activities/media/gakuyu_2020_vol1_ssc_article/gakuyu_page_2.jpg)
+![学友 表紙](linked_assets/10_Achievements/media/gakuyu_2020_vol1_ssc_article/gakuyu_cover.jpg)
+![学友 掲載ページ1](linked_assets/10_Achievements/media/gakuyu_2020_vol1_ssc_article/gakuyu_page_1.jpg)
+![学友 掲載ページ2](linked_assets/10_Achievements/media/gakuyu_2020_vol1_ssc_article/gakuyu_page_2.jpg)
 
 ## 関連
 - [[setagaya_gakuen_speech_contest|創立記念弁論大会]]

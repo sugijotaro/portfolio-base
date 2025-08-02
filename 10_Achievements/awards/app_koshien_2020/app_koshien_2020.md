@@ -31,8 +31,8 @@ summary: |
 
 ## 発表・表彰・フィードバック
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="linked_assets/20_Activities/awards/app_koshien_2020/presentation.jpg" alt="アプリ甲子園決勝でのプレゼンテーション" width="32%">
-    <img src="linked_assets/20_Activities/awards/app_koshien_2020/award_certificate.jpg" alt="アプリ甲子園の賞状" width="32%">
-    <img src="linked_assets/20_Activities/awards/app_koshien_2020/feedback_1.jpg" alt="審査員からのフィードバック1" width="32%">
-    <img src="linked_assets/20_Activities/awards/app_koshien_2020/feedback_2.jpg" alt="審査員からのフィードバック2" width="32%">
+    <img src="linked_assets/10_Achievements/awards/app_koshien_2020/presentation.jpg" alt="アプリ甲子園決勝でのプレゼンテーション" width="32%">
+    <img src="linked_assets/10_Achievements/awards/app_koshien_2020/award_certificate.jpg" alt="アプリ甲子園の賞状" width="32%">
+    <img src="linked_assets/10_Achievements/awards/app_koshien_2020/feedback_1.jpg" alt="審査員からのフィードバック1" width="32%">
+    <img src="linked_assets/10_Achievements/awards/app_koshien_2020/feedback_2.jpg" alt="審査員からのフィードバック2" width="32%">
 </div>
