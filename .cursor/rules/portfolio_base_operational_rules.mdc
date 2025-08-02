@@ -25,16 +25,17 @@ alwaysApply: true
 
 ### 2.3. 構造
 1.  **トップレベルディレクトリ構成は変更しないこと**
-    -   `00_Core/`
-    -   `10_Projects/`
-    -   `20_Activities/`
-    -   `30_Knowledge/`
-    -   `40_Organizations/`
+    -   `10_Achievements/`
+    -   `20_Projects/`
+    -   `30_Background/`
+    -   `40_Personal_Growth/`
+    -   `50_Knowledge_Base/`
+    -   `60_Organizations/`
     -   `99_Templates/`
     -   `linked_assets/` (Git Submodule)
 
 2.  **カテゴリ構造の厳格化**
-    -   `10_Projects` や `20_Activities` の直下には、必ずサブカテゴリ（例: `personal/`, `awards/`, `talks/`）を配置してください。個別のアイテムフォルダを直接配置してはいけません。
+    -   `10_Achievements` や `20_Projects` の直下には、必ずサブカテゴリ（例: `awards/`, `work_experiences/`, `personal/`）を配置してください。個別のアイテムフォルダを直接配置してはいけません。
 
 3.  **アイテムのエントリーポイント**
     -   各アイテムは、対応するカテゴリのサブディレクトリ内に専用のフォルダを作成します。
@@ -63,8 +64,8 @@ alwaysApply: true
 
 1.  **必須項目**: 全てのノートに、以下のFrontmatter項目を必ず記述してください。
     -   `title`: ノートのタイトル（日本語可）
-    -   `type`: `project`, `activity`, `organization`, `knowledge` のいずれか
-    -   `subtype`: `personal`, `talk`, `award` など、`type`に応じた詳細分類
+    -   `type`: `achievement`, `project`, `background`, `personal_growth`, `knowledge`, `organization` のいずれか
+    -   `subtype`: `type`に応じた詳細分類（`awards`, `media`, `personal`, `academic_history`など）
     -   `status`: `completed`, `in-progress`, `planned`, `archived` のいずれか
     -   `start_date`: 開始日 (YYYY-MM-DD形式)
     -   `end_date`: 終了日 (YYYY-MM-DD形式, 進行中は空)
