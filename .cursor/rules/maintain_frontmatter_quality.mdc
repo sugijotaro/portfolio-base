@@ -1,0 +1,91 @@
+---
+alwaysApply: false
+---
+# Frontmatter 品質維持ルール
+
+このリポジトリ内の各Markdownファイルについて、以下のルールに従ってYAML Frontmatterを検査し、修正してください。
+
+## 1. `type` と `subtype` の整合性チェック
+
+ファイルのパスに基づいて、`type` と `subtype` が正しいか確認してください。もし間違っていれば、以下の対応表に従って修正します。`subtype`は基本的に親フォルダ名と同じにします。
+
+| ファイルパスのプレフィックス | 正しい `type` | 正しい `subtype` の例 |
+|:--- |:--- |:--- |
+| `10_Achievements/awards/` | `achievement` | `award` |
+| `10_Achievements/media/` | `achievement` | `media` |
+| `10_Achievements/presentations/` | `achievement` | `presentation` |
+| `10_Achievements/work_experiences/` | `achievement` | `work_experience` |
+| `20_Projects/personal/` | `project` | `personal` |
+| `30_Background/academic_history/` | `background` | `academic_history` |
+| `30_Background/certifications/` | `background` | `certification` |
+| `30_Background/extracurricular_activities/` | `background` | `extracurricular_activity` |
+| `40_Personal_Growth/life_events/` | `personal_growth` | `life_event` |
+| `40_Personal_Growth/self_learning/` | `personal_growth` | `self_learning` |
+| `40_Personal_Growth/travels/` | `personal_growth` | `travel` |
+| `50_Knowledge_Base/` | `knowledge` | `tools_and_ecosystems` など |
+| `60_Organizations/` | `organization` | `company`, `university` など |
+
+**修正例:**
+`30_Background/certifications/eiken_2_2019.md` の `type` が `activity` になっていたら、`background` に修正します。
+
+## 2. `role` の英語化とスネークケース化
+
+`role` フィールドの値が日本語の場合、適切な英単語に翻訳し、スネークケース (`snake_case`) に統一してください。
+
+| 日本語 | 英語（スネークケース） |
+|:--- |:--- |
+| 企画, 発案者 | `planner` |
+| 開発, 開発者 | `developer` |
+| デザイン | `designer` |
+| 登壇者, 弁士, 講演者 | `speaker` |
+| 受賞者, 掲載者 | `recipient` |
+| ファイナリスト | `finalist` |
+| 参加者, 受講生 | `participant` |
+| メンバー | `member` |
+| 部長, チームリーダー | `leader` |
+| 被取材者 | `interviewee` |
+| 著者 | `author` |
+| MC, 司会 | `mc` |
+| 研修生 | `trainee` |
+
+**修正例:**
+```yaml
+# 修正前
+role:
+  - 企画
+  - 開発
+
+# 修正後
+role:
+  - planner
+  - developer
+```
+
+## 3. `orgs` と `tags` のスネークケース化
+
+`orgs` と `tags` フィールド内の全ての値を、英小文字のスネークケースに統一してください。ハイフン (`-`) はアンダースコア (`_`) に置換します。
+
+- `orgs` の値は、`60_Organizations` フォルダ内のファイル名（ID）と一致させることが理想です。
+- 固有名詞もルールに従います。（例: `Life is Tech!` -> `life_is_tech`）
+
+**修正例:**
+```yaml
+# 修正前
+orgs:
+  - app-koshien
+tags:
+  - swift-student-challenge
+
+# 修正後
+orgs:
+  - app_koshien
+tags:
+  - swift_student_challenge
+```
+
+## 実行プロセス
+
+1.  対象となる各Markdownファイルを一つずつ開きます。
+2.  上記のルール1〜3に従ってFrontmatterを検査します。
+3.  修正が必要な箇所があれば修正し、変更内容を提示してください。
+4.  修正が不要な場合は、その旨を報告してください。
