@@ -29,7 +29,7 @@ summary: 地理部「ブラチリブ」による学園祭での企画・展示�
 
 - AR技術を活用したクイズアプリをゼロから開発し、学園祭で来場者に体験してもらいました。
 - 人気投票ではそれまでの歴史を塗り替えて1位を獲得しました。
-- 詳細は [[2019_ar_quiz_battle_planning|2019年ARクイズアプリ企画]] を参照。
+- 詳細は [[burachiribu_ar_quiz_planning_2019|2019年ARクイズアプリ企画]] を参照。
 - ![2019年学園祭ポスター 部長とクイズバトル](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/gakuensai_poster_quizbattle.jpg)
 - ![部長とクイズバトルプレイの様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_play_scene.jpg)
 - ![部長とクイズバトルをプレイするお客さんたち](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/burachiribu_ar_quiz_planning_2019/quizbattle_customers.jpg)

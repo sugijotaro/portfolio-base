@@ -15,4 +15,4 @@ summary: 中学生・高校生向けのプログラミング・IT教育サービ
 中学生・高校生を対象としたプログラミング教育事業を展開する企業。Webマガジン「Life is Tech! マガジン」も運営しています。
 
 ## 関連活動
-- [[life-is-tech-magazine_2020-07-15-ssc-interview|Life is Tech! マガジン インタビュー掲載]]
+- [[life_is_tech_magazine_2020_07_15|Life is Tech! マガジン インタビュー掲載]]

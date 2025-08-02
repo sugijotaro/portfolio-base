@@ -48,12 +48,12 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 ## 受賞と影響
 本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
 
-この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[hamatta|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
+この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk_numa_appearance_2020|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
 
 ## メディア紹介
-- [[swift-student-challenge_2020|Swift Student Challenge 2020 受賞]]
-- [[mynavi-news_2020-06-16-ssc-interview|マイナビニュース]]
-- [[life-is-tech-magazine_2020-07-15-ssc-interview|Life is Tech! マガジン]]
-- [[vitamin-mama_2020-09-01-ssc-article|ビタミンママ]]
-- [[gakuyu_2020-vol1-ssc-article|学友]]
-- [[nhk-numa-appearance_2021-05-18|NHK Eテレ『沼にハマってきいてみた』]]
+- [[swift_student_challenge_2020|Swift Student Challenge 2020 受賞]]
+- [[mynavi_news_2020_06_16|マイナビニュース]]
+- [[life_is_tech_magazine_2020_07_15|Life is Tech! マガジン]]
+- [[vitamin_mama_2020_09_01|ビタミンママ]]
+- [[gakuyu_2020_vol1_ssc_article|学友]]
+- [[nhk_numa_appearance_2020|NHK Eテレ『沼にハマってきいてみた』]]
