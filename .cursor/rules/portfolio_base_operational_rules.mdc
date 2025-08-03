@@ -25,21 +25,22 @@ alwaysApply: true
 
 ### 2.3. 構造
 1.  **トップレベルディレクトリ構成は変更しないこと**
-    -   `00_Core/`
-    -   `10_Projects/`
-    -   `20_Activities/`
-    -   `30_Knowledge/`
-    -   `40_Organizations/`
+    -   `10_Achievements/`
+    -   `20_Projects/`
+    -   `30_Background/`
+    -   `40_Personal_Growth/`
+    -   `50_Knowledge_Base/`
+    -   `60_Organizations/`
     -   `99_Templates/`
     -   `linked_assets/` (Git Submodule)
 
 2.  **カテゴリ構造の厳格化**
-    -   `10_Projects` や `20_Activities` の直下には、必ずサブカテゴリ（例: `personal/`, `awards/`, `talks/`）を配置してください。個別のアイテムフォルダを直接配置してはいけません。
+    -   `10_Achievements` や `20_Projects` の直下には、必ずサブカテゴリ（例: `awards/`, `work_experiences/`, `personal/`）を配置してください。個別のアイテムフォルダを直接配置してはいけません。
 
 3.  **アイテムのエントリーポイント**
     -   各アイテムは、対応するカテゴリのサブディレクトリ内に専用のフォルダを作成します。
     -   アイテムフォルダ内の主要Markdownファイル名は、その**フォルダ名と完全に一致**させ、拡張子 `.md` を付与します。
-    -   例: `10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md`
+    -   例: `20_Projects/personal/ar_quiz_battle/ar_quiz_battle.md`
 
 ## 3. アセット管理ルール
 
@@ -48,13 +49,13 @@ alwaysApply: true
 - `linked_assets` 内のパス構造は、**本体リポジトリのディレクトリ構造を完全にミラーリング（再現）します。** これにより、アセットの場所が直感的にわかります。
 - **パス形式**: `linked_assets/[カテゴリ]/[サブカテゴリ]/.../[アイテム名]/[ファイル名]`
 - **パスの例**:
-    - `linked_assets/10_Projects/personal/sfcway/sfcway_icon.jpg`
-    - `linked_assets/20_Activities/awards/swift_student_challenge_2020/certificate.jpg`
+    - `linked_assets/20_Projects/personal/sfcway/sfcway_icon.jpg`
+    - `linked_assets/10_Achievements/awards/swift_student_challenge_2020/certificate.jpg`
 - このディレクトリ構造は `sync_assets.sh` スクリプトによって維持・管理できます。
 
 ### 3.2. Markdown内での参照
 - Markdownからアセットを参照する際は、リポジトリのルートからのパスで記述してください。
-- 例: `![SFCWay アイコン](linked_assets/10_Projects/personal/sfcway/sfcway_icon.jpg)`
+- 例: `![SFCWay アイコン](linked_assets/20_Projects/personal/sfcway/sfcway_icon.jpg)`
 
 ### 3.3. 大容量ファイルの管理
 - 動画（.mp4, .mov等）やサイズの大きいPDFなど、**10MBを超えるファイルは必ずGit LFSで管理**してください。（この設定は `linked_assets` 側のリポジトリで行います）
@@ -63,8 +64,8 @@ alwaysApply: true
 
 1.  **必須項目**: 全てのノートに、以下のFrontmatter項目を必ず記述してください。
     -   `title`: ノートのタイトル（日本語可）
-    -   `type`: `project`, `activity`, `organization`, `knowledge` のいずれか
-    -   `subtype`: `personal`, `talk`, `award` など、`type`に応じた詳細分類
+    -   `type`: `achievement`, `project`, `background`, `personal_growth`, `knowledge`, `organization` のいずれか
+    -   `subtype`: `type`に応じた詳細分類（`awards`, `media`, `personal`, `academic_history`など）
     -   `status`: `completed`, `in-progress`, `planned`, `archived` のいずれか
     -   `start_date`: 開始日 (YYYY-MM-DD形式)
     -   `end_date`: 終了日 (YYYY-MM-DD形式, 進行中は空)
@@ -105,7 +106,7 @@ alwaysApply: true
 ### 6.2. 画像レイアウト
 - **アイコン**: 各プロジェクトのアイコンは、以下のHTMLで右上に配置します。ファイル名は `icon.png` や `icon.jpg` にしてください。
   ```html
-  <img src="linked_assets/10_Projects/personal/プロジェクト名/icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
+  <img src="linked_assets/20_Projects/personal/プロジェクト名/icon.jpg" alt="アプリアイコン" style="float: right; width: 100px; margin-left: 16px;">
   ```
 - **複数画像（横並び）**: 以下のHTML記法を推奨します。`width` は合計が100%弱になるように調整してください。
   ```html

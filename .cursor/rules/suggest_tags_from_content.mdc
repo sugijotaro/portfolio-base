@@ -1,0 +1,81 @@
+---
+alwaysApply: false
+---
+# 本文内容に基づくタグ提案ルール
+
+このMarkdownファイルの本文を読み込み、その内容を的確に表すキーワードを抽出し、YAML Frontmatterの `tags` フィールドに追加・提案してください。
+
+## 1. タグの命名規則
+
+すべてのタグは、以下の規則に厳密に従ってください。
+
+1.  **形式**: **英小文字のスネークケース (`snake_case`)** に統一します。
+    - 例: `swift_student_challenge`, `public_speaking`
+2.  **言語**: 原則として**英語**を使用します。
+3.  **固有名詞**: `Life is Tech!` や `Unity1week` などの固有名詞も、スネークケースのルールに従います。
+    - 例: `life_is_tech`, `unity1week`
+4.  **単数形**: 基本的に単数形を使用します。（例: `tag` であり `tags` ではない）
+
+## 2. タグ付けのガイドライン
+
+本文から以下のカテゴリに合致するキーワードを積極的に抽出してください。
+
+| カテゴリ | 説明とキーワード例 |
+|:--- |:--- |
+| **技術・ツール** | プログラミング言語、フレームワーク、ソフトウェア、サービスなど。<br>**例**: `swift`, `uikit`, `firebase`, `unity`, `blender`, `premiere_pro`, `git` |
+| **概念・分野** | プロジェクトや活動の主要な分野やコンセプト。<br>**例**: `ar`, `vr`, `game_development`, `ios_app`, `web_ar`, `event_planning` |
+| **イベント・固有名詞**| コンテスト、プログラム、学園祭など、特定のイベント名。<br>**例**: `wwdc`, `app_koshien`, `school_festival`, `game_jam` |
+| **スキル・役割** | 発揮した能力や役割。他のフィールドと重複しても、特に重要な場合はタグ付けする。<br>**例**: `leadership`, `mentoring`, `project_management`, `content_creation` |
+| **成果物の種類** | 作成したものの種類を明確にするタグ。<br>**例**: `mobile_app`, `utility_tool`, `video_content`, `presentation_slide` |
+
+## 3. タグ付けの際の注意点
+
+- **具体性を重視**: `development` のような抽象的すぎるタグは避け、`ios_app_development` のように具体的に記述してください。
+- **既存タグとの重複を避ける**: 提案するタグが、そのファイルの`tags`フィールドに既に存在しないことを確認してください。
+- **適切な粒度**: 1つのファイルに追加するタグは、内容の重要度を考慮し、5〜15個程度を目安とします。多すぎず、少なすぎず、検索しやすい粒度を保ってください。
+- **文脈の理解**: 本文中で少し触れられただけではなく、そのノートの**中心的なテーマ**となっているキーワードを優先してください。
+
+## 実行プロセス
+
+1.  対象となる各Markdownファイルを一つずつ開きます。
+2.  YAML Frontmatterに既に存在する `tags` リストを確認します。
+3.  Markdownの本文（`---` 以降）を注意深く読み込み、上記ガイドラインに沿ってキーワードを抽出します。
+4.  抽出したキーワードを命名規則に従って整形します。
+5.  既存のタグリストに**含まれていない**新しいタグ候補をリストアップします。
+6.  最終的な `tags` フィールドの修正案（既存タグ + 新規タグ）を提示してください。変更がない場合は「追加するタグはありません」と報告してください。
+
+**修正例:**
+ファイル: `20_Projects/personal/ar_quiz_battle/ar_quiz_battle.md`
+
+```yaml
+# 修正前
+tags:
+  - ar
+  - ios
+  - swift
+  - uikit
+  - application
+  - quiz
+  - making
+```
+
+**AIの思考プロセス:**
+「本文を読むと『ARKit』『Premiere Pro』『Photoshop』『Illustrator』という具体的なツール名、『学園祭 (school_festival)』というイベント、そしてリーダーシップを発揮して部員をまとめたエピソードがある。これらは既存タグにはない重要な情報だ。」
+
+```yaml
+# 修正後（提案）
+tags:
+  - ar
+  - ios
+  - swift
+  - uikit
+  - application
+  - quiz
+  - making
+  - arkit
+  - premiere_pro
+  - photoshop
+  - illustrator
+  - school_festival
+  - leadership
+```
