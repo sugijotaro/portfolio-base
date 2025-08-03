@@ -31,7 +31,7 @@ summary: |
 ## 概要
 休日にやることが見つからず、時間を無駄にしてしまうという課題を解決するために開発したiOSアプリです。iPhoneを振ることでおみくじが引かれ、様々な休日の過ごし方が提案されます。
 
-NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロからアプリを企画し開発する様子が密着取材されました。（詳細は [[nhk_numa_appearance_2021_05_18|沼にハマってきいてみた]] を参照）
+[[nhk_hamatta|NHK Eテレ『沼にハマってきいてみた』]]の番組内企画で、ゼロからアプリを企画し開発する様子が密着取材されました。（詳細は [[nhk_numa_appearance_2021_05_18|沼にハマってきいてみた]] を参照）
 
 ## 主な機能
 - **おみくじ**: iPhoneを振ると、休日の過ごし方が提案されます。
@@ -52,9 +52,11 @@ NHK Eテレ『沼にハマってきいてみた』の番組内企画で、ゼロ
     <img src="linked_assets/20_Projects/personal/holiday_omikuji/holiday_omikuji_ss_5.jpg" alt="休日みくじスクリーンショット5" width="32%">
 </div>
 
-## メディア紹介
+## 関連
 番組内では、MCのサバンナ高橋さんに実際にアプリを体験していただきました。
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/20_Projects/personal/holiday_omikuji/takahashi_san_1.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子1" width="49%">
     <img src="linked_assets/20_Projects/personal/holiday_omikuji/takahashi_san_2.jpg" alt="サバンナ高橋さんが休日みくじをプレイする様子2" width="49%">
 </div>
+
+- [[nhk_numa_appearance_2021_05_18|NHK Eテレ『沼にハマってきいてみた』での紹介]]

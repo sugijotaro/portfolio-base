@@ -26,3 +26,4 @@ summary: 地域情報誌「ビタミンママ」Vol.86にて、Swift Student Cha
 
 ## 関連
 - [[swift_student_challenge_2020|Apple Swift Student Challenge 2020 受賞]]
+- [[vitamin_mama|ビタミンママ]]

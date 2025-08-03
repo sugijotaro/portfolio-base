@@ -8,7 +8,7 @@ role:
   - planner
   - designer
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2018-11-01
 end_date: 2020-03-31
 tags:
@@ -23,7 +23,7 @@ summary: 地理部「ブラチリブ」のYouTubeチャンネル運営に関す�
 
 # YouTubeチャンネル運営 概要
 
-地理部「ブラチリブ」では、観光や部活動の様子を動画で記録し、YouTubeで発信する活動を行いました。2018年11月の高尾山巡検から本格的に動画投稿を開始し、以降40本以上の動画を投稿、チャンネル登録者数は236人（資料時点）に達しました。
+[[burachiribu_club_activity|地理部「ブラチリブ」]]では、観光や部活動の様子を動画で記録し、YouTubeで発信する活動を行いました。2018年11月の高尾山巡検から本格的に動画投稿を開始し、以降40本以上の動画を投稿、チャンネル登録者数は236人（資料時点）に達しました。
 
 ## 企画・運営の背景
 
@@ -55,3 +55,7 @@ Premiere Proのタイムライン
 ![Premiere Pro タイムライン](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/media_production/burachiribu_youtube_channel/premiere_timeline.jpg)
 テロップデザイン一覧
 ![テロップデザイン一覧](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/media_production/burachiribu_youtube_channel/telop_designs.jpg)
+
+## 関連
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
+- [[excursions|観光・巡検活動]]

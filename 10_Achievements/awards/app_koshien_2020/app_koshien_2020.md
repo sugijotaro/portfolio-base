@@ -35,3 +35,7 @@ summary: 自作の勉強習慣化アプリ「Habitan」で、中高生向けア�
     <img src="linked_assets/10_Achievements/awards/app_koshien_2020/feedback_1.jpg" alt="審査員からのフィードバック1" width="32%">
     <img src="linked_assets/10_Achievements/awards/app_koshien_2020/feedback_2.jpg" alt="審査員からのフィードバック2" width="32%">
 </div>
+
+## 関連
+- [[habitan|Habitan (応募作品)]]
+- [[yotiyoti_swift_2020_11_27|よちよち.swiftでの登壇]]

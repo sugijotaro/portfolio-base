@@ -9,7 +9,7 @@ role:
   - developer
   - designer
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
@@ -50,6 +50,7 @@ summary: 中学1年時に活動停止中だった地理部を再生させ、4年
   - [[school_festival_2020|2020年オンライン展示企画]]
 - [[exam_support_video|中学受験生応援動画]]
 - [[blackboard_art|黒板アート新年企画]]
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]] (所属)
 
 ## 得られた経験
 

@@ -14,3 +14,5 @@ summary: 米国の多国籍テクノロジー企業。iPhone、Mac、iPadなど�
 ---
 ## 関連活動
 - [[swift_student_challenge_2020|Swift Student Challenge 2020]]
+- [[apple_teacher_2022|Apple Teacher 認定]]
+- [[san_francisco_trip_2022_09|サンフランシスコ本社訪問]]

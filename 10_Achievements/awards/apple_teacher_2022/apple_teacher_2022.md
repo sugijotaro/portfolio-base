@@ -23,9 +23,10 @@ summary: Appleが提供する、教育者向けの認定プログラム「Apple 
 
 ## 概要
 
-Appleが提供する、教育者向けの認定プログラム「Apple Teacher」において、iPadおよびMac向けのSwift Playgroundsコースの認定を取得しました。
+[[apple|Apple]]が提供する、教育者向けの認定プログラム「Apple Teacher」において、iPadおよびMac向けのSwift Playgroundsコースの認定を取得しました。
 
 このプログラムを通じて、Swift Playgroundsを活用したインタラクティブな学習コンテンツの作成方法や、生徒のコーディングスキルを育成するための指導法について学びました。
 
 ## 認定証
 ![](linked_assets/10_Achievements/awards/apple_teacher_2022/apple_teacher_certificate.jpg)
+

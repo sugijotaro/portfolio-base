@@ -44,6 +44,8 @@ Appleが毎年開催するWWDC（Worldwide Developers Conference）の一環と�
 - [[mynavi_news_2020_06_16|マイナビニュース]]
 - [[nhk_numa_appearance_2021_05_18|NHK Eテレ『沼にハマってきいてみた』]]
 - [[life_is_tech_magazine_2020_07_15|Life is Tech! マガジン]]
-- [[vitamin_mama_2020_09_01]]
+- [[vitamin_mama_2020_09_01|ビタミンママ]]
 - [[setagaya_gakuen_speech_contest|校内創立記念弁論大会]]での入賞
 - [[gakuyu_2020_vol1_ssc_article|学友（校内誌）]]
+- [[apple|Apple (主催組織)]]
+- [[facemake|Face Make! (受賞作品)]]

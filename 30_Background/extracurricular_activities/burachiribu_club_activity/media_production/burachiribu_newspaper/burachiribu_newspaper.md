@@ -7,7 +7,7 @@ role:
   - leader
   - author
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2018-10-01
 end_date: 2020-03-31
 tags:
@@ -22,7 +22,7 @@ summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」�
 
 # 新聞「ブラチリブNEWS」発行 概要
 
-地理部「ブラチリブ」では、巡検や調査結果をまとめた新聞「ブラチリブNEWS」を定期的に発行しました。部員と手分けして記事の文章作成を行い、責任編集のもとで発行しました。
+[[burachiribu_club_activity|地理部「ブラチリブ」]]では、[[excursions|巡検]]や調査結果をまとめた新聞「ブラチリブNEWS」を定期的に発行しました。部員と手分けして記事の文章作成を行い、責任編集のもとで発行しました。
 
 ## 編集・執筆の工夫
 
@@ -59,3 +59,7 @@ summary: 地理部「ブラチリブ」による新聞「ブラチリブNEWS」�
 ![ブラチリブNEWS 紙面10](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_10.jpg)
 新聞「ブラチリブNEWS」紙面11
 ![ブラチリブNEWS 紙面11](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/media_production/burachiribu_newspaper/burachiribu_news_11.jpg)
+
+## 関連
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
+- [[excursions|観光・巡検活動]]

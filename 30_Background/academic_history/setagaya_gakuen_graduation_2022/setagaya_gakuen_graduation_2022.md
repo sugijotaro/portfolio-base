@@ -23,9 +23,15 @@ summary: 2022年3月1日、世田谷学園高等学校を卒業。6年間の学�
 ---
 
 ## 概要
-2022年3月1日、6年間通った世田谷学園高等学校を卒業しました。
+2022年3月1日、6年間通った[[setagaya_gakuen|世田谷学園高等学校]]を卒業しました。
 
 ![](linked_assets/30_Background/academic_history/setagaya_gakuen_graduation_2022/graduation_photo.jpg)
 
 また、卒業生代表で答辞を務めました。
 ![](linked_assets/30_Background/academic_history/setagaya_gakuen_graduation_2022/valedictorian_speech_photo.jpg)
+
+## 関連
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]]
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
+- [[setagaya_gakuen_speech_contest|創立記念弁論大会]]
+- [[graduation_farewell_speech_2021_03_01|在校生代表送辞]]

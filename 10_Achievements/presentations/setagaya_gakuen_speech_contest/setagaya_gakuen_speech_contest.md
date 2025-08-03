@@ -39,13 +39,13 @@ summary: 中学2年から高校3年まで5年連続で創立記念弁論大会�
 - **2019年度（高校1年）**:
  - 弁論テーマ: 「ブラチリブから考える部活論」
  - 結果: **準優勝**
- - 概要: 自身が創部し部長を務めた地理部（愛称：ブラチリブ）の独創的な活動を例に、これからの時代の部活動のあり方について提言しました。
+ - 概要: 自身が創部し部長を務めた[[burachiribu_club_activity|地理部（愛称：ブラチリブ）]]の独創的な活動を例に、これからの時代の部活動のあり方について提言しました。
 ![2019年度（高1）弁論大会の様子](linked_assets/10_Achievements/presentations/setagaya_gakuen_speech_contest/2019_senior1.jpg)
 
 - **2020年度（高校2年）**:
  - 弁論テーマ: 「新時代の文化」
  - 結果: **決勝進出・入賞**
- - 概要: Apple主催の「Swift Student Challenge」で入賞した経験を踏まえ、誰もが文化の担い手となりうる現代における個人の役割について論じました。コロナ禍のため、別室からのリモート中継形式で実施されました。
+ - 概要: Apple主催の「[[swift_student_challenge_2020|Swift Student Challenge]]」で入賞した経験を踏まえ、誰もが文化の担い手となりうる現代における個人の役割について論じました。コロナ禍のため、別室からのリモート中継形式で実施されました。
 ![2020年度（高2）弁論大会の様子](linked_assets/10_Achievements/presentations/setagaya_gakuen_speech_contest/2020_senior2.jpg)
 
 - **2021年度（高校3年）**:
@@ -53,3 +53,9 @@ summary: 中学2年から高校3年まで5年連続で創立記念弁論大会�
  - 結果: **優勝**
  - 概要: 1989年の流行語「24時間戦えますか」から現代の多様な生き方へと時代が変化する中で、「自分のワクワクをつきつめる」ことの大切さと、イノベーションを生み出す原動力としてのワクワクの意義について論じました。
 ![2021年度（高3）弁論大会の様子](linked_assets/10_Achievements/presentations/setagaya_gakuen_speech_contest/2021_senior3.jpg)
+
+## 関連活動
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]]
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]
+- [[graduation_farewell_speech_2021_03_01|卒業式送辞]]

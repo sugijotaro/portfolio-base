@@ -9,7 +9,7 @@ role:
   - developer
   - designer
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2020-10-01
 end_date: 2020-10-31
 tags:
@@ -23,7 +23,7 @@ summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」�
 ---
 # 2020年学園祭オンライン展示企画
 
-2020年はコロナ禍の影響で学園祭がオンライン開催となり、地理部「ブラチリブ」ではバーチャルSNS「cluster」を活用した3D空間での展示「ブラチリブONLINE」を企画・制作しました。
+2020年はコロナ禍の影響で学園祭がオンライン開催となり、[[burachiribu_club_activity|地理部「ブラチリブ」]]ではバーチャルSNS「cluster」を活用した3D空間での展示「ブラチリブONLINE」を企画・制作しました。
 
 ## 企画背景
 
@@ -51,4 +51,8 @@ summary: 2020年学園祭でのオンライン展示「ブラチリブONLINE」�
 - ![ブラチリブONLINE 設計図・スケッチ1](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_sketch_1.jpg)
 - ![ブラチリブONLINE 設計図・スケッチ2](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_sketch_2.jpg)
 - ![ブラチリブONLINE 実際の会場の様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_venue_2025.jpg)
-- ![ブラチリブONLINE PV絵コンテ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_pv_storyboard_2025.jpg) 
+- ![ブラチリブONLINE PV絵コンテ](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2020/online_pv_storyboard_2025.jpg)
+
+## 関連
+- [[school_festival_planning|ブラチリブ 学園祭企画]]
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]

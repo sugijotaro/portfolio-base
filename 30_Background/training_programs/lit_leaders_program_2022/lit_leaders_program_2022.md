@@ -38,3 +38,8 @@ summary: Life is Tech! のメンター育成プログラム「Leaders」の14期
 
 ## メンターとしてのスタート
 このLeadersプログラムでの全ての経験を経て、憧れだったLife is Tech!のメンターとしての第一歩を踏み出しました。これからは、自分が受け取った「ワクワク」を、一人でも多くの中高生に伝えていくことを目指します。
+
+## 関連
+- [[sfcway|SFCWay (最終課題プロジェクト)]]
+- [[life_is_tech_activity|Life is Tech! でのメンバー活動]]
+- [[life_is_tech|Life is Tech!]]

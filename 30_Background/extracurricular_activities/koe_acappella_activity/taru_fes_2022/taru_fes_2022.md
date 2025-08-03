@@ -32,3 +32,8 @@ summary: アカペラバンド「camo maybe」として、小樽の街を舞台�
   - 小さな恋のうた (MONGOL800)
   - カブトムシ (aiko)
   - Perfect (One Direction)
+
+## 関連
+- [[camo_maybe|camo maybe]]
+- [[koe_acappella_activity|K.O.E. アカペラサークル活動]]
+- [[hokkaido_aomori_trip_2022_08|2022年 北海道・青森旅行]]

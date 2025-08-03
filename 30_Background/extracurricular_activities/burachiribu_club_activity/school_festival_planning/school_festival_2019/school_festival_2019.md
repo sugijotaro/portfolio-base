@@ -8,7 +8,7 @@ role:
   - planner
   - developer
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2019-10-01
 end_date: 2019-10-31
 tags:
@@ -17,13 +17,12 @@ tags:
   - ar
   - quiz
   - planning
-links:
-- ../10_Projects/personal/ar_quiz_battle/ar_quiz_battle.md
+links: []
 summary: 2019年学園祭でのARクイズアプリ「部長とクイズバトル」企画・運営の記録。
 ---
 # 2019年学園祭ARクイズアプリ企画
 
-2019年の学園祭では、AR技術を活用したクイズアプリ「部長とクイズバトル」をゼロから開発し、来場者に体験してもらいました。
+2019年の学園祭では、AR技術を活用したクイズアプリ[[ar_quiz_battle|「部長とクイズバトル」]]をゼロから開発し、来場者に体験してもらいました。
 
 ## 企画背景
 
@@ -45,3 +44,8 @@ summary: 2019年学園祭でのARクイズアプリ「部長とクイズバト�
 - ![2019年学園祭ポスター 部長とクイズバトル](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/gakuensai_poster_quizbattle.jpg)
 - ![部長とクイズバトルプレイの様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_play_scene.jpg)
 - ![部長とクイズバトルをプレイするお客さんたち](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_customers.jpg)
+
+## 関連
+- [[ar_quiz_battle|ARクイズアプリ「部長とクイズバトル」]]
+- [[school_festival_planning|ブラチリブ 学園祭企画]]
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]

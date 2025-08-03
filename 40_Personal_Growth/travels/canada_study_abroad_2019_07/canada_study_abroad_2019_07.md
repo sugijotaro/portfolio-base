@@ -22,9 +22,9 @@ summary: カナダでの10日間の語学研修・ホームステイに参加。
 
 ## 概要
 
-2019年7月18日から7月28日の10日間、学校の行事としてカナダ語学研修・留学プログラムに参加しました。
+2019年7月18日から7月28日の10日間、[[setagaya_gakuen|学校]]の行事としてカナダ語学研修・留学プログラムに参加しました。
 
-現地の学校での授業受講とホームステイを通じて、前年のニュージーランド留学から1年間での自分の成長を実感できる貴重な体験となりました。
+現地の学校での授業受講とホームステイを通じて、前年の[[newzealand_study_abroad_2018_03|ニュージーランド留学]]から1年間での自分の成長を実感できる貴重な体験となりました。
 
 ## 体験内容
 
@@ -68,3 +68,7 @@ summary: カナダでの10日間の語学研修・ホームステイに参加。
   <img src="linked_assets/40_Personal_Growth/travels/canada_study_abroad_2019_07/canada_experience3.jpg" alt="カナダ留学の様子3" width="48%">
   <img src="linked_assets/40_Personal_Growth/travels/canada_study_abroad_2019_07/canada_experience4.jpg" alt="カナダ留学の様子4" width="48%">
 </div>
+
+## 関連
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]]
+- [[newzealand_study_abroad_2018_03|ニュージーランド語学研修]]

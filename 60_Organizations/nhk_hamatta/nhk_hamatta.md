@@ -25,6 +25,9 @@ NHK Eテレで放送されている若者向け番組です。若者を中心と
 ※上記は2021年当時の情報で、現在は放送枠やMCが変更されている可能性があります。
 
 ## 関連活動・プロジェクト
+- [[nhk_numa_appearance_2021_05_18|「スマホアプリ沼」回への出演]]
+- [[holiday_omikuji|休日みくじ]]
+- [[simple_calculator_demo_for_tv|番組デモ用 足し算・引き算アプリ]]
 
 ```dataview
 LIST

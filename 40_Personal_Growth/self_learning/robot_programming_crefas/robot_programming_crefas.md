@@ -37,3 +37,6 @@ summary: 小学4年生から通い始めたロボットプログラミング教�
 <img src="linked_assets/40_Personal_Growth/self_learning/robot_programming_crefas/presentation_20170301.jpg" alt="発表会でのプレゼン（2017-03-01）" width="60%">
 
 この経験が、後の論理的思考力やプレゼンテーション力の基礎となりました。
+
+## 関連
+- [[robot_cert_pre1_2016|ロボット検定 準1級]]

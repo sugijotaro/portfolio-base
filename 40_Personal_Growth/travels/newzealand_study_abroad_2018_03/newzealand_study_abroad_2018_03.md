@@ -22,7 +22,7 @@ summary: 学校内選抜を通過し、ニュージーランドでの9日間の�
 
 ## 概要
 
-2018年3月20日から3月29日の9日間、学校内での選抜を通過した24名が参加できるニュージーランド語学研修・留学プログラムに参加しました。
+2018年3月20日から3月29日の9日間、[[setagaya_gakuen|学校]]内での選抜を通過した24名が参加できるニュージーランド語学研修・留学プログラムに参加しました。
 
 現地でのホームステイや学校体験を通じて、日本とは大きく異なる教育システムや文化に触れる貴重な体験となりました。
 
@@ -62,3 +62,7 @@ summary: 学校内選抜を通過し、ニュージーランドでの9日間の�
   <img src="linked_assets/40_Personal_Growth/travels/newzealand_study_abroad_2018_03/nz_experience3.jpg" alt="ニュージーランド留学の様子3" width="48%">
   <img src="linked_assets/40_Personal_Growth/travels/newzealand_study_abroad_2018_03/nz_experience4.jpg" alt="ニュージーランド留学の様子4" width="48%">
 </div>
+
+## 関連
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]]
+- [[canada_study_abroad_2019_07|カナダ語学研修]]

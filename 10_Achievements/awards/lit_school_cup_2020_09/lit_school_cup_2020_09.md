@@ -17,7 +17,7 @@ projects:
 summary: 自作の勉強習慣化アプリ「Habitan」が、当時通っていたプログラミングスクールLife is Tech!主催のコンテストで最高賞であるゴールドアワードを受賞した。
 ---
 ## 概要
-開発した勉強習慣化アプリ[[habitan|Habitan]]を、当時通っていたプログラミングスクールLife is Tech!内で開催されたコンテスト「スクールカップ」に応募しました。
+開発した勉強習慣化アプリ[[habitan|Habitan]]を、当時通っていたプログラミングスクール[[life_is_tech|Life is Tech!]]内で開催されたコンテスト「スクールカップ」に応募しました。
 
 その結果、参加作品の中から最高賞である**ゴールドアワード**を受賞することができました。
 
@@ -36,3 +36,4 @@ summary: 自作の勉強習慣化アプリ「Habitan」が、当時通ってい�
 <img src="linked_assets/10_Achievements/awards/lit_school_cup_2020_09/school_cup_award.jpg" alt="スクールカップ表彰の様子" width="60%">
 
 <img src="linked_assets/10_Achievements/awards/lit_school_cup_2020_09/school_cup_certificate.jpg" alt="スクールカップ賞状" width="60%">
+

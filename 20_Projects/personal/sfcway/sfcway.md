@@ -65,3 +65,8 @@ SFCへの通学は、多くの学生にとってバスが主要な交通手段�
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/20_Projects/personal/sfcway/sfcway_initial_concept.png" alt="SFCWay Initial Concept" width="100%">
 </div>
+
+## 関連活動・組織
+- [[lit_leaders_program_2022|Life is Tech! Leaders Program]]
+- [[keio_university_sfc|慶應義塾大学SFC]]
+- [[life_is_tech|Life is Tech!]]

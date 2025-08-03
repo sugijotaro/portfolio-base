@@ -22,7 +22,7 @@ tags:
 summary: Apple主催の世界的なプログラミングコンテスト「Swift Student Challenge 2020」に応募し、日本人で唯一入賞した福笑いをテーマにしたiPadアプリ。
 ---
 ## 概要
-Appleが2020年に開催した世界の学生向けプログラミングコンテスト「Swift Student Challenge 2020」への提出作品。日本の伝統的な遊びである「福笑い」をテーマに、iPad上で手軽に楽しめるよう開発しました。
+[[apple|Apple]]が2020年に開催した世界の学生向けプログラミングコンテスト「[[swift_student_challenge_2020|Swift Student Challenge 2020]]」への提出作品。日本の伝統的な遊びである「福笑い」をテーマに、iPad上で手軽に楽しめるよう開発しました。
 
 この作品により、同コンテストで41の国と地域から選ばれた350人の受賞者のうち、日本人として唯一の入賞を果たしました。
 
@@ -48,7 +48,7 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 ## 受賞と影響
 本プロジェクトでの受賞は、[[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]で詳しくまとめています。
 
-この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk_numa_appearance_2021_05_18|NHK『沼にハマってきいてみた』での紹介]]や、校内弁論大会での入賞など、多くの対外的な評価に繋がりました。
+この経験は、自身のアイデアを形にして発信する重要性を再認識するきっかけとなり、その後の[[nhk_numa_appearance_2021_05_18|NHK『沼にハマってきいてみた』での紹介]]や、[[setagaya_gakuen_speech_contest|校内弁論大会での入賞]]など、多くの対外的な評価に繋がりました。
 
 ## メディア紹介
 - [[swift_student_challenge_2020|Swift Student Challenge 2020 受賞]]
@@ -57,3 +57,4 @@ Appleが2020年に開催した世界の学生向けプログラミングコン�
 - [[vitamin_mama_2020_09_01|ビタミンママ]]
 - [[gakuyu_2020_vol1_ssc_article|学友]]
 - [[nhk_numa_appearance_2021_05_18|NHK Eテレ『沼にハマってきいてみた』]]
+- [[apple|Apple Inc. (主催)]]

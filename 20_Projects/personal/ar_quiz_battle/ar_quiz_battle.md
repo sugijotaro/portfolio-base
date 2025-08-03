@@ -34,7 +34,7 @@ links:
 <img src="linked_assets/20_Projects/personal/ar_quiz_battle/ar_quiz_battle_icon.jpg" alt="部長とクイズバトル アイコン" style="float: right; width: 100px; margin-left: 16px;">
 ## 概要
 
-2019年の学園祭にて、私が部長を務めていた[[burachiribu_club_activity|地理部]]の企画として開発したARクイズアプリです。部で発行していた新聞「ブラチリブNEWS」の記事内容からクイズを出題。新聞にiPadをかざすとARで私自身が登場し、クイズを読み上げるという体験を提供しました。
+[[school_festival_2019|2019年の学園祭]]にて、私が部長を務めていた[[burachiribu_club_activity|地理部]]の企画として開発したARクイズアプリです。部で発行していた新聞「ブラチリブNEWS」の記事内容からクイズを出題。新聞にiPadをかざすとARで私自身が登場し、クイズを読み上げるという体験を提供しました。
 
 学園祭の来場者人気投票では、1500人以上を集客し、例年同じ団体が受賞していた歴史を塗り替えて1位を獲得することができました。
 
@@ -110,5 +110,7 @@ AppleのTestFlightを活用し、多くの友人にiPadでテストプレイを�
 > 正解した問題数に応じて、称号を獲得できます。
 > 全部の称号をコンプリートしよう！
 
-## メディア紹介
-- [[nhk_numa_appearance_2021_05_18|NHK Eテレ『沼にハマってきいてみた』]]（2021年5月18日放送）にて、本アプリが紹介されました。
+## 関連活動・メディア紹介
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
+- [[school_festival_2019|獅子児祭（学園祭）2019]]
+- [[nhk_numa_appearance_2021_05_18|NHK Eテレ『沼にハマってきいてみた』]]

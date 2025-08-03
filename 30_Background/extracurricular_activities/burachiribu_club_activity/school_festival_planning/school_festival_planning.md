@@ -9,7 +9,7 @@ role:
   - designer
   - developer
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2019-01-01
 end_date: 2020-10-31
 tags:
@@ -22,7 +22,7 @@ summary: 地理部「ブラチリブ」による学園祭での企画・展示�
 ---
 # 学園祭企画 概要
 
-地理部「ブラチリブ」では、毎年の学園祭で革新的な展示や企画を実施し、来場者や部員に新しい体験を提供してきました。
+[[burachiribu_club_activity|地理部「ブラチリブ」]]では、毎年の学園祭で革新的な展示や企画を実施し、来場者や部員に新しい体験を提供してきました。
 
 ## 2019年 学園祭 ARクイズアプリ「部長とクイズバトル」
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Su8X4bufqe4?si=2V2pMESUN8AA9HTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,7 +34,7 @@ summary: 地理部「ブラチリブ」による学園祭での企画・展示�
 - ![部長とクイズバトルプレイの様子](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_play_scene.jpg)
 - ![部長とクイズバトルをプレイするお客さんたち](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/school_festival_planning/school_festival_2019/quizbattle_customers.jpg)
 
-## 2020年 学園祭 オンライン展示「ブラチリブONLINE」
+## [[school_festival_2020|2020年 学園祭 オンライン展示「ブラチリブONLINE」]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b9x7msUaMrM?si=MMSh6sUG9GSB_jQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - コロナ禍で学園祭がオンライン開催となり、バーチャルSNS「cluster」を活用した3D空間での展示を企画・制作しました。
@@ -55,3 +55,8 @@ summary: 地理部「ブラチリブ」による学園祭での企画・展示�
 
 - 部員の特技や興味を生かして役割分担し、全員が主体的に参加できる体制を作りました。
 - 企画から実施まで一貫してリーダーシップを発揮し、全体をまとめ上げました。
+
+## 関連
+- [[school_festival_2019|2019年 獅子児祭企画（ARクイズ）]]
+- [[school_festival_2020|2020年 獅子児祭企画（オンライン展示）]]
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]

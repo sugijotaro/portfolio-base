@@ -51,3 +51,7 @@ summary: 15分ごとに区切られたマスに色を塗って勉強時間を記
     <img src="linked_assets/20_Projects/personal/habitan/habitan_ss_6.jpg" alt="Habitanスクリーンショット6" width="24%">
     <img src="linked_assets/20_Projects/personal/habitan/habitan_ss_7.jpg" alt="Habitanスクリーンショット7" width="24%">
 </div>
+
+## 受賞歴・関連活動
+- [[app_koshien_2020|アプリ甲子園2020 決勝進出]]
+- [[lit_school_cup_2020_09|Life is Tech! スクールカップ ゴールドアワード]]

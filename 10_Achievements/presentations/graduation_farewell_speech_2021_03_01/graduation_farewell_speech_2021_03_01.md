@@ -26,3 +26,4 @@ summary: 2020年度の高校3年生の卒業式にて、在校生を代表して
 ## 関連活動
 
 - [[setagaya_gakuen_speech_contest|校内創立記念弁論大会]]
+- [[setagaya_gakuen|世田谷学園中学校・高等学校]]

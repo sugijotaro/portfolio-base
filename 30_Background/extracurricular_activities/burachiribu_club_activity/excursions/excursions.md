@@ -7,7 +7,7 @@ role:
   - leader
   - planner
 orgs:
-  - setagaya_gakuen_geography_club
+  - burachiribu_club_activity
 start_date: 2016-04-01
 end_date: 2020-03-31
 tags:
@@ -21,7 +21,7 @@ summary: 地理部「ブラチリブ」における観光・巡検活動の全�
 ---
 # 観光・巡検活動 概要
 
-地理部「ブラチリブ」では、月1回の巡検や夏合宿など、実際に現地を訪れる体験型の活動を重視してきました。活動の主軸は、観光地への訪問、その記録をYouTubeや新聞で発信するなど、前例のないユニークな取り組みです。
+[[burachiribu_club_activity|地理部「ブラチリブ」]]では、月1回の巡検や夏合宿など、実際に現地を訪れる体験型の活動を重視してきました。活動の主軸は、観光地への訪問、その記録をYouTubeや新聞で発信するなど、前例のないユニークな取り組みです。
 
 ## 活動方針と特徴
 
@@ -112,8 +112,8 @@ summary: 地理部「ブラチリブ」における観光・巡検活動の全�
 - 浅草・東京スカイツリー（2020年1月）
   ![浅草 東京スカイツリー 2020年1月](linked_assets/30_Background/extracurricular_activities/burachiribu_club_activity/excursions/asakusa_skytree_202001.jpg)
 
-## 主要な巡検・合宿の詳細
-
+## 関連
+- [[burachiribu_club_activity|地理部（ブラチリブ）]]
 - [[burachiribu_summer_camp_2018|2018年夏合宿・京セラインタビュー]]
 - [[burachiribu_summer_camp_2019|2019年夏合宿・宮城松島]]
 

@@ -28,10 +28,10 @@ summary: 初めてのサンフランシスコ訪問。父の仕事に同行し�
 ## 活動ハイライト (時系列)
 
 - **9/28: サンフランシスコ到着とApple Store**
-  - 現地に到着後、早速ユニオンスクエアにあるApple Storeを訪問。
+  - 現地に到着後、早速ユニオンスクエアにある[[apple|Apple Store]]を訪問。
 
 - **9/29: シリコンバレー聖地巡礼**
-  - **スティーブ・ジョブズの家**: Swift Student Challengeの受賞ジャケットを着て、数々の伝説が生まれた場所を訪問。
+  - **スティーブ・ジョブズの家**: [[swift_student_challenge_2020|Swift Student Challenge]]の受賞ジャケットを着て、数々の伝説が生まれた場所を訪問。
     <img src="linked_assets/40_Personal_Growth/travels/san_francisco_trip_2022_09/steve_jobs_house_ssc_jacket.jpg" alt="ジョブズの家の前で" width="600">
     <img src="linked_assets/40_Personal_Growth/travels/san_francisco_trip_2022_09/steve_jobs_house_ssc_jacket_alt.jpg" alt="ジョブズの家の前で(別カット)" width="600">
   - **Apple Infinite Loop & Apple Park Visitor Center**: Appleの旧本社と新本社の両方を訪問。ビジターセンターでは、Apple ParkのAR体験が特に印象的だった。
@@ -79,3 +79,7 @@ summary: 初めてのサンフランシスコ訪問。父の仕事に同行し�
 スタートアップワールドカップの交流会では、同年代の現地の大学生たちがごく自然に自らの事業について語り、すでに出資を受けているケースも珍しくないことに大きな衝撃を受けました。彼らの姿を目の当たりにし、「起業」が自分にとっても現実的な選択肢であると強く意識するきっかけとなりました。
 
 この旅は、テクノロジーやスタートアップシーンの最前線を体感するだけでなく、アメリカ西海岸の文化やライフスタイルに直接触れる、非常に密度の濃い経験となりました。
+
+## 関連
+- [[apple|Apple]]
+- [[swift_student_challenge_2020|Apple Swift Student Challenge 2020]]

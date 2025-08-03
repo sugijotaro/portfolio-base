@@ -70,3 +70,7 @@ summary: 幼少期から家にある材料で様々なものを作ることが�
 <img src="linked_assets/40_Personal_Growth/self_learning/making_origin/ammeter_playing_20150719.jpg" alt="Ammeter playing (2015-07-19)" width="60%">
 
 このような原体験が、後のプログラミングやアプリ開発の土台となっています。
+
+## 関連
+- [[robot_programming_crefas|ロボットプログラミング教室 CREFAS]]
+- [[life_is_tech_activity|Life is Tech! でのものづくりと学び]]
