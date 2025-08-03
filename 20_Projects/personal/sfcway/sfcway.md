@@ -28,7 +28,7 @@ summary: |
 <img src="linked_assets/20_Projects/personal/sfcway/sfcway_icon.jpg" alt="SFCWay Icon" style="float: right; width: 100px; margin-left: 16px;">
 
 ## 概要
-慶應義塾大学SFCの学生が日常的に利用する「湘南台駅 ⇄ SFC」間のバス移動の課題を解決するために、企画からリリースまで全て一人で開発したiOSアプリです。
+[[keio_university_sfc|慶應義塾大学SFC]]の学生が日常的に利用する「湘南台駅 ⇄ SFC」間のバス移動の課題を解決するために、企画からリリースまで全て一人で開発したiOSアプリです。
 このプロジェクトは、[[life_is_tech|Life is Tech！]]のメンター育成研修「[[lit_leaders_program_2022|Leaders]]」の最終課題としての一面も持ち合わせています。
 
 ## 背景と課題
@@ -64,4 +64,4 @@ SFCへの通学は、多くの学生にとってバスが主要な交通手段�
 
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/20_Projects/personal/sfcway/sfcway_initial_concept.png" alt="SFCWay Initial Concept" width="100%">
-</div> 
+</div>
