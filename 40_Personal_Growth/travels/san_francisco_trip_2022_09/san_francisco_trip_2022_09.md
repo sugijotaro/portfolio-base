@@ -7,6 +7,19 @@ role:
   - participant
   - explorer
 orgs: []
+links:
+  - https://twitter.com/sugijotaro/status/1577352891727171584
+  - https://twitter.com/sugijotaro/status/1577228929533779968
+  - https://twitter.com/sugijotaro/status/1577225779095605249
+  - https://twitter.com/sugijotaro/status/1577214306055176192
+  - https://twitter.com/sugijotaro/status/1577206348332179456
+  - https://twitter.com/sugijotaro/status/1576829250052628483
+  - https://twitter.com/sugijotaro/status/1576541498543198209
+  - https://twitter.com/sugijotaro/status/1575970979016110080
+  - https://twitter.com/sugijotaro/status/1575955317053014016
+  - https://twitter.com/sugijotaro/status/1575955186396237824
+  - https://twitter.com/sugijotaro/status/1575954940769337344
+  - https://twitter.com/sugijotaro/status/1575954343525699584
 start_date: 2022-09-28
 end_date: 2022-10-04
 tags:
