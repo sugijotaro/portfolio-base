@@ -25,7 +25,7 @@ summary: "決勝直前に構成・台本・スライド・Q&A想定を指導。�
 画像:
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_app_koshien_presentation_coaching_2022_10/presentation_coaching_session_2022_10_30.jpg" alt="プレゼン指導風景（2022-10-30）" width="49%">
-    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_app_koshien_presentation_coaching_2022_10/app_koshien_final_pre_event_photo_2022_10_30.jpeg" alt="アプリ甲子園決勝前の写真（2022-10-30）" width="49%">
+    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_app_koshien_presentation_coaching_2022_10/app_koshien_final_pre_event_photo_2022_10_30.jpg" alt="アプリ甲子園決勝前の写真（2022-10-30）" width="49%">
 </div>
 
 

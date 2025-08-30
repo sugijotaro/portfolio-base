@@ -21,14 +21,18 @@ summary: "iPhoneアプリコースのメンターとして活動開始。担当�
 - アプリ甲子園決勝出場メンバーのプレゼンを継続改善し、評価1位を獲得
 
 活動概要:
-- 日曜日のスクールで継続運営（完全オフライン、2025年現在も継続）
-- 担当コース: iPhoneアプリプログラミング
+- 日曜日のスクールで継続的にメンターとして中高生に指導を行う（完全オフライン、2025年現在も継続）
+- 担当コース: iPhoneアプリプログラミングコース
 - 初回（2022-10-23）に担当メンバー2名と目標設定（台紙に学期目標を記入）
 
 関連:
-- [[life_is_tech_app_koshien_presentation_coaching_2022_10|2022年アプリ甲子園プレゼン指導（決勝前）]]の詳細は以下へ
+- アプリ甲子園プレゼン指導（決勝前）の詳細は[[life_is_tech_app_koshien_presentation_coaching_2022_10|こちら]]
 
 画像:
 <div style="display: flex; gap: 10px;">
-    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_school_mentor/first_day_with_students_goal_board_2022_10_23.jpeg" alt="第1回スクールでの目標記入（2022-10-23）" width="60%">
+    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_school_mentor/first_day_with_students_goal_board_2022_10_23.jpg" alt="第1回スクールでの目標記入（2022-10-23）" width="60%">
+</div>
+
+<div style="margin-top: 10px;">
+    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_school_mentor/santa_mentor_session_2022_12_18.jpg" alt="クリスマス時期にサンタの格好で指導（2022-12-18）" width="60%">
 </div>

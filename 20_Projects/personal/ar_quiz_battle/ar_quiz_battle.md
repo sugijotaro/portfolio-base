@@ -72,7 +72,7 @@ ARKitを使い、特定の画像（マーカー）を認識して動画を再生
 ### 3. 初心者でも楽しめるUXデザイン
 ARに馴染みのない方でも直感的に遊べるよう、丁寧なチュートリアル画面を用意しました。最初にブラチリブのロゴを探してもらい、それをマーカーとしてARを起動させることで、遊び方を感覚的に理解できるよう工夫しました。
 
-![チュートリアル画面](linked_assets/20_Projects/personal/ar_quiz_battle/tutorial_screenshot.jpeg)
+![チュートリアル画面](linked_assets/20_Projects/personal/ar_quiz_battle/tutorial_screenshot.jpg)
 
 ### 4. 徹底した品質改善
 AppleのTestFlightを活用し、多くの友人にiPadでテストプレイをしてもらいました。本番直前までバグ報告と修正を繰り返し、アプリの完成度を高めました。
