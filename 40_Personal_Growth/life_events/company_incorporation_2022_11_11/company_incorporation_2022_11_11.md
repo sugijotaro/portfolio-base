@@ -18,4 +18,4 @@ summary: "法人登記を完了し、起業の第一歩を踏み出した。"
 補足:
 - 社名: 株式会社インフィニティー（Infinity Inc）
 
-
+![](linked_assets/40_Personal_Growth/life_events/company_incorporation_2022_11_11/infinity_logo.jpg)
