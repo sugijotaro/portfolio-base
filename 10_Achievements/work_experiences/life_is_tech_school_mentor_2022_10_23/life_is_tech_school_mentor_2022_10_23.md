@@ -32,3 +32,7 @@ summary: "iPhoneアプリコースのメンターとして活動開始。担当�
 <div style="display: flex; gap: 10px;">
     <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_school_mentor/first_day_with_students_goal_board_2022_10_23.jpeg" alt="第1回スクールでの目標記入（2022-10-23）" width="60%">
 </div>
+
+<div style="margin-top: 10px;">
+    <img src="linked_assets/10_Achievements/work_experiences/life_is_tech_school_mentor_2022_10_23/santa_mentor_session_2022_12_18.jpeg" alt="クリスマス時期にサンタの格好で指導（2022-12-18）" width="60%">
+</div>
