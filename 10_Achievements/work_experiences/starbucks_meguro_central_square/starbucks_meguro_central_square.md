@@ -31,3 +31,10 @@ summary: 大学受験終了後の2022年2月から、スターバックスコー
 - 2022-12-10: コーヒーセミナーイベントのアシスタントを務める
 - 2022-12-19: 冬シーズン第2弾の黒板アートを制作（店内販促に寄与）
 - 2022-12: 従業員向けクリスマスプレゼント交換会を企画し、告知サイトおよびランダムマッチングの仕組みを開発・運用（関連: [[xmas_present_exchange_2022|Xmas Present Exchange 2022]]）
+
+## 画像
+焼き芋ブリュレフラペチーノの黒板アートがオファーリング掲示（2022-09-22）
+<img src="linked_assets/10_Achievements/work_experiences/starbucks_meguro_central_square/yakiimo_brulee_frappuccino_offering_display_2022_09_22.jpg" alt="焼き芋ブリュレフラペチーノのオファーリング掲示（2022-09-22）" width="70%">
+
+バターキャラメルミルフィーユフラペチーノの黒板アートがオファーリング掲示（2022-11-30）
+<img src="linked_assets/10_Achievements/work_experiences/starbucks_meguro_central_square/butter_caramel_millefeuille_frappuccino_offering_display_2022_11_30.jpg" alt="バターキャラメルミルフィーユフラペチーノのオファーリング掲示（2022-11-30）" width="70%">
